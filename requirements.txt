@@ -1,0 +1,15 @@
+# Cinematic Explainer Studio: Python Dependencies
+# High-Retention 4K Faceless YouTube Video Pipeline
+
+edge-tts>=6.1.12
+openai-whisper>=20231117
+rembg>=2.0.50
+opencv-python>=4.9.0.80
+Pillow>=10.2.0
+numpy>=1.26.0
+tqdm>=4.66.0
+torch>=2.1.0
+torchaudio>=2.1.0
+requests>=2.31.0
+pydantic>=2.6.0
+rich>=13.7.0

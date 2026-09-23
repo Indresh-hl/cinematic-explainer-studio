@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Clock & Awake Stare",
+    "start": 0,
+    "end": 17,
+    "key": true,
+    "items": 0
+  },
+  {
+    "name": "Slide Projector Archive",
+    "start": 17,
+    "end": 26,
+    "key": true,
+    "items": 0
+  },
+  {
+    "name": "3 Cringe Memories List",
+    "start": 26,
+    "end": 40,
+    "key": false,
+    "items": 3
+  },
+  {
+    "name": "Visceral Cringe & Pillow",
+    "start": 40,
+    "end": 54,
+    "key": true,
+    "items": 0
+  },
+  {
+    "name": "Midnight Film Festival",
+    "start": 54,
+    "end": 70,
+    "key": true,
+    "items": 0
+  },
+  {
+    "name": "Survival Simulation",
+    "start": 70,
+    "end": 80,
+    "key": true,
+    "items": 0
+  }
+]

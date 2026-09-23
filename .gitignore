@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.venv/
+venv/
+ENV/
+
+# Heavy Video Renders (> 25MB)
+*.mp4
+*.webm
+*.mkv
+*.avi
+*.mov
+*.m4v
+renders/
+act1_preview.mp4
+
+# Audio files & temporary speech chunks
+*.mp3
+*.wav
+*.m4a
+*.aac
+script/audio/*.mp3
+script/audio/temp_chunks/
+assets/full_master_audio.*
+assets/final_timeline_audio.*
+assets/*.mp3
+
+# Heavy Image Datasets & Cutouts (> 500MB)
+# (Generated automatically by pipeline/run_batch_upscale_4k.py and pipeline/extract_cutouts_rembg.py)
+assets/images/4k/
+assets/images/raw/
+assets/images/cleaned/
+assets/images/raw_upscaled/
+assets/cutouts/
+
+# Binary Models, DLLs, Archives & Executables
+*.bin
+*.param
+*.dll
+*.zip
+*.tar.gz
+tools/realesrgan/
+tools/realesrgan-windows.zip
+assets/models/
+assets/images/download.zip
+snapshots/
+
+# Node & HyperFrames
+node_modules/
+.cache/
+.hyperframes/
+
+# Keep configs, manifests, json timelines, fonts, and verification frames
+!assets/*.json
+!assets/fonts/
+!assets/verification_frames/
+!assets/sampled_frame_*.jpg
+!assets/act1_verify_*.jpg
+
+# OS & Logs
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,855 @@
+1
+00:00:00,000 --> 00:00:01,780
+It is 2.14 in the morning.
+
+2
+00:00:02,740 --> 00:00:04,500
+Your room is completely silent.
+
+3
+00:00:05,440 --> 00:00:07,480
+Your body is physically exhausted.
+
+4
+00:00:08,520 --> 00:00:10,380
+Every single problem from your waking
+
+5
+00:00:10,380 --> 00:00:11,900
+day has finally vanished.
+
+6
+00:00:12,740 --> 00:00:14,400
+And then, without warning,
+
+7
+00:00:14,820 --> 00:00:16,100
+your brain pulls an old,
+
+8
+00:00:16,480 --> 00:00:18,080
+dusty real out of the archives.
+
+9
+00:00:19,080 --> 00:00:21,580
+That awkward sentence you muttered in middle school.
+
+10
+00:00:22,180 --> 00:00:24,100
+The high five you accidentally offered
+
+11
+00:00:24,100 --> 00:00:25,340
+to someone who was going for
+
+12
+00:00:25,340 --> 00:00:25,960
+a fist bump.
+
+13
+00:00:26,620 --> 00:00:29,060
+Or that presentation four years ago
+
+14
+00:00:29,060 --> 00:00:30,060
+where your voice cracked,
+
+15
+00:00:30,460 --> 00:00:32,800
+and you completely forgot your own boss's name.
+
+16
+00:00:33,460 --> 00:00:35,180
+Instantly, your stomach drops.
+
+17
+00:00:36,420 --> 00:00:38,300
+Your face feels burning hot against
+
+18
+00:00:38,300 --> 00:00:39,120
+the cold pillow.
+
+19
+00:00:40,200 --> 00:00:41,800
+You physically grimace in the dark,
+
+20
+00:00:42,280 --> 00:00:43,560
+curling into a ball as if
+
+21
+00:00:43,560 --> 00:00:47,440
+the humiliation happened 30 seconds ago. Why now?
+
+22
+00:00:48,420 --> 00:00:50,000
+Why did your brain decide that
+
+23
+00:00:50,000 --> 00:00:51,140
+2 o 'clock in the morning,
+
+24
+00:00:51,520 --> 00:00:53,020
+the exact moment you need sleep
+
+25
+00:00:53,020 --> 00:00:54,480
+more than anything on earth,
+
+26
+00:00:54,480 --> 00:00:56,140
+was the perfect time to host
+
+27
+00:00:56,140 --> 00:00:58,660
+a film festival of your greatest personal failures.
+
+28
+00:00:59,640 --> 00:01:01,940
+Most people assume this nocturnal torture
+
+29
+00:01:01,940 --> 00:01:03,000
+is a cruel glitch.
+
+30
+00:01:04,040 --> 00:01:06,420
+A biological flaw in human design.
+
+31
+00:01:07,380 --> 00:01:10,800
+But modern neuroscience reveals something far more fascinating.
+
+32
+00:01:11,780 --> 00:01:13,940
+Your brain isn't trying to punish you.
+
+33
+00:01:14,700 --> 00:01:15,940
+It's running an ancient,
+
+34
+00:01:16,300 --> 00:01:18,080
+life or death survival simulation.
+
+35
+00:01:18,920 --> 00:01:20,820
+To understand why the cringe strikes
+
+36
+00:01:20,820 --> 00:01:22,440
+at night, you first have to
+
+37
+00:01:22,440 --> 00:01:23,980
+look at what happens during the day.
+
+38
+00:01:24,860 --> 00:01:26,560
+From the moment your alarm rings,
+
+39
+00:01:26,920 --> 00:01:28,620
+your brain is under an unrelenting
+
+40
+00:01:28,620 --> 00:01:30,400
+siege of external stimulation.
+
+41
+00:01:31,140 --> 00:01:32,360
+While you are working,
+
+42
+00:01:32,820 --> 00:01:34,960
+conversing, driving, or scrolling,
+
+43
+00:01:35,380 --> 00:01:37,100
+a massive neural circuit called the
+
+44
+00:01:37,100 --> 00:01:39,160
+task positive network is running the show.
+
+45
+00:01:40,020 --> 00:01:42,320
+Its job is simple, look outward.
+
+46
+00:01:43,320 --> 00:01:45,840
+Direct all cognitive energy toward immediate,
+
+47
+00:01:46,260 --> 00:01:48,540
+real world problems in your physical environment.
+
+48
+00:01:49,260 --> 00:01:50,660
+But when you turn off the
+
+49
+00:01:50,660 --> 00:01:52,520
+bedside lamp and lock your phone,
+
+50
+00:01:52,840 --> 00:01:55,840
+that external sensory input drops to absolute zero.
+
+51
+00:01:56,700 --> 00:01:58,060
+There are no notifications,
+
+52
+00:01:58,900 --> 00:02:01,780
+no emails, no ambient conversations.
+
+53
+00:02:02,540 --> 00:02:05,260
+And the human brain despises a vacuum.
+
+54
+00:02:06,260 --> 00:02:08,380
+In the silence, a dormant system
+
+55
+00:02:08,380 --> 00:02:10,840
+takes the wheel, the default mode network.
+
+56
+00:02:11,820 --> 00:02:14,940
+First discovered by neuroscientists in 2001,
+
+57
+00:02:15,420 --> 00:02:18,040
+the DMN is your brain's internal search engine.
+
+58
+00:02:18,580 --> 00:02:20,800
+It is responsible for daydreaming,
+
+59
+00:02:21,220 --> 00:02:23,680
+self -reflection, autobiographical memory,
+
+60
+00:02:24,160 --> 00:02:25,800
+and replaying past experiences.
+
+61
+00:02:26,840 --> 00:02:28,720
+But here is the critical problem.
+
+62
+00:02:29,600 --> 00:02:30,840
+Between 1 a.m.
+
+63
+00:02:30,960 --> 00:02:32,140
+and 4 a.m.,
+
+64
+00:02:32,140 --> 00:02:34,360
+your brain experiences a phenomenon known
+
+65
+00:02:34,360 --> 00:02:36,700
+as transient nocturnal hypophrontality.
+
+66
+00:02:36,700 --> 00:02:39,680
+Your prefrontal cortex, the rational,
+
+67
+00:02:40,040 --> 00:02:41,820
+mature CEO of your mind that
+
+68
+00:02:41,820 --> 00:02:43,920
+contextualizes events and tells you,
+
+69
+00:02:44,180 --> 00:02:45,940
+calm down, that was 4 years
+
+70
+00:02:45,940 --> 00:02:48,940
+ago, powers down to conserve glucose for sleep.
+
+71
+00:02:49,740 --> 00:02:52,840
+Meanwhile, your amygdala, the primitive emotional
+
+72
+00:02:52,840 --> 00:02:55,280
+smoke detector, stays wide awake.
+
+73
+00:02:55,940 --> 00:02:58,000
+The security guard has left the post.
+
+74
+00:02:58,680 --> 00:02:59,860
+The bouncer is asleep.
+
+75
+00:02:59,860 --> 00:03:02,280
+And without executive logic there to
+
+76
+00:03:02,280 --> 00:03:04,480
+moderate the signal, a minor awkward
+
+77
+00:03:04,480 --> 00:03:06,120
+remark from half a decade ago
+
+78
+00:03:06,120 --> 00:03:08,120
+is processed not as ancient history,
+
+79
+00:03:08,500 --> 00:03:09,300
+but as an active,
+
+80
+00:03:09,740 --> 00:03:10,720
+5 alarm emergency.
+
+81
+00:03:11,820 --> 00:03:13,260
+But why does the brain choose
+
+82
+00:03:13,260 --> 00:03:14,980
+embarrassing memories specifically?
+
+83
+00:03:16,020 --> 00:03:17,740
+Why doesn't your default mode network
+
+84
+00:03:17,740 --> 00:03:19,180
+wake you up at 2 a .m.
+
+85
+00:03:19,340 --> 00:03:20,600
+to replay that time you gave
+
+86
+00:03:20,600 --> 00:03:22,760
+an incredible compliment, or passed an
+
+87
+00:03:22,760 --> 00:03:23,940
+exam with flying colors?
+
+88
+00:03:25,300 --> 00:03:27,540
+Because for 99 % of human
+
+89
+00:03:27,540 --> 00:03:30,860
+evolution, social belonging was not about politeness.
+
+90
+00:03:31,380 --> 00:03:33,620
+It was the difference between life and death.
+
+91
+00:03:34,260 --> 00:03:36,620
+Our ancestors survived in nomadic bands
+
+92
+00:03:36,620 --> 00:03:38,720
+of 50 to 150 people.
+
+93
+00:03:39,620 --> 00:03:40,900
+In that harsh world,
+
+94
+00:03:41,180 --> 00:03:43,880
+being rejected, ostracized, or cast out
+
+95
+00:03:43,880 --> 00:03:45,760
+of the tribe was a literal death sentence.
+
+96
+00:03:46,700 --> 00:03:48,380
+A physical wound could heal.
+
+97
+00:03:49,240 --> 00:03:51,580
+But social banishment meant you starved,
+
+98
+00:03:51,820 --> 00:03:54,080
+froze, or were hunted alone in the dark.
+
+99
+00:03:55,160 --> 00:03:58,620
+In 2003, landmark neuroimaging research at
+
+100
+00:03:58,620 --> 00:04:00,600
+UCLA proved something shocking,
+
+101
+00:04:01,060 --> 00:04:03,340
+social exclusion and physical agony light
+
+102
+00:04:03,340 --> 00:04:04,960
+up the exact same neural pain
+
+103
+00:04:04,960 --> 00:04:06,200
+pathways in your brain.
+
+104
+00:04:07,300 --> 00:04:09,780
+Your dorsal anterior singular cortex does
+
+105
+00:04:09,780 --> 00:04:11,320
+not know the difference between a
+
+106
+00:04:11,320 --> 00:04:13,200
+broken leg and public humiliation.
+
+107
+00:04:13,860 --> 00:04:16,100
+It hurts the same because evolution
+
+108
+00:04:16,100 --> 00:04:17,100
+needed it to hurt.
+
+109
+00:04:18,200 --> 00:04:19,240
+To keep you alive,
+
+110
+00:04:19,700 --> 00:04:21,560
+natural selection turns your brain into
+
+111
+00:04:21,560 --> 00:04:23,540
+a hypervigilant threat -caching machine.
+
+112
+00:04:24,100 --> 00:04:26,040
+When you commit a social blunder,
+
+113
+00:04:26,440 --> 00:04:28,460
+you're subconscious flags that memory as
+
+114
+00:04:28,460 --> 00:04:30,500
+a near fatal brush with tribal exile.
+
+115
+00:04:31,020 --> 00:04:34,100
+It stores it under maximum priority, replay this.
+
+116
+00:04:34,740 --> 00:04:37,460
+Memorize this. Never do this again,
+
+117
+00:04:37,840 --> 00:04:39,380
+or we will be abandoned in the cold.
+
+118
+00:04:40,060 --> 00:04:42,260
+Your modern brain is running Stone
+
+119
+00:04:42,260 --> 00:04:43,560
+Age operating software.
+
+120
+00:04:44,180 --> 00:04:46,980
+It cannot comprehend that accidentally waving
+
+121
+00:04:46,980 --> 00:04:48,280
+at a stranger in a coffee
+
+122
+00:04:48,280 --> 00:04:50,380
+shop won't get you banished into the wilderness.
+
+123
+00:04:51,260 --> 00:04:52,880
+But here is the grand cognitive
+
+124
+00:04:52,880 --> 00:04:55,140
+illusion that makes nocturnal cringe so
+
+125
+00:04:55,140 --> 00:04:57,260
+excruciating, the spotlight effect.
+
+126
+00:04:57,980 --> 00:04:59,620
+In the year 2000,
+
+127
+00:05:00,040 --> 00:05:02,500
+legendary psychologist Thomas Gilevich and his
+
+128
+00:05:02,500 --> 00:05:04,060
+team at Cornell ran a series
+
+129
+00:05:04,060 --> 00:05:05,740
+of landmark social experiments.
+
+130
+00:05:06,480 --> 00:05:08,400
+They had participants put on an
+
+131
+00:05:08,400 --> 00:05:10,220
+intentionally embarrassing t -shirt,
+
+132
+00:05:10,700 --> 00:05:12,360
+featuring a giant face of singer
+
+133
+00:05:12,360 --> 00:05:14,400
+Barry Manolo, and walk into a
+
+134
+00:05:14,400 --> 00:05:15,760
+crowded room of their peers.
+
+135
+00:05:16,700 --> 00:05:18,440
+The wearers estimated that at least
+
+136
+00:05:18,440 --> 00:05:20,160
+50 % of the room noticed
+
+137
+00:05:20,160 --> 00:05:21,380
+their humiliating shirt.
+
+138
+00:05:22,060 --> 00:05:25,280
+The actual number, barely 23%.
+
+139
+00:05:25,280 --> 00:05:27,360
+Let's prove this right now with
+
+140
+00:05:27,360 --> 00:05:28,660
+a 5 -second test.
+
+141
+00:05:29,550 --> 00:05:31,280
+Try to remember the single most
+
+142
+00:05:31,280 --> 00:05:32,820
+embarrassing thing a coworker,
+
+143
+00:05:33,060 --> 00:05:35,660
+friend, or classmate did two years ago.
+
+144
+00:05:36,260 --> 00:05:39,940
+Think of one specific blunder. Go ahead.
+
+145
+00:05:40,780 --> 00:05:42,640
+I'll give you five full seconds.
+
+146
+00:05:48,300 --> 00:05:50,260
+You struggled, didn't you?
+
+147
+00:05:51,120 --> 00:05:53,180
+You might vaguely remember someone laughing,
+
+148
+00:05:53,560 --> 00:05:54,500
+or a minor spill.
+
+149
+00:05:55,400 --> 00:05:57,500
+But you almost certainly cannot remember
+
+150
+00:05:57,500 --> 00:05:59,280
+the exact words they stammered,
+
+151
+00:05:59,500 --> 00:06:00,940
+the exact pitch of their voice,
+
+152
+00:06:01,340 --> 00:06:02,680
+or the panic in their eyes.
+
+153
+00:06:03,640 --> 00:06:05,400
+You don't remember their cringe because
+
+154
+00:06:05,400 --> 00:06:07,280
+you were far too busy obsessing
+
+155
+00:06:07,280 --> 00:06:08,000
+over your own.
+
+156
+00:06:08,560 --> 00:06:10,160
+Every single person you have ever
+
+157
+00:06:10,160 --> 00:06:12,060
+met is trapped inside the protagonist
+
+158
+00:06:12,060 --> 00:06:13,520
+drama of their own life.
+
+159
+00:06:14,520 --> 00:06:16,000
+Nobody is keeping a permanent,
+
+160
+00:06:16,440 --> 00:06:18,300
+forensic ledger of your awkward moments.
+
+161
+00:06:19,060 --> 00:06:21,360
+The burning spotlight you feel following
+
+162
+00:06:21,360 --> 00:06:22,460
+you in the dark is an
+
+163
+00:06:22,460 --> 00:06:25,380
+optical illusion created entirely by your own mind.
+
+164
+00:06:26,200 --> 00:06:27,860
+So when the projector fires up
+
+165
+00:06:27,860 --> 00:06:30,120
+tonight, how do you actually shut it down?
+
+166
+00:06:31,280 --> 00:06:33,720
+Step number one, stop fighting the memory.
+
+167
+00:06:34,620 --> 00:06:37,080
+In cognitive psychology, this is known
+
+168
+00:06:37,080 --> 00:06:39,500
+as Daniel Wagner's ironic process theory.
+
+169
+00:06:40,280 --> 00:06:42,140
+When you forcefully order your brain
+
+170
+00:06:42,140 --> 00:06:43,480
+at 2 a.m.,
+
+171
+00:06:43,480 --> 00:06:44,640
+stop thinking about this,
+
+172
+00:06:45,020 --> 00:06:46,660
+go to sleep, your brain has
+
+173
+00:06:46,660 --> 00:06:48,280
+to constantly scan your unconscious mind.
+
+174
+00:06:48,280 --> 00:06:50,860
+To verify that you aren't thinking about it.
+
+175
+00:06:51,480 --> 00:06:52,860
+By trying to suppress the white
+
+176
+00:06:52,860 --> 00:06:54,260
+bear, you summon it.
+
+177
+00:06:55,320 --> 00:06:57,480
+Step number two, close the file.
+
+178
+00:06:58,580 --> 00:07:00,020
+Remember the zygonic effect,
+
+179
+00:07:00,540 --> 00:07:03,460
+your subconscious loops memories because they feel unresolved.
+
+180
+00:07:04,920 --> 00:07:06,420
+Instead of tensing your muscles,
+
+181
+00:07:06,820 --> 00:07:08,500
+acknowledge the thought without judgment.
+
+182
+00:07:09,620 --> 00:07:10,620
+Whisper it out loud,
+
+183
+00:07:11,020 --> 00:07:12,560
+or write two sentences on a
+
+184
+00:07:12,560 --> 00:07:15,020
+bedside notebook, yes, that happened.
+
+185
+00:07:15,020 --> 00:07:16,520
+It was awkward.
+
+186
+00:07:17,100 --> 00:07:18,280
+I learned from it.
+
+187
+00:07:18,800 --> 00:07:20,040
+The file is closed.
+
+188
+00:07:21,300 --> 00:07:23,160
+Externalizing the memory signals to your
+
+189
+00:07:23,160 --> 00:07:24,840
+hippocampus that the lesson has been
+
+190
+00:07:24,840 --> 00:07:27,380
+recorded, allowing the threat alarm to disarm.
+
+191
+00:07:27,940 --> 00:07:31,420
+But finally, understand what that cringe truly represents.
+
+192
+00:07:32,640 --> 00:07:34,480
+You can only feel embarrassment toward
+
+193
+00:07:34,480 --> 00:07:36,260
+your past self because your empathy,
+
+194
+00:07:36,660 --> 00:07:39,540
+your taste, and your social intelligence have matured.
+
+195
+00:07:40,140 --> 00:07:41,620
+If you could look back at
+
+196
+00:07:41,620 --> 00:07:42,380
+who you were three,
+
+197
+00:07:42,780 --> 00:07:44,800
+five, or ten years ago and
+
+198
+00:07:44,800 --> 00:07:47,120
+feel zero discomfort, that wouldn't mean
+
+199
+00:07:47,120 --> 00:07:47,820
+you were flawless.
+
+200
+00:07:48,620 --> 00:07:50,480
+It would mean you haven't grown at all.
+
+201
+00:07:51,880 --> 00:07:53,340
+The cringe is not proof that
+
+202
+00:07:53,340 --> 00:07:53,960
+you are flawed.
+
+203
+00:07:54,900 --> 00:07:56,860
+It is biological proof that you
+
+204
+00:07:56,860 --> 00:07:58,680
+are wiser today than you were yesterday.
+
+205
+00:07:59,620 --> 00:08:01,120
+So the next time your brain
+
+206
+00:08:01,120 --> 00:08:03,020
+queues up an involuntary rear -run
+
+207
+00:08:03,020 --> 00:08:04,100
+at 2 o 'clock in the
+
+208
+00:08:04,100 --> 00:08:05,340
+morning, don't panic.
+
+209
+00:08:06,360 --> 00:08:09,100
+Smile, thank you prehistoric survival engine
+
+210
+00:08:09,100 --> 00:08:11,340
+for trying to protect you from the sabertooths.
+
+211
+00:08:12,280 --> 00:08:15,740
+And tell it to go to sleep. I'm ISYY.
+
+212
+00:08:16,880 --> 00:08:18,700
+Subscribe, and I'll see you this
+
+213
+00:08:18,700 --> 00:08:20,840
+Monday for the real psychological reason
+
+214
+00:08:20,840 --> 00:08:22,240
+your brain procrastinates.

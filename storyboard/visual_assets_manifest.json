@@ -1,0 +1,155 @@
+{
+  "project": "Isy why - Video 01: Why Your Brain Replays Embarrassing Memories at 2 AM",
+  "version": "1.0.0",
+  "canvas": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 60,
+    "aspectRatio": "16:9"
+  },
+  "colorPalette": {
+    "backgroundObsidian": "#08090C",
+    "surfaceSlate": "#14171F",
+    "surfaceBorder": "#252B3B",
+    "textPrimaryWhite": "#F8FAFC",
+    "textSecondaryMuted": "#94A3B8",
+    "projectorAmber": "#FFB703",
+    "biosensorCyan": "#06B6D4",
+    "threatCrimson": "#E63946",
+    "growthGold": "#E0A96D",
+    "bedroomIndigo": "#0F172A"
+  },
+  "typography": {
+    "titleFont": {
+      "family": "Anton, sans-serif",
+      "weights": ["400"],
+      "usage": "Massive kinetic titles, impact questions ('WHY NOW?', 'THE 5-SECOND TEST')"
+    },
+    "hudDataFont": {
+      "family": "Space Mono, monospace",
+      "weights": ["400", "700"],
+      "usage": "Timestamps, digital clock ('02:14 AM'), countdown timers, HUD percentage telemetry"
+    },
+    "bodySubtitleFont": {
+      "family": "Inter, sans-serif",
+      "weights": ["400", "500", "600"],
+      "usage": "Subtitles, explanatory labels, scientific terminology callouts"
+    }
+  },
+  "audioSoundtrack": {
+    "ambientBed": "cinematic_drone_sub_bass_nocturnal_432hz.wav",
+    "emotionalClimax": "warm_reflective_acoustic_piano_and_strings_growth.wav",
+    "soundEffects": [
+      {
+        "id": "SFX_CLOCK_TICK_HEAVY",
+        "description": "Deep mechanical clock tick in empty room",
+        "timestamp": "0:00",
+        "loudnessDb": -14
+      },
+      {
+        "id": "SFX_PROJECTOR_SLIDE_CLACK",
+        "description": "Vintage Kodak Carousel 35mm mechanical slide change",
+        "timestamp": "0:17",
+        "loudnessDb": -6
+      },
+      {
+        "id": "SFX_HEARTBEAT_MUFFLED_PULSE",
+        "description": "Low-pass filtered physiological heartbeat spike",
+        "timestamp": "0:40",
+        "loudnessDb": -8
+      },
+      {
+        "id": "SFX_SUB_BOOM_IMPACT",
+        "description": "Cinematic trailer 30Hz sub-bass impact with electrical spark",
+        "timestamp": "0:54",
+        "loudnessDb": -4
+      },
+      {
+        "id": "SFX_TAPE_STOP_SHUTDOWN",
+        "description": "Analog pitch-drop tape-stop slowing to silence",
+        "timestamp": "2:05",
+        "loudnessDb": -9
+      },
+      {
+        "id": "SFX_CELLO_BOW_RESONANT",
+        "description": "Deep resonant low C solo cello stroke for DMN activation",
+        "timestamp": "2:22",
+        "loudnessDb": -10
+      },
+      {
+        "id": "SFX_ARCTIC_WIND_CAMPFIRE",
+        "description": "Prehistoric Pleistocene wind howl with crackling fire embers",
+        "timestamp": "3:30",
+        "loudnessDb": -16
+      },
+      {
+        "id": "SFX_PREDATOR_GROWL_DISTANT",
+        "description": "Subtle deep guttural predator breath in darkness",
+        "timestamp": "3:50",
+        "loudnessDb": -12
+      },
+      {
+        "id": "SFX_FMRI_MEDICAL_MONITOR",
+        "description": "High-tech forensic medical scanner lock tone",
+        "timestamp": "4:12",
+        "loudnessDb": -14
+      },
+      {
+        "id": "SFX_COUNTDOWN_TICK_LOUD",
+        "description": "Crisp isolated studio mechanical timer tick (1Hz)",
+        "timestamp": "5:58",
+        "loudnessDb": -7
+      },
+      {
+        "id": "SFX_MICROWAVE_BELL_DING",
+        "description": "Crisp high-frequency completion bell tone",
+        "timestamp": "6:22",
+        "loudnessDb": -8
+      },
+      {
+        "id": "SFX_RUBBER_STAMP_THWACK",
+        "description": "Heavy wooden/brass rubber stamp hitting paper dossier",
+        "timestamp": "7:42",
+        "loudnessDb": -5
+      },
+      {
+        "id": "SFX_PROJECTOR_TOGGLE_OFF",
+        "description": "Heavy industrial metal toggle switch click followed by fan wind-down",
+        "timestamp": "8:32",
+        "loudnessDb": -6
+      }
+    ]
+  },
+  "graphicPropsInventory": [
+    {
+      "name": "Digital Chrono HUD",
+      "type": "vector_animation",
+      "fileReference": "assets/props/chrono_clock_0214.svg"
+    },
+    {
+      "name": "Vintage 35mm Slide Projector (Kodak Style)",
+      "type": "isometric_illustration",
+      "fileReference": "assets/props/vintage_slide_projector.svg"
+    },
+    {
+      "name": "3D Neurological Brain Wireframe",
+      "type": "threejs_mesh_or_vector_layer",
+      "fileReference": "assets/props/brain_wireframe_schematic.json"
+    },
+    {
+      "name": "Theatrical 10,000W Spotlight Cone",
+      "type": "webgl_shader_cone",
+      "fileReference": "assets/shaders/spotlight_cone.frag"
+    },
+    {
+      "name": "Barry Manilow Cornell T-Shirt Avatar",
+      "type": "paper_cutout_collage",
+      "fileReference": "assets/props/cornell_tshirt_experiment.svg"
+    },
+    {
+      "name": "Heavy Dossier Manila Folder with Resolved Stamp",
+      "type": "textured_cutout",
+      "fileReference": "assets/props/resolved_dossier_stamp.svg"
+    }
+  ]
+}

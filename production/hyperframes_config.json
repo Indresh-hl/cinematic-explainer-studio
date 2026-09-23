@@ -1,0 +1,58 @@
+{
+  "projectTitle": "Why Your Brain Replays Embarrassing Memories at 2 AM",
+  "channelHandle": "@isy019",
+  "engine": "hyperframes-gsap",
+  "renderProfile": {
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "frameRate": 60,
+    "colorSpace": "sRGB",
+    "videoCodec": "libx264",
+    "crf": 17,
+    "audioCodec": "aac",
+    "audioBitrate": "320k"
+  },
+  "animationArchitecture": {
+    "defaultEasing": {
+      "entry": "expo.out",
+      "exit": "power4.in",
+      "ambient": "sine.inOut",
+      "bounceImpact": "back.out(1.7)"
+    },
+    "layerDepthSeparation": {
+      "layer0BackgroundZ": -200,
+      "layer1MidgroundZ": 0,
+      "layer2ForegroundZ": 150,
+      "layer3HudZ": 300
+    },
+    "filmPostProcessing": {
+      "enable35mmGrain": true,
+      "grainIntensity": 0.045,
+      "enableVignette": true,
+      "vignetteStrength": 0.35,
+      "bloomGlowRadius": 8,
+      "bloomThreshold": 0.75
+    }
+  },
+  "sceneTransitions": {
+    "scene01To02": "cross-dissolve",
+    "scene02To03": "hard-snap-cut",
+    "scene03To04": "projector-gate-flash",
+    "scene06To07": "domain-warp",
+    "scene09To10": "power-down-fade",
+    "scene13To14": "smoke-dissolve",
+    "scene17To18": "projector-flash",
+    "scene20To21": "microwave-ding-wipe",
+    "scene25To26": "majestic-push",
+    "scene27To28": "peaceful-fade-black"
+  },
+  "subCompositionRoutes": {
+    "digitalChrono": "components/digital_chrono.html",
+    "slideProjector": "components/slide_projector.html",
+    "brainNetworkDmn": "components/brain_dmn_wireframe.html",
+    "countdownTimer5s": "components/countdown_5s.html",
+    "resolvedStamp": "components/resolved_stamp.html"
+  }
+}

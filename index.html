@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <title>Isy why - Why Your Brain Replays Embarrassing Memories at 2 AM (Act 1)</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;600;700;800&family=Space+Mono:wght@700&display=swap"
+      rel="stylesheet"
+    />
+    <!-- GSAP CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- Composition Root -->
+    <div
+      id="root"
+      data-composition-id="main"
+      data-start="0"
+      data-width="1920"
+      data-height="1080"
+      data-duration="80.04"
+    >
+      <!-- Master Audio Track (Voiceover) -->
+      <audio
+        id="act1-narration"
+        src="script/audio/act1_voiceover.mp3"
+        data-start="0"
+        data-duration="80.04"
+        data-track-index="10"
+        data-volume="1"
+      ></audio>
+
+      <!-- =================================================================== -->
+      <!-- SCENE 01: HERO IN BED AT 2:14 AM (0.0s – 17.5s)                     -->
+      <!-- =================================================================== -->
+      <section id="scene-01" class="clip" data-start="0" data-duration="17.5" data-track-index="1">
+        <div class="image-wrapper">
+          <img src="assets/images/shot1_hero_in_bed.jpg" class="scene-img" id="img-01" alt="Hero in Bed" />
+          <div class="graphic-overlay" id="overlay-01">
+            <div class="hud-pill" id="hud-clock-pill">
+              <span class="hud-dot">●</span> 02:14 AM // SYSTEM IDLE
+            </div>
+            <div class="floating-words" id="floating-words">
+              <span class="word-tag">SILENT</span>
+              <span class="word-tag">EXHAUSTED</span>
+              <span class="word-tag">PEACEFUL</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- =================================================================== -->
+      <!-- SCENE 02: THE SLIDE PROJECTOR CRINGE REEL (17.5s – 40.0s)           -->
+      <!-- =================================================================== -->
+      <section id="scene-02" class="clip" data-start="17.5" data-duration="22.5" data-track-index="1">
+        <div class="image-wrapper">
+          <img src="assets/images/shot2_slide_projector.jpg" class="scene-img" id="img-02" alt="Slide Projector" />
+          <div class="graphic-overlay" id="overlay-02">
+            <div class="archive-stamp" id="archive-stamp">
+              <span class="stamp-icon">⚠️</span> [ MEMORY ARCHIVE: UNLOCKED ]
+            </div>
+            <div class="protocol-badge" id="protocol-badge">
+              SOCIAL BLUNDER PROTOCOL // REPLAYING
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- =================================================================== -->
+      <!-- SCENE 03: THE VISCERAL CRINGE REACTION (40.0s – 54.0s)              -->
+      <!-- =================================================================== -->
+      <section id="scene-03" class="clip" data-start="40.0" data-duration="14.0" data-track-index="1">
+        <div class="image-wrapper">
+          <img src="assets/images/shot3_hero_cringing.jpg" class="scene-img" id="img-03" alt="Hero Cringing" />
+          <div class="graphic-overlay" id="overlay-03">
+            <div class="cardiac-pill" id="cardiac-pill">
+              <span class="heart-pulse">♥</span> 114 BPM ▲ // ACUTE SHAME SPIKE
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- =================================================================== -->
+      <!-- SCENE 04: THE MIDNIGHT CINEMA OF FAILURES (54.0s – 70.0s)           -->
+      <!-- =================================================================== -->
+      <section id="scene-04" class="clip" data-start="54.0" data-duration="16.0" data-track-index="1">
+        <div class="image-wrapper">
+          <img src="assets/images/shot4_hero_cinema.jpg" class="scene-img" id="img-04" alt="Hero in Cinema" />
+          <div class="graphic-overlay" id="overlay-04">
+            <div class="cinema-ticket" id="cinema-ticket">
+              <span class="ticket-header">NOW SCREENING</span>
+              <span class="ticket-title">FORCED MIDNIGHT MARATHON</span>
+              <span class="ticket-time">02:00 AM • ADMISSION: MANDATORY</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- =================================================================== -->
+      <!-- SCENE 05: THE ANCIENT SURVIVAL SIMULATION (70.0s – 80.04s)          -->
+      <!-- =================================================================== -->
+      <section id="scene-05" class="clip" data-start="70.0" data-duration="10.04" data-track-index="1">
+        <div class="image-wrapper">
+          <img src="assets/images/shot5_hero_brain_ancestor.jpg" class="scene-img" id="img-05" alt="Brain and Tribe" />
+          <div class="graphic-overlay" id="overlay-05">
+            <div class="neuro-banner" id="neuro-banner">
+              <span class="strike-text">NOT A GLITCH</span>
+              <span class="highlight-text">SURVIVAL SIMULATION</span>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- GSAP Master Animation Script -->
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+      window.__timelines["main"] = tl;
+
+      // =====================================================================
+      // SCENE 01: HERO IN BED (0.0s – 17.5s)
+      // =====================================================================
+      tl.fromTo(
+        "#img-01",
+        { scale: 1.0, x: 0, y: 0 },
+        { scale: 1.12, x: -30, y: -15, duration: 17.5, ease: "sine.inOut" },
+        0
+      );
+
+      // HUD Clock Pill reveals
+      tl.fromTo(
+        "#hud-clock-pill",
+        { opacity: 0, y: -20 },
+        { opacity: 1, y: 0, duration: 0.8, ease: "power3.out" },
+        0.5
+      );
+
+      // Floating words "Silent", "Exhausted", "Peaceful"
+      tl.fromTo(
+        "#floating-words .word-tag",
+        { opacity: 0, y: 15 },
+        { opacity: 1, y: 0, duration: 0.6, stagger: 1.2, ease: "power2.out" },
+        8.5
+      );
+      tl.to("#floating-words", { opacity: 0, duration: 0.8, ease: "power2.in" }, 15.5);
+
+      // =====================================================================
+      // SCENE 02: SLIDE PROJECTOR CRINGE REEL (17.5s – 40.0s)
+      // =====================================================================
+      tl.fromTo(
+        "#img-02",
+        { scale: 1.0, x: 0 },
+        { scale: 1.15, x: -40, duration: 22.5, ease: "sine.inOut" },
+        17.5
+      );
+
+      // Archive stamp slams down with mechanical punch
+      tl.fromTo(
+        "#archive-stamp",
+        { scale: 2.0, opacity: 0, rotation: -8 },
+        { scale: 1.0, opacity: 1, rotation: -3, duration: 0.4, ease: "back.out(1.8)" },
+        18.0
+      );
+
+      // Protocol badge slide-in
+      tl.fromTo(
+        "#protocol-badge",
+        { opacity: 0, x: 40 },
+        { opacity: 1, x: 0, duration: 0.8, ease: "power3.out" },
+        26.0
+      );
+
+      // =====================================================================
+      // SCENE 03: HERO CRINGING IN BED (40.0s – 54.0s)
+      // =====================================================================
+      tl.fromTo(
+        "#img-03",
+        { scale: 1.15, y: 20 },
+        { scale: 1.0, y: 0, duration: 14.0, ease: "sine.inOut" },
+        40.0
+      );
+
+      // Cardiac pulse pill pops in
+      tl.fromTo(
+        "#cardiac-pill",
+        { scale: 0.7, opacity: 0 },
+        { scale: 1.0, opacity: 1, duration: 0.5, ease: "back.out(1.7)" },
+        41.0
+      );
+
+      // Heart icon heartbeat pulse
+      tl.fromTo(
+        ".heart-pulse",
+        { scale: 1.0 },
+        { scale: 1.4, duration: 0.35, repeat: 16, yoyo: true, ease: "power1.inOut" },
+        41.5
+      );
+
+      // =====================================================================
+      // SCENE 04: HERO IN CINEMA THEATER (54.0s – 70.0s)
+      // =====================================================================
+      tl.fromTo(
+        "#img-04",
+        { scale: 1.0, y: 0 },
+        { scale: 1.1, y: -20, duration: 16.0, ease: "sine.inOut" },
+        54.0
+      );
+
+      // Cinema ticket drops down
+      tl.fromTo(
+        "#cinema-ticket",
+        { y: -60, opacity: 0, scale: 0.9 },
+        { y: 0, opacity: 1, scale: 1.0, duration: 0.7, ease: "back.out(1.5)" },
+        55.0
+      );
+
+      // =====================================================================
+      // SCENE 05: BRAIN & ANCIENT TRIBE (70.0s – 80.04s)
+      // =====================================================================
+      tl.fromTo(
+        "#img-05",
+        { scale: 1.0, x: 0 },
+        { scale: 1.12, x: -30, duration: 10.04, ease: "sine.inOut" },
+        70.0
+      );
+
+      // Neuro banner entrance
+      tl.fromTo(
+        "#neuro-banner",
+        { opacity: 0, y: 30 },
+        { opacity: 1, y: 0, duration: 0.8, ease: "power3.out" },
+        71.0
+      );
+    </script>
+  </body>
+</html>
