@@ -1,0 +1,7372 @@
+{
+  "audio_file": "C:\\Users\\Indresh HL\\Downloads\\TOPIC_03_FULL_VOICEOVER.mp3",
+  "total_words": 1281,
+  "total_segments": 120,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.34,
+      "text": "It is 11.42 on a Tuesday night.",
+      "words": [
+        {
+          "word": "It",
+          "start": 0.0,
+          "end": 0.28
+        },
+        {
+          "word": "is",
+          "start": 0.28,
+          "end": 0.38
+        },
+        {
+          "word": "11",
+          "start": 0.38,
+          "end": 0.62
+        },
+        {
+          "word": ".42",
+          "start": 0.62,
+          "end": 1.14
+        },
+        {
+          "word": "on",
+          "start": 1.14,
+          "end": 1.6
+        },
+        {
+          "word": "a",
+          "start": 1.6,
+          "end": 1.7
+        },
+        {
+          "word": "Tuesday",
+          "start": 1.7,
+          "end": 1.88
+        },
+        {
+          "word": "night.",
+          "start": 1.88,
+          "end": 2.34
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 3.38,
+      "end": 6.52,
+      "text": "In less than 9 hours, that major project is due.",
+      "words": [
+        {
+          "word": "In",
+          "start": 3.38,
+          "end": 3.58
+        },
+        {
+          "word": "less",
+          "start": 3.58,
+          "end": 3.76
+        },
+        {
+          "word": "than",
+          "start": 3.76,
+          "end": 4.02
+        },
+        {
+          "word": "9",
+          "start": 4.02,
+          "end": 4.26
+        },
+        {
+          "word": "hours,",
+          "start": 4.26,
+          "end": 4.66
+        },
+        {
+          "word": "that",
+          "start": 5.1,
+          "end": 5.24
+        },
+        {
+          "word": "major",
+          "start": 5.24,
+          "end": 5.44
+        },
+        {
+          "word": "project",
+          "start": 5.44,
+          "end": 6.02
+        },
+        {
+          "word": "is",
+          "start": 6.02,
+          "end": 6.32
+        },
+        {
+          "word": "due.",
+          "start": 6.32,
+          "end": 6.52
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 7.8,
+      "end": 9.02,
+      "text": "You open your laptop.",
+      "words": [
+        {
+          "word": "You",
+          "start": 7.8,
+          "end": 8.26
+        },
+        {
+          "word": "open",
+          "start": 8.26,
+          "end": 8.54
+        },
+        {
+          "word": "your",
+          "start": 8.54,
+          "end": 8.74
+        },
+        {
+          "word": "laptop.",
+          "start": 8.74,
+          "end": 9.02
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 10.26,
+      "end": 12.46,
+      "text": "A blank white screen stares back at you.",
+      "words": [
+        {
+          "word": "A",
+          "start": 10.26,
+          "end": 10.42
+        },
+        {
+          "word": "blank",
+          "start": 10.42,
+          "end": 10.64
+        },
+        {
+          "word": "white",
+          "start": 10.64,
+          "end": 10.94
+        },
+        {
+          "word": "screen",
+          "start": 10.94,
+          "end": 11.3
+        },
+        {
+          "word": "stares",
+          "start": 11.3,
+          "end": 11.66
+        },
+        {
+          "word": "back",
+          "start": 11.66,
+          "end": 12.06
+        },
+        {
+          "word": "at",
+          "start": 12.06,
+          "end": 12.28
+        },
+        {
+          "word": "you.",
+          "start": 12.28,
+          "end": 12.46
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 13.4,
+      "end": 16.26,
+      "text": "And in the corner, a single black cursor blinks.",
+      "words": [
+        {
+          "word": "And",
+          "start": 13.4,
+          "end": 13.68
+        },
+        {
+          "word": "in",
+          "start": 13.68,
+          "end": 13.8
+        },
+        {
+          "word": "the",
+          "start": 13.8,
+          "end": 13.9
+        },
+        {
+          "word": "corner,",
+          "start": 13.9,
+          "end": 14.16
+        },
+        {
+          "word": "a",
+          "start": 14.58,
+          "end": 14.68
+        },
+        {
+          "word": "single",
+          "start": 14.68,
+          "end": 14.96
+        },
+        {
+          "word": "black",
+          "start": 14.96,
+          "end": 15.32
+        },
+        {
+          "word": "cursor",
+          "start": 15.32,
+          "end": 15.68
+        },
+        {
+          "word": "blinks.",
+          "start": 15.68,
+          "end": 16.26
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 17.3,
+      "end": 17.88,
+      "text": "Steadily.",
+      "words": [
+        {
+          "word": "Steadily.",
+          "start": 17.3,
+          "end": 17.88
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 19.1,
+      "end": 19.56,
+      "text": "Mockingly.",
+      "words": [
+        {
+          "word": "Mockingly.",
+          "start": 19.1,
+          "end": 19.56
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 20.74,
+      "end": 22.64,
+      "text": "Your fingers hover over the keyboard.",
+      "words": [
+        {
+          "word": "Your",
+          "start": 20.74,
+          "end": 21.22
+        },
+        {
+          "word": "fingers",
+          "start": 21.22,
+          "end": 21.62
+        },
+        {
+          "word": "hover",
+          "start": 21.62,
+          "end": 21.9
+        },
+        {
+          "word": "over",
+          "start": 21.9,
+          "end": 22.32
+        },
+        {
+          "word": "the",
+          "start": 22.32,
+          "end": 22.44
+        },
+        {
+          "word": "keyboard.",
+          "start": 22.44,
+          "end": 22.64
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 23.78,
+      "end": 27.74,
+      "text": "But instead of typing the first sentence, your hand reaches for your phone.",
+      "words": [
+        {
+          "word": "But",
+          "start": 23.78,
+          "end": 24.08
+        },
+        {
+          "word": "instead",
+          "start": 24.08,
+          "end": 24.32
+        },
+        {
+          "word": "of",
+          "start": 24.32,
+          "end": 24.58
+        },
+        {
+          "word": "typing",
+          "start": 24.58,
+          "end": 24.8
+        },
+        {
+          "word": "the",
+          "start": 24.8,
+          "end": 25.08
+        },
+        {
+          "word": "first",
+          "start": 25.08,
+          "end": 25.3
+        },
+        {
+          "word": "sentence,",
+          "start": 25.3,
+          "end": 25.7
+        },
+        {
+          "word": "your",
+          "start": 26.18,
+          "end": 26.32
+        },
+        {
+          "word": "hand",
+          "start": 26.32,
+          "end": 26.58
+        },
+        {
+          "word": "reaches",
+          "start": 26.58,
+          "end": 26.9
+        },
+        {
+          "word": "for",
+          "start": 26.9,
+          "end": 27.28
+        },
+        {
+          "word": "your",
+          "start": 27.28,
+          "end": 27.42
+        },
+        {
+          "word": "phone.",
+          "start": 27.42,
+          "end": 27.74
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 28.38,
+      "end": 34.2,
+      "text": "You open an app you don't even care about, scrolling through videos you won't remember 10 seconds from now.",
+      "words": [
+        {
+          "word": "You",
+          "start": 28.38,
+          "end": 28.98
+        },
+        {
+          "word": "open",
+          "start": 28.98,
+          "end": 29.3
+        },
+        {
+          "word": "an",
+          "start": 29.3,
+          "end": 29.46
+        },
+        {
+          "word": "app",
+          "start": 29.46,
+          "end": 29.66
+        },
+        {
+          "word": "you",
+          "start": 29.66,
+          "end": 29.86
+        },
+        {
+          "word": "don't",
+          "start": 29.86,
+          "end": 30.08
+        },
+        {
+          "word": "even",
+          "start": 30.08,
+          "end": 30.26
+        },
+        {
+          "word": "care",
+          "start": 30.26,
+          "end": 30.48
+        },
+        {
+          "word": "about,",
+          "start": 30.48,
+          "end": 30.82
+        },
+        {
+          "word": "scrolling",
+          "start": 31.16,
+          "end": 31.52
+        },
+        {
+          "word": "through",
+          "start": 31.52,
+          "end": 31.92
+        },
+        {
+          "word": "videos",
+          "start": 31.92,
+          "end": 32.24
+        },
+        {
+          "word": "you",
+          "start": 32.24,
+          "end": 32.54
+        },
+        {
+          "word": "won't",
+          "start": 32.54,
+          "end": 32.76
+        },
+        {
+          "word": "remember",
+          "start": 32.76,
+          "end": 32.96
+        },
+        {
+          "word": "10",
+          "start": 32.96,
+          "end": 33.36
+        },
+        {
+          "word": "seconds",
+          "start": 33.36,
+          "end": 33.72
+        },
+        {
+          "word": "from",
+          "start": 33.72,
+          "end": 33.96
+        },
+        {
+          "word": "now.",
+          "start": 33.96,
+          "end": 34.2
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 35.72,
+      "end": 37.06,
+      "text": "You aren't enjoying yourself.",
+      "words": [
+        {
+          "word": "You",
+          "start": 35.72,
+          "end": 35.88
+        },
+        {
+          "word": "aren't",
+          "start": 35.88,
+          "end": 36.26
+        },
+        {
+          "word": "enjoying",
+          "start": 36.26,
+          "end": 36.42
+        },
+        {
+          "word": "yourself.",
+          "start": 36.42,
+          "end": 37.06
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 38.1,
+      "end": 39.84,
+      "text": "There is no joy in this scrolling.",
+      "words": [
+        {
+          "word": "There",
+          "start": 38.1,
+          "end": 38.42
+        },
+        {
+          "word": "is",
+          "start": 38.42,
+          "end": 38.56
+        },
+        {
+          "word": "no",
+          "start": 38.56,
+          "end": 38.76
+        },
+        {
+          "word": "joy",
+          "start": 38.76,
+          "end": 39.04
+        },
+        {
+          "word": "in",
+          "start": 39.04,
+          "end": 39.4
+        },
+        {
+          "word": "this",
+          "start": 39.4,
+          "end": 39.54
+        },
+        {
+          "word": "scrolling.",
+          "start": 39.54,
+          "end": 39.84
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 40.92,
+      "end": 47.98,
+      "text": "Your stomach feels tight, your chest feels heavy, and that familiar, sickening wave of shame begins to creep up your throat.",
+      "words": [
+        {
+          "word": "Your",
+          "start": 40.92,
+          "end": 41.28
+        },
+        {
+          "word": "stomach",
+          "start": 41.28,
+          "end": 41.62
+        },
+        {
+          "word": "feels",
+          "start": 41.62,
+          "end": 42.06
+        },
+        {
+          "word": "tight,",
+          "start": 42.06,
+          "end": 42.4
+        },
+        {
+          "word": "your",
+          "start": 42.78,
+          "end": 42.88
+        },
+        {
+          "word": "chest",
+          "start": 42.88,
+          "end": 43.12
+        },
+        {
+          "word": "feels",
+          "start": 43.12,
+          "end": 43.56
+        },
+        {
+          "word": "heavy,",
+          "start": 43.56,
+          "end": 43.9
+        },
+        {
+          "word": "and",
+          "start": 43.9,
+          "end": 44.36
+        },
+        {
+          "word": "that",
+          "start": 44.36,
+          "end": 44.52
+        },
+        {
+          "word": "familiar,",
+          "start": 44.52,
+          "end": 44.86
+        },
+        {
+          "word": "sickening",
+          "start": 45.5,
+          "end": 45.82
+        },
+        {
+          "word": "wave",
+          "start": 45.82,
+          "end": 46.08
+        },
+        {
+          "word": "of",
+          "start": 46.08,
+          "end": 46.3
+        },
+        {
+          "word": "shame",
+          "start": 46.3,
+          "end": 46.52
+        },
+        {
+          "word": "begins",
+          "start": 46.52,
+          "end": 46.86
+        },
+        {
+          "word": "to",
+          "start": 46.86,
+          "end": 47.14
+        },
+        {
+          "word": "creep",
+          "start": 47.14,
+          "end": 47.3
+        },
+        {
+          "word": "up",
+          "start": 47.3,
+          "end": 47.52
+        },
+        {
+          "word": "your",
+          "start": 47.52,
+          "end": 47.68
+        },
+        {
+          "word": "throat.",
+          "start": 47.68,
+          "end": 47.98
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 49.2,
+      "end": 52.96,
+      "text": "You whisper to yourself, why do I do this every single time?",
+      "words": [
+        {
+          "word": "You",
+          "start": 49.2,
+          "end": 49.68
+        },
+        {
+          "word": "whisper",
+          "start": 49.68,
+          "end": 49.92
+        },
+        {
+          "word": "to",
+          "start": 49.92,
+          "end": 50.2
+        },
+        {
+          "word": "yourself,",
+          "start": 50.2,
+          "end": 50.46
+        },
+        {
+          "word": "why",
+          "start": 51.02,
+          "end": 51.34
+        },
+        {
+          "word": "do",
+          "start": 51.34,
+          "end": 51.46
+        },
+        {
+          "word": "I",
+          "start": 51.46,
+          "end": 51.6
+        },
+        {
+          "word": "do",
+          "start": 51.6,
+          "end": 51.78
+        },
+        {
+          "word": "this",
+          "start": 51.78,
+          "end": 51.96
+        },
+        {
+          "word": "every",
+          "start": 51.96,
+          "end": 52.26
+        },
+        {
+          "word": "single",
+          "start": 52.26,
+          "end": 52.58
+        },
+        {
+          "word": "time?",
+          "start": 52.58,
+          "end": 52.96
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 53.68,
+      "end": 55.08,
+      "text": "Why am I so lazy?",
+      "words": [
+        {
+          "word": "Why",
+          "start": 53.68,
+          "end": 54.28
+        },
+        {
+          "word": "am",
+          "start": 54.28,
+          "end": 54.42
+        },
+        {
+          "word": "I",
+          "start": 54.42,
+          "end": 54.54
+        },
+        {
+          "word": "so",
+          "start": 54.54,
+          "end": 54.78
+        },
+        {
+          "word": "lazy?",
+          "start": 54.78,
+          "end": 55.08
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 55.88,
+      "end": 58.36,
+      "text": "Why can't I just sit down and do the work?",
+      "words": [
+        {
+          "word": "Why",
+          "start": 55.88,
+          "end": 56.48
+        },
+        {
+          "word": "can't",
+          "start": 56.48,
+          "end": 56.86
+        },
+        {
+          "word": "I",
+          "start": 56.86,
+          "end": 56.94
+        },
+        {
+          "word": "just",
+          "start": 56.94,
+          "end": 57.14
+        },
+        {
+          "word": "sit",
+          "start": 57.14,
+          "end": 57.36
+        },
+        {
+          "word": "down",
+          "start": 57.36,
+          "end": 57.7
+        },
+        {
+          "word": "and",
+          "start": 57.7,
+          "end": 57.86
+        },
+        {
+          "word": "do",
+          "start": 57.86,
+          "end": 58.02
+        },
+        {
+          "word": "the",
+          "start": 58.02,
+          "end": 58.14
+        },
+        {
+          "word": "work?",
+          "start": 58.14,
+          "end": 58.36
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 59.7,
+      "end": 63.88,
+      "text": "If that scene feels uncomfortably familiar, I want you to take a deep breath.",
+      "words": [
+        {
+          "word": "If",
+          "start": 59.7,
+          "end": 60.14
+        },
+        {
+          "word": "that",
+          "start": 60.14,
+          "end": 60.3
+        },
+        {
+          "word": "scene",
+          "start": 60.3,
+          "end": 60.6
+        },
+        {
+          "word": "feels",
+          "start": 60.6,
+          "end": 60.88
+        },
+        {
+          "word": "uncomfortably",
+          "start": 60.88,
+          "end": 61.72
+        },
+        {
+          "word": "familiar,",
+          "start": 61.72,
+          "end": 62.08
+        },
+        {
+          "word": "I",
+          "start": 62.52,
+          "end": 62.66
+        },
+        {
+          "word": "want",
+          "start": 62.66,
+          "end": 62.84
+        },
+        {
+          "word": "you",
+          "start": 62.84,
+          "end": 62.98
+        },
+        {
+          "word": "to",
+          "start": 62.98,
+          "end": 63.08
+        },
+        {
+          "word": "take",
+          "start": 63.08,
+          "end": 63.28
+        },
+        {
+          "word": "a",
+          "start": 63.28,
+          "end": 63.4
+        },
+        {
+          "word": "deep",
+          "start": 63.4,
+          "end": 63.56
+        },
+        {
+          "word": "breath.",
+          "start": 63.56,
+          "end": 63.88
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 65.06,
+      "end": 69.76,
+      "text": "Because modern cognitive neuroscience has discovered something extraordinary about this moment.",
+      "words": [
+        {
+          "word": "Because",
+          "start": 65.06,
+          "end": 65.32
+        },
+        {
+          "word": "modern",
+          "start": 65.32,
+          "end": 65.62
+        },
+        {
+          "word": "cognitive",
+          "start": 65.62,
+          "end": 66.22
+        },
+        {
+          "word": "neuroscience",
+          "start": 66.22,
+          "end": 66.82
+        },
+        {
+          "word": "has",
+          "start": 66.82,
+          "end": 67.34
+        },
+        {
+          "word": "discovered",
+          "start": 67.34,
+          "end": 67.68
+        },
+        {
+          "word": "something",
+          "start": 67.68,
+          "end": 68.14
+        },
+        {
+          "word": "extraordinary",
+          "start": 68.14,
+          "end": 68.66
+        },
+        {
+          "word": "about",
+          "start": 68.66,
+          "end": 69.18
+        },
+        {
+          "word": "this",
+          "start": 69.18,
+          "end": 69.4
+        },
+        {
+          "word": "moment.",
+          "start": 69.4,
+          "end": 69.76
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 71.3,
+      "end": 74.86,
+      "text": "Your chronic procrastination has almost nothing to do with being lazy.",
+      "words": [
+        {
+          "word": "Your",
+          "start": 71.3,
+          "end": 71.54
+        },
+        {
+          "word": "chronic",
+          "start": 71.54,
+          "end": 71.86
+        },
+        {
+          "word": "procrastination",
+          "start": 71.86,
+          "end": 72.58
+        },
+        {
+          "word": "has",
+          "start": 72.58,
+          "end": 73.04
+        },
+        {
+          "word": "almost",
+          "start": 73.04,
+          "end": 73.3
+        },
+        {
+          "word": "nothing",
+          "start": 73.3,
+          "end": 73.64
+        },
+        {
+          "word": "to",
+          "start": 73.64,
+          "end": 73.98
+        },
+        {
+          "word": "do",
+          "start": 73.98,
+          "end": 74.14
+        },
+        {
+          "word": "with",
+          "start": 74.14,
+          "end": 74.32
+        },
+        {
+          "word": "being",
+          "start": 74.32,
+          "end": 74.52
+        },
+        {
+          "word": "lazy.",
+          "start": 74.52,
+          "end": 74.86
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 76.08,
+      "end": 77.34,
+      "text": "It is not a character flaw.",
+      "words": [
+        {
+          "word": "It",
+          "start": 76.08,
+          "end": 76.2
+        },
+        {
+          "word": "is",
+          "start": 76.2,
+          "end": 76.3
+        },
+        {
+          "word": "not",
+          "start": 76.3,
+          "end": 76.5
+        },
+        {
+          "word": "a",
+          "start": 76.5,
+          "end": 76.64
+        },
+        {
+          "word": "character",
+          "start": 76.64,
+          "end": 76.92
+        },
+        {
+          "word": "flaw.",
+          "start": 76.92,
+          "end": 77.34
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 78.48,
+      "end": 82.38,
+      "text": "And no amount of color-coded planners or calendar apps will ever cure it.",
+      "words": [
+        {
+          "word": "And",
+          "start": 78.48,
+          "end": 78.62
+        },
+        {
+          "word": "no",
+          "start": 78.62,
+          "end": 78.82
+        },
+        {
+          "word": "amount",
+          "start": 78.82,
+          "end": 79.08
+        },
+        {
+          "word": "of",
+          "start": 79.08,
+          "end": 79.32
+        },
+        {
+          "word": "color",
+          "start": 79.32,
+          "end": 79.54
+        },
+        {
+          "word": "-coded",
+          "start": 79.54,
+          "end": 79.92
+        },
+        {
+          "word": "planners",
+          "start": 79.92,
+          "end": 80.16
+        },
+        {
+          "word": "or",
+          "start": 80.16,
+          "end": 80.62
+        },
+        {
+          "word": "calendar",
+          "start": 80.62,
+          "end": 80.96
+        },
+        {
+          "word": "apps",
+          "start": 80.96,
+          "end": 81.34
+        },
+        {
+          "word": "will",
+          "start": 81.34,
+          "end": 81.64
+        },
+        {
+          "word": "ever",
+          "start": 81.64,
+          "end": 81.84
+        },
+        {
+          "word": "cure",
+          "start": 81.84,
+          "end": 82.14
+        },
+        {
+          "word": "it.",
+          "start": 82.14,
+          "end": 82.38
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 83.3,
+      "end": 87.32,
+      "text": "What you experienced at 11.42 pm was a laziness.",
+      "words": [
+        {
+          "word": "What",
+          "start": 83.3,
+          "end": 83.98
+        },
+        {
+          "word": "you",
+          "start": 83.98,
+          "end": 84.16
+        },
+        {
+          "word": "experienced",
+          "start": 84.16,
+          "end": 84.5
+        },
+        {
+          "word": "at",
+          "start": 84.5,
+          "end": 85.0
+        },
+        {
+          "word": "11",
+          "start": 85.0,
+          "end": 85.24
+        },
+        {
+          "word": ".42",
+          "start": 85.24,
+          "end": 85.8
+        },
+        {
+          "word": "pm",
+          "start": 85.8,
+          "end": 86.22
+        },
+        {
+          "word": "was",
+          "start": 86.22,
+          "end": 86.66
+        },
+        {
+          "word": "a",
+          "start": 86.66,
+          "end": 86.76
+        },
+        {
+          "word": "laziness.",
+          "start": 86.76,
+          "end": 87.32
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 88.38,
+      "end": 91.18,
+      "text": "It was an involuntary biological defense mechanism.",
+      "words": [
+        {
+          "word": "It",
+          "start": 88.38,
+          "end": 88.6
+        },
+        {
+          "word": "was",
+          "start": 88.6,
+          "end": 88.74
+        },
+        {
+          "word": "an",
+          "start": 88.74,
+          "end": 88.86
+        },
+        {
+          "word": "involuntary",
+          "start": 88.86,
+          "end": 89.18
+        },
+        {
+          "word": "biological",
+          "start": 89.18,
+          "end": 90.0
+        },
+        {
+          "word": "defense",
+          "start": 90.0,
+          "end": 90.64
+        },
+        {
+          "word": "mechanism.",
+          "start": 90.64,
+          "end": 91.18
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 92.34,
+      "end": 97.26,
+      "text": "Your brain perceived that blank document not as a to-do list, but as an existential threat.",
+      "words": [
+        {
+          "word": "Your",
+          "start": 92.34,
+          "end": 92.6
+        },
+        {
+          "word": "brain",
+          "start": 92.6,
+          "end": 92.92
+        },
+        {
+          "word": "perceived",
+          "start": 92.92,
+          "end": 93.32
+        },
+        {
+          "word": "that",
+          "start": 93.32,
+          "end": 93.62
+        },
+        {
+          "word": "blank",
+          "start": 93.62,
+          "end": 93.86
+        },
+        {
+          "word": "document",
+          "start": 93.86,
+          "end": 94.2
+        },
+        {
+          "word": "not",
+          "start": 94.2,
+          "end": 94.64
+        },
+        {
+          "word": "as",
+          "start": 94.64,
+          "end": 94.82
+        },
+        {
+          "word": "a",
+          "start": 94.82,
+          "end": 94.92
+        },
+        {
+          "word": "to",
+          "start": 94.92,
+          "end": 95.04
+        },
+        {
+          "word": "-do",
+          "start": 95.04,
+          "end": 95.24
+        },
+        {
+          "word": "list,",
+          "start": 95.24,
+          "end": 95.48
+        },
+        {
+          "word": "but",
+          "start": 95.84,
+          "end": 95.96
+        },
+        {
+          "word": "as",
+          "start": 95.96,
+          "end": 96.12
+        },
+        {
+          "word": "an",
+          "start": 96.12,
+          "end": 96.24
+        },
+        {
+          "word": "existential",
+          "start": 96.24,
+          "end": 96.58
+        },
+        {
+          "word": "threat.",
+          "start": 96.58,
+          "end": 97.26
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 98.32,
+      "end": 102.52,
+      "text": "And without your conscious permission, it triggered a full-scale neurological ambush.",
+      "words": [
+        {
+          "word": "And",
+          "start": 98.32,
+          "end": 98.48
+        },
+        {
+          "word": "without",
+          "start": 98.48,
+          "end": 98.64
+        },
+        {
+          "word": "your",
+          "start": 98.64,
+          "end": 98.98
+        },
+        {
+          "word": "conscious",
+          "start": 98.98,
+          "end": 99.36
+        },
+        {
+          "word": "permission,",
+          "start": 99.36,
+          "end": 99.7
+        },
+        {
+          "word": "it",
+          "start": 100.32,
+          "end": 100.44
+        },
+        {
+          "word": "triggered",
+          "start": 100.44,
+          "end": 100.74
+        },
+        {
+          "word": "a",
+          "start": 100.74,
+          "end": 100.92
+        },
+        {
+          "word": "full",
+          "start": 100.92,
+          "end": 101.14
+        },
+        {
+          "word": "-scale",
+          "start": 101.14,
+          "end": 101.42
+        },
+        {
+          "word": "neurological",
+          "start": 101.42,
+          "end": 101.82
+        },
+        {
+          "word": "ambush.",
+          "start": 101.82,
+          "end": 102.52
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 104.02,
+      "end": 109.88,
+      "text": "Inside your skull, there is a constant power struggle between two very different evolutionary systems.",
+      "words": [
+        {
+          "word": "Inside",
+          "start": 104.02,
+          "end": 104.7
+        },
+        {
+          "word": "your",
+          "start": 104.7,
+          "end": 105.12
+        },
+        {
+          "word": "skull,",
+          "start": 105.12,
+          "end": 105.34
+        },
+        {
+          "word": "there",
+          "start": 105.84,
+          "end": 105.98
+        },
+        {
+          "word": "is",
+          "start": 105.98,
+          "end": 106.1
+        },
+        {
+          "word": "a",
+          "start": 106.1,
+          "end": 106.2
+        },
+        {
+          "word": "constant",
+          "start": 106.2,
+          "end": 106.5
+        },
+        {
+          "word": "power",
+          "start": 106.5,
+          "end": 106.96
+        },
+        {
+          "word": "struggle",
+          "start": 106.96,
+          "end": 107.32
+        },
+        {
+          "word": "between",
+          "start": 107.32,
+          "end": 107.7
+        },
+        {
+          "word": "two",
+          "start": 107.7,
+          "end": 108.08
+        },
+        {
+          "word": "very",
+          "start": 108.08,
+          "end": 108.4
+        },
+        {
+          "word": "different",
+          "start": 108.4,
+          "end": 108.76
+        },
+        {
+          "word": "evolutionary",
+          "start": 108.76,
+          "end": 109.02
+        },
+        {
+          "word": "systems.",
+          "start": 109.02,
+          "end": 109.88
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 111.3,
+      "end": 113.74,
+      "text": "First, you have your prefrontal cortex.",
+      "words": [
+        {
+          "word": "First,",
+          "start": 111.3,
+          "end": 111.94
+        },
+        {
+          "word": "you",
+          "start": 112.34,
+          "end": 112.48
+        },
+        {
+          "word": "have",
+          "start": 112.48,
+          "end": 112.68
+        },
+        {
+          "word": "your",
+          "start": 112.68,
+          "end": 112.82
+        },
+        {
+          "word": "prefrontal",
+          "start": 112.82,
+          "end": 113.2
+        },
+        {
+          "word": "cortex.",
+          "start": 113.2,
+          "end": 113.74
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 115.08,
+      "end": 118.02,
+      "text": "This is the newest, most civilized part of your brain.",
+      "words": [
+        {
+          "word": "This",
+          "start": 115.08,
+          "end": 115.3
+        },
+        {
+          "word": "is",
+          "start": 115.3,
+          "end": 115.44
+        },
+        {
+          "word": "the",
+          "start": 115.44,
+          "end": 115.58
+        },
+        {
+          "word": "newest,",
+          "start": 115.58,
+          "end": 115.84
+        },
+        {
+          "word": "most",
+          "start": 116.28,
+          "end": 116.46
+        },
+        {
+          "word": "civilized",
+          "start": 116.46,
+          "end": 116.9
+        },
+        {
+          "word": "part",
+          "start": 116.9,
+          "end": 117.38
+        },
+        {
+          "word": "of",
+          "start": 117.38,
+          "end": 117.56
+        },
+        {
+          "word": "your",
+          "start": 117.56,
+          "end": 117.68
+        },
+        {
+          "word": "brain.",
+          "start": 117.68,
+          "end": 118.02
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 119.08,
+      "end": 120.16,
+      "text": "It understands time.",
+      "words": [
+        {
+          "word": "It",
+          "start": 119.08,
+          "end": 119.2
+        },
+        {
+          "word": "understands",
+          "start": 119.2,
+          "end": 119.46
+        },
+        {
+          "word": "time.",
+          "start": 119.46,
+          "end": 120.16
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 121.14,
+      "end": 122.56,
+      "text": "It cares about your future.",
+      "words": [
+        {
+          "word": "It",
+          "start": 121.14,
+          "end": 121.42
+        },
+        {
+          "word": "cares",
+          "start": 121.42,
+          "end": 121.6
+        },
+        {
+          "word": "about",
+          "start": 121.6,
+          "end": 121.96
+        },
+        {
+          "word": "your",
+          "start": 121.96,
+          "end": 122.2
+        },
+        {
+          "word": "future.",
+          "start": 122.2,
+          "end": 122.56
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 123.74,
+      "end": 128.94,
+      "text": "It knows that finishing this report tonight means freedom, success, and peace of mind tomorrow.",
+      "words": [
+        {
+          "word": "It",
+          "start": 123.74,
+          "end": 123.84
+        },
+        {
+          "word": "knows",
+          "start": 123.84,
+          "end": 124.04
+        },
+        {
+          "word": "that",
+          "start": 124.04,
+          "end": 124.3
+        },
+        {
+          "word": "finishing",
+          "start": 124.3,
+          "end": 124.62
+        },
+        {
+          "word": "this",
+          "start": 124.62,
+          "end": 124.98
+        },
+        {
+          "word": "report",
+          "start": 124.98,
+          "end": 125.3
+        },
+        {
+          "word": "tonight",
+          "start": 125.3,
+          "end": 125.58
+        },
+        {
+          "word": "means",
+          "start": 125.58,
+          "end": 126.0
+        },
+        {
+          "word": "freedom,",
+          "start": 126.0,
+          "end": 126.36
+        },
+        {
+          "word": "success,",
+          "start": 126.9,
+          "end": 127.04
+        },
+        {
+          "word": "and",
+          "start": 127.68,
+          "end": 127.88
+        },
+        {
+          "word": "peace",
+          "start": 127.88,
+          "end": 128.06
+        },
+        {
+          "word": "of",
+          "start": 128.06,
+          "end": 128.3
+        },
+        {
+          "word": "mind",
+          "start": 128.3,
+          "end": 128.5
+        },
+        {
+          "word": "tomorrow.",
+          "start": 128.5,
+          "end": 128.94
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 130.52,
+      "end": 134.0,
+      "text": "But buried deep beneath it lies the amygdala and the limbic system.",
+      "words": [
+        {
+          "word": "But",
+          "start": 130.52,
+          "end": 130.74
+        },
+        {
+          "word": "buried",
+          "start": 130.74,
+          "end": 130.98
+        },
+        {
+          "word": "deep",
+          "start": 130.98,
+          "end": 131.34
+        },
+        {
+          "word": "beneath",
+          "start": 131.34,
+          "end": 131.74
+        },
+        {
+          "word": "it",
+          "start": 131.74,
+          "end": 131.92
+        },
+        {
+          "word": "lies",
+          "start": 131.92,
+          "end": 132.12
+        },
+        {
+          "word": "the",
+          "start": 132.12,
+          "end": 132.4
+        },
+        {
+          "word": "amygdala",
+          "start": 132.4,
+          "end": 132.72
+        },
+        {
+          "word": "and",
+          "start": 132.72,
+          "end": 133.22
+        },
+        {
+          "word": "the",
+          "start": 133.22,
+          "end": 133.32
+        },
+        {
+          "word": "limbic",
+          "start": 133.32,
+          "end": 133.62
+        },
+        {
+          "word": "system.",
+          "start": 133.62,
+          "end": 134.0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 135.04,
+      "end": 139.86,
+      "text": "This ancient survival engine doesn't understand calendars, college degrees, or the most important part of the world.",
+      "words": [
+        {
+          "word": "This",
+          "start": 135.04,
+          "end": 135.36
+        },
+        {
+          "word": "ancient",
+          "start": 135.36,
+          "end": 135.58
+        },
+        {
+          "word": "survival",
+          "start": 135.58,
+          "end": 136.08
+        },
+        {
+          "word": "engine",
+          "start": 136.08,
+          "end": 136.6
+        },
+        {
+          "word": "doesn't",
+          "start": 136.6,
+          "end": 137.08
+        },
+        {
+          "word": "understand",
+          "start": 137.08,
+          "end": 137.5
+        },
+        {
+          "word": "calendars,",
+          "start": 137.5,
+          "end": 138.0
+        },
+        {
+          "word": "college",
+          "start": 138.62,
+          "end": 138.84
+        },
+        {
+          "word": "degrees,",
+          "start": 138.84,
+          "end": 139.26
+        },
+        {
+          "word": "or",
+          "start": 139.86,
+          "end": 139.86
+        },
+        {
+          "word": "the",
+          "start": 139.86,
+          "end": 139.86
+        },
+        {
+          "word": "most",
+          "start": 139.86,
+          "end": 139.86
+        },
+        {
+          "word": "important",
+          "start": 139.86,
+          "end": 139.86
+        },
+        {
+          "word": "part",
+          "start": 139.86,
+          "end": 139.86
+        },
+        {
+          "word": "of",
+          "start": 139.86,
+          "end": 139.86
+        },
+        {
+          "word": "the",
+          "start": 139.86,
+          "end": 139.86
+        },
+        {
+          "word": "world.",
+          "start": 139.86,
+          "end": 139.86
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 139.88,
+      "end": 140.68,
+      "text": "Or quarterly reviews.",
+      "words": [
+        {
+          "word": "Or",
+          "start": 139.88,
+          "end": 139.94
+        },
+        {
+          "word": "quarterly",
+          "start": 139.94,
+          "end": 140.26
+        },
+        {
+          "word": "reviews.",
+          "start": 140.26,
+          "end": 140.68
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 141.98,
+      "end": 145.24,
+      "text": "It only understands one question, is this safe right now?",
+      "words": [
+        {
+          "word": "It",
+          "start": 141.98,
+          "end": 142.16
+        },
+        {
+          "word": "only",
+          "start": 142.16,
+          "end": 142.28
+        },
+        {
+          "word": "understands",
+          "start": 142.28,
+          "end": 142.82
+        },
+        {
+          "word": "one",
+          "start": 142.82,
+          "end": 143.22
+        },
+        {
+          "word": "question,",
+          "start": 143.22,
+          "end": 143.66
+        },
+        {
+          "word": "is",
+          "start": 144.02,
+          "end": 144.26
+        },
+        {
+          "word": "this",
+          "start": 144.26,
+          "end": 144.4
+        },
+        {
+          "word": "safe",
+          "start": 144.4,
+          "end": 144.68
+        },
+        {
+          "word": "right",
+          "start": 144.68,
+          "end": 144.94
+        },
+        {
+          "word": "now?",
+          "start": 144.94,
+          "end": 145.24
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 146.68,
+      "end": 153.1,
+      "text": "And here is the core discovery uncovered by psychologists Dr. Tim Pych-YL and Dr. Fuchsia Siroys.",
+      "words": [
+        {
+          "word": "And",
+          "start": 146.68,
+          "end": 146.98
+        },
+        {
+          "word": "here",
+          "start": 146.98,
+          "end": 147.18
+        },
+        {
+          "word": "is",
+          "start": 147.18,
+          "end": 147.36
+        },
+        {
+          "word": "the",
+          "start": 147.36,
+          "end": 147.48
+        },
+        {
+          "word": "core",
+          "start": 147.48,
+          "end": 147.7
+        },
+        {
+          "word": "discovery",
+          "start": 147.7,
+          "end": 148.26
+        },
+        {
+          "word": "uncovered",
+          "start": 148.26,
+          "end": 148.54
+        },
+        {
+          "word": "by",
+          "start": 148.54,
+          "end": 149.02
+        },
+        {
+          "word": "psychologists",
+          "start": 149.02,
+          "end": 149.62
+        },
+        {
+          "word": "Dr.",
+          "start": 149.62,
+          "end": 150.1
+        },
+        {
+          "word": "Tim",
+          "start": 150.5,
+          "end": 150.5
+        },
+        {
+          "word": "Pych",
+          "start": 150.5,
+          "end": 151.12
+        },
+        {
+          "word": "-YL",
+          "start": 151.12,
+          "end": 151.74
+        },
+        {
+          "word": "and",
+          "start": 151.74,
+          "end": 151.9
+        },
+        {
+          "word": "Dr.",
+          "start": 151.9,
+          "end": 152.1
+        },
+        {
+          "word": "Fuchsia",
+          "start": 152.42,
+          "end": 152.68
+        },
+        {
+          "word": "Siroys.",
+          "start": 152.68,
+          "end": 153.1
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 153.68,
+      "end": 158.0,
+      "text": "Procrastination is an emotional regulation problem, not a time management problem.",
+      "words": [
+        {
+          "word": "Procrastination",
+          "start": 153.68,
+          "end": 154.2
+        },
+        {
+          "word": "is",
+          "start": 154.2,
+          "end": 154.7
+        },
+        {
+          "word": "an",
+          "start": 154.7,
+          "end": 154.78
+        },
+        {
+          "word": "emotional",
+          "start": 154.78,
+          "end": 155.0
+        },
+        {
+          "word": "regulation",
+          "start": 155.0,
+          "end": 155.52
+        },
+        {
+          "word": "problem,",
+          "start": 155.52,
+          "end": 156.24
+        },
+        {
+          "word": "not",
+          "start": 156.6,
+          "end": 156.78
+        },
+        {
+          "word": "a",
+          "start": 156.78,
+          "end": 156.9
+        },
+        {
+          "word": "time",
+          "start": 156.9,
+          "end": 157.16
+        },
+        {
+          "word": "management",
+          "start": 157.16,
+          "end": 157.48
+        },
+        {
+          "word": "problem.",
+          "start": 157.48,
+          "end": 158.0
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 159.12,
+      "end": 163.3,
+      "text": "When you look at an important task, it isn't the physical keyboard you fear.",
+      "words": [
+        {
+          "word": "When",
+          "start": 159.12,
+          "end": 159.68
+        },
+        {
+          "word": "you",
+          "start": 159.68,
+          "end": 159.82
+        },
+        {
+          "word": "look",
+          "start": 159.82,
+          "end": 160.0
+        },
+        {
+          "word": "at",
+          "start": 160.0,
+          "end": 160.16
+        },
+        {
+          "word": "an",
+          "start": 160.16,
+          "end": 160.26
+        },
+        {
+          "word": "important",
+          "start": 160.26,
+          "end": 160.54
+        },
+        {
+          "word": "task,",
+          "start": 160.54,
+          "end": 161.04
+        },
+        {
+          "word": "it",
+          "start": 161.58,
+          "end": 161.68
+        },
+        {
+          "word": "isn't",
+          "start": 161.68,
+          "end": 161.94
+        },
+        {
+          "word": "the",
+          "start": 161.94,
+          "end": 162.06
+        },
+        {
+          "word": "physical",
+          "start": 162.06,
+          "end": 162.32
+        },
+        {
+          "word": "keyboard",
+          "start": 162.32,
+          "end": 162.82
+        },
+        {
+          "word": "you",
+          "start": 162.82,
+          "end": 163.06
+        },
+        {
+          "word": "fear.",
+          "start": 163.06,
+          "end": 163.3
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 164.24,
+      "end": 168.66,
+      "text": "It's the painful emotions attached to it, the fear that your work won't be good enough,",
+      "words": [
+        {
+          "word": "It's",
+          "start": 164.24,
+          "end": 164.68
+        },
+        {
+          "word": "the",
+          "start": 164.68,
+          "end": 164.78
+        },
+        {
+          "word": "painful",
+          "start": 164.78,
+          "end": 165.14
+        },
+        {
+          "word": "emotions",
+          "start": 165.14,
+          "end": 165.66
+        },
+        {
+          "word": "attached",
+          "start": 165.66,
+          "end": 166.0
+        },
+        {
+          "word": "to",
+          "start": 166.0,
+          "end": 166.42
+        },
+        {
+          "word": "it,",
+          "start": 166.42,
+          "end": 166.56
+        },
+        {
+          "word": "the",
+          "start": 166.76,
+          "end": 167.0
+        },
+        {
+          "word": "fear",
+          "start": 167.0,
+          "end": 167.26
+        },
+        {
+          "word": "that",
+          "start": 167.26,
+          "end": 167.46
+        },
+        {
+          "word": "your",
+          "start": 167.46,
+          "end": 167.6
+        },
+        {
+          "word": "work",
+          "start": 167.6,
+          "end": 167.88
+        },
+        {
+          "word": "won't",
+          "start": 167.88,
+          "end": 168.14
+        },
+        {
+          "word": "be",
+          "start": 168.14,
+          "end": 168.22
+        },
+        {
+          "word": "good",
+          "start": 168.22,
+          "end": 168.42
+        },
+        {
+          "word": "enough,",
+          "start": 168.42,
+          "end": 168.66
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 168.66,
+      "end": 172.36,
+      "text": "the terror of judgment, or the crushing weight of perfectionism.",
+      "words": [
+        {
+          "word": "the",
+          "start": 168.66,
+          "end": 169.18
+        },
+        {
+          "word": "terror",
+          "start": 169.18,
+          "end": 169.46
+        },
+        {
+          "word": "of",
+          "start": 169.46,
+          "end": 169.72
+        },
+        {
+          "word": "judgment,",
+          "start": 169.72,
+          "end": 170.02
+        },
+        {
+          "word": "or",
+          "start": 170.46,
+          "end": 170.68
+        },
+        {
+          "word": "the",
+          "start": 170.68,
+          "end": 170.8
+        },
+        {
+          "word": "crushing",
+          "start": 170.8,
+          "end": 171.12
+        },
+        {
+          "word": "weight",
+          "start": 171.12,
+          "end": 171.44
+        },
+        {
+          "word": "of",
+          "start": 171.44,
+          "end": 171.6
+        },
+        {
+          "word": "perfectionism.",
+          "start": 171.6,
+          "end": 172.36
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 173.76,
+      "end": 178.76,
+      "text": "To your ancient amygdala, psychological discomfort feels identical to physical danger.",
+      "words": [
+        {
+          "word": "To",
+          "start": 173.76,
+          "end": 174.02
+        },
+        {
+          "word": "your",
+          "start": 174.02,
+          "end": 174.18
+        },
+        {
+          "word": "ancient",
+          "start": 174.18,
+          "end": 174.48
+        },
+        {
+          "word": "amygdala,",
+          "start": 174.48,
+          "end": 174.8
+        },
+        {
+          "word": "psychological",
+          "start": 175.44,
+          "end": 176.04
+        },
+        {
+          "word": "discomfort",
+          "start": 176.04,
+          "end": 176.64
+        },
+        {
+          "word": "feels",
+          "start": 176.64,
+          "end": 177.18
+        },
+        {
+          "word": "identical",
+          "start": 177.18,
+          "end": 177.66
+        },
+        {
+          "word": "to",
+          "start": 177.66,
+          "end": 178.06
+        },
+        {
+          "word": "physical",
+          "start": 178.06,
+          "end": 178.28
+        },
+        {
+          "word": "danger.",
+          "start": 178.28,
+          "end": 178.76
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 179.98,
+      "end": 183.56,
+      "text": "So it executes a rapid evolutionary maneuver called mood repair.",
+      "words": [
+        {
+          "word": "So",
+          "start": 179.98,
+          "end": 180.18
+        },
+        {
+          "word": "it",
+          "start": 180.18,
+          "end": 180.32
+        },
+        {
+          "word": "executes",
+          "start": 180.32,
+          "end": 180.74
+        },
+        {
+          "word": "a",
+          "start": 180.74,
+          "end": 181.02
+        },
+        {
+          "word": "rapid",
+          "start": 181.02,
+          "end": 181.36
+        },
+        {
+          "word": "evolutionary",
+          "start": 181.36,
+          "end": 181.98
+        },
+        {
+          "word": "maneuver",
+          "start": 181.98,
+          "end": 182.36
+        },
+        {
+          "word": "called",
+          "start": 182.36,
+          "end": 182.92
+        },
+        {
+          "word": "mood",
+          "start": 182.92,
+          "end": 183.28
+        },
+        {
+          "word": "repair.",
+          "start": 183.28,
+          "end": 183.56
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 184.84,
+      "end": 188.56,
+      "text": "It forces you to abandon the threatening task and seek immediate comfort.",
+      "words": [
+        {
+          "word": "It",
+          "start": 184.84,
+          "end": 185.02
+        },
+        {
+          "word": "forces",
+          "start": 185.02,
+          "end": 185.24
+        },
+        {
+          "word": "you",
+          "start": 185.24,
+          "end": 185.66
+        },
+        {
+          "word": "to",
+          "start": 185.66,
+          "end": 185.8
+        },
+        {
+          "word": "abandon",
+          "start": 185.8,
+          "end": 186.14
+        },
+        {
+          "word": "the",
+          "start": 186.14,
+          "end": 186.46
+        },
+        {
+          "word": "threatening",
+          "start": 186.46,
+          "end": 186.74
+        },
+        {
+          "word": "task",
+          "start": 186.74,
+          "end": 187.24
+        },
+        {
+          "word": "and",
+          "start": 187.24,
+          "end": 187.5
+        },
+        {
+          "word": "seek",
+          "start": 187.5,
+          "end": 187.76
+        },
+        {
+          "word": "immediate",
+          "start": 187.76,
+          "end": 188.18
+        },
+        {
+          "word": "comfort.",
+          "start": 188.18,
+          "end": 188.56
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 189.54,
+      "end": 194.02,
+      "text": "The moment you decide, I'll just do this tomorrow, your amygdala relaxes.",
+      "words": [
+        {
+          "word": "The",
+          "start": 189.54,
+          "end": 189.94
+        },
+        {
+          "word": "moment",
+          "start": 189.94,
+          "end": 190.18
+        },
+        {
+          "word": "you",
+          "start": 190.18,
+          "end": 190.4
+        },
+        {
+          "word": "decide,",
+          "start": 190.4,
+          "end": 190.68
+        },
+        {
+          "word": "I'll",
+          "start": 191.16,
+          "end": 191.38
+        },
+        {
+          "word": "just",
+          "start": 191.38,
+          "end": 191.56
+        },
+        {
+          "word": "do",
+          "start": 191.56,
+          "end": 191.74
+        },
+        {
+          "word": "this",
+          "start": 191.74,
+          "end": 191.94
+        },
+        {
+          "word": "tomorrow,",
+          "start": 191.94,
+          "end": 192.3
+        },
+        {
+          "word": "your",
+          "start": 192.76,
+          "end": 192.88
+        },
+        {
+          "word": "amygdala",
+          "start": 192.88,
+          "end": 193.14
+        },
+        {
+          "word": "relaxes.",
+          "start": 193.14,
+          "end": 194.02
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 195.16,
+      "end": 196.14,
+      "text": "The cortisol drops.",
+      "words": [
+        {
+          "word": "The",
+          "start": 195.16,
+          "end": 195.28
+        },
+        {
+          "word": "cortisol",
+          "start": 195.28,
+          "end": 195.52
+        },
+        {
+          "word": "drops.",
+          "start": 195.52,
+          "end": 196.14
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 196.74,
+      "end": 199.86,
+      "text": "A small squirt of dopamine enters your bloodstream.",
+      "words": [
+        {
+          "word": "A",
+          "start": 196.74,
+          "end": 197.3
+        },
+        {
+          "word": "small",
+          "start": 197.3,
+          "end": 197.78
+        },
+        {
+          "word": "squirt",
+          "start": 197.78,
+          "end": 198.26
+        },
+        {
+          "word": "of",
+          "start": 198.26,
+          "end": 198.38
+        },
+        {
+          "word": "dopamine",
+          "start": 198.38,
+          "end": 198.56
+        },
+        {
+          "word": "enters",
+          "start": 198.56,
+          "end": 199.2
+        },
+        {
+          "word": "your",
+          "start": 199.2,
+          "end": 199.42
+        },
+        {
+          "word": "bloodstream.",
+          "start": 199.42,
+          "end": 199.86
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 201.1,
+      "end": 203.42,
+      "text": "You feel instant, intoxicating relief.",
+      "words": [
+        {
+          "word": "You",
+          "start": 201.1,
+          "end": 201.22
+        },
+        {
+          "word": "feel",
+          "start": 201.22,
+          "end": 201.42
+        },
+        {
+          "word": "instant,",
+          "start": 201.42,
+          "end": 201.8
+        },
+        {
+          "word": "intoxicating",
+          "start": 202.34,
+          "end": 203.1
+        },
+        {
+          "word": "relief.",
+          "start": 203.1,
+          "end": 203.42
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 204.86,
+      "end": 206.32,
+      "text": "But that relief is counterfeit.",
+      "words": [
+        {
+          "word": "But",
+          "start": 204.86,
+          "end": 205.22
+        },
+        {
+          "word": "that",
+          "start": 205.22,
+          "end": 205.38
+        },
+        {
+          "word": "relief",
+          "start": 205.38,
+          "end": 205.74
+        },
+        {
+          "word": "is",
+          "start": 205.74,
+          "end": 205.98
+        },
+        {
+          "word": "counterfeit.",
+          "start": 205.98,
+          "end": 206.32
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 207.56,
+      "end": 211.94,
+      "text": "Because by running away from the negative emotion today, you have not solved the problem.",
+      "words": [
+        {
+          "word": "Because",
+          "start": 207.56,
+          "end": 207.9
+        },
+        {
+          "word": "by",
+          "start": 207.9,
+          "end": 208.14
+        },
+        {
+          "word": "running",
+          "start": 208.14,
+          "end": 208.42
+        },
+        {
+          "word": "away",
+          "start": 208.42,
+          "end": 208.66
+        },
+        {
+          "word": "from",
+          "start": 208.66,
+          "end": 208.98
+        },
+        {
+          "word": "the",
+          "start": 208.98,
+          "end": 209.1
+        },
+        {
+          "word": "negative",
+          "start": 209.1,
+          "end": 209.38
+        },
+        {
+          "word": "emotion",
+          "start": 209.38,
+          "end": 209.7
+        },
+        {
+          "word": "today,",
+          "start": 209.7,
+          "end": 210.22
+        },
+        {
+          "word": "you",
+          "start": 210.62,
+          "end": 210.76
+        },
+        {
+          "word": "have",
+          "start": 210.76,
+          "end": 210.9
+        },
+        {
+          "word": "not",
+          "start": 210.9,
+          "end": 211.08
+        },
+        {
+          "word": "solved",
+          "start": 211.08,
+          "end": 211.46
+        },
+        {
+          "word": "the",
+          "start": 211.46,
+          "end": 211.64
+        },
+        {
+          "word": "problem.",
+          "start": 211.64,
+          "end": 211.94
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 213.06,
+      "end": 214.82,
+      "text": "You have simply passed the debt forward.",
+      "words": [
+        {
+          "word": "You",
+          "start": 213.06,
+          "end": 213.22
+        },
+        {
+          "word": "have",
+          "start": 213.22,
+          "end": 213.36
+        },
+        {
+          "word": "simply",
+          "start": 213.36,
+          "end": 213.68
+        },
+        {
+          "word": "passed",
+          "start": 213.68,
+          "end": 214.06
+        },
+        {
+          "word": "the",
+          "start": 214.06,
+          "end": 214.34
+        },
+        {
+          "word": "debt",
+          "start": 214.34,
+          "end": 214.48
+        },
+        {
+          "word": "forward.",
+          "start": 214.48,
+          "end": 214.82
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 215.94,
+      "end": 221.52,
+      "text": "And that brings us to the most shocking neurological secret of all, who exactly did you pass that debt to.",
+      "words": [
+        {
+          "word": "And",
+          "start": 215.94,
+          "end": 216.2
+        },
+        {
+          "word": "that",
+          "start": 216.2,
+          "end": 216.34
+        },
+        {
+          "word": "brings",
+          "start": 216.34,
+          "end": 216.58
+        },
+        {
+          "word": "us",
+          "start": 216.58,
+          "end": 216.84
+        },
+        {
+          "word": "to",
+          "start": 216.84,
+          "end": 217.0
+        },
+        {
+          "word": "the",
+          "start": 217.0,
+          "end": 217.1
+        },
+        {
+          "word": "most",
+          "start": 217.1,
+          "end": 217.28
+        },
+        {
+          "word": "shocking",
+          "start": 217.28,
+          "end": 217.72
+        },
+        {
+          "word": "neurological",
+          "start": 217.72,
+          "end": 218.08
+        },
+        {
+          "word": "secret",
+          "start": 218.08,
+          "end": 218.86
+        },
+        {
+          "word": "of",
+          "start": 218.86,
+          "end": 219.04
+        },
+        {
+          "word": "all,",
+          "start": 219.04,
+          "end": 219.28
+        },
+        {
+          "word": "who",
+          "start": 219.58,
+          "end": 219.76
+        },
+        {
+          "word": "exactly",
+          "start": 219.76,
+          "end": 220.02
+        },
+        {
+          "word": "did",
+          "start": 220.02,
+          "end": 220.44
+        },
+        {
+          "word": "you",
+          "start": 220.44,
+          "end": 220.58
+        },
+        {
+          "word": "pass",
+          "start": 220.58,
+          "end": 220.82
+        },
+        {
+          "word": "that",
+          "start": 220.82,
+          "end": 221.1
+        },
+        {
+          "word": "debt",
+          "start": 221.1,
+          "end": 221.28
+        },
+        {
+          "word": "to.",
+          "start": 221.28,
+          "end": 221.52
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 222.6,
+      "end": 232.44,
+      "text": "At UCLA, social psychologist Dr. Hal Hirschfield put human participants into fMRI brain scanners to investigate how the brain visualizes time.",
+      "words": [
+        {
+          "word": "At",
+          "start": 222.6,
+          "end": 223.28
+        },
+        {
+          "word": "UCLA,",
+          "start": 223.28,
+          "end": 223.74
+        },
+        {
+          "word": "social",
+          "start": 224.4,
+          "end": 224.72
+        },
+        {
+          "word": "psychologist",
+          "start": 224.72,
+          "end": 225.5
+        },
+        {
+          "word": "Dr.",
+          "start": 225.5,
+          "end": 225.86
+        },
+        {
+          "word": "Hal",
+          "start": 226.2,
+          "end": 226.22
+        },
+        {
+          "word": "Hirschfield",
+          "start": 226.22,
+          "end": 226.78
+        },
+        {
+          "word": "put",
+          "start": 226.78,
+          "end": 227.04
+        },
+        {
+          "word": "human",
+          "start": 227.04,
+          "end": 227.34
+        },
+        {
+          "word": "participants",
+          "start": 227.34,
+          "end": 227.76
+        },
+        {
+          "word": "into",
+          "start": 227.76,
+          "end": 228.34
+        },
+        {
+          "word": "fMRI",
+          "start": 228.34,
+          "end": 228.88
+        },
+        {
+          "word": "brain",
+          "start": 228.88,
+          "end": 229.32
+        },
+        {
+          "word": "scanners",
+          "start": 229.32,
+          "end": 229.68
+        },
+        {
+          "word": "to",
+          "start": 229.68,
+          "end": 230.12
+        },
+        {
+          "word": "investigate",
+          "start": 230.12,
+          "end": 230.46
+        },
+        {
+          "word": "how",
+          "start": 230.46,
+          "end": 231.0
+        },
+        {
+          "word": "the",
+          "start": 231.0,
+          "end": 231.12
+        },
+        {
+          "word": "brain",
+          "start": 231.12,
+          "end": 231.38
+        },
+        {
+          "word": "visualizes",
+          "start": 231.38,
+          "end": 232.08
+        },
+        {
+          "word": "time.",
+          "start": 232.08,
+          "end": 232.44
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 233.88,
+      "end": 240.8,
+      "text": "When researchers ask people to think about who they are right now, their current feelings, their current hunger, their current stress,",
+      "words": [
+        {
+          "word": "When",
+          "start": 233.88,
+          "end": 234.2
+        },
+        {
+          "word": "researchers",
+          "start": 234.2,
+          "end": 234.62
+        },
+        {
+          "word": "ask",
+          "start": 234.62,
+          "end": 235.1
+        },
+        {
+          "word": "people",
+          "start": 235.1,
+          "end": 235.52
+        },
+        {
+          "word": "to",
+          "start": 235.52,
+          "end": 235.7
+        },
+        {
+          "word": "think",
+          "start": 235.7,
+          "end": 235.92
+        },
+        {
+          "word": "about",
+          "start": 235.92,
+          "end": 236.14
+        },
+        {
+          "word": "who",
+          "start": 236.14,
+          "end": 236.38
+        },
+        {
+          "word": "they",
+          "start": 236.38,
+          "end": 236.54
+        },
+        {
+          "word": "are",
+          "start": 236.54,
+          "end": 236.68
+        },
+        {
+          "word": "right",
+          "start": 236.68,
+          "end": 236.9
+        },
+        {
+          "word": "now,",
+          "start": 236.9,
+          "end": 237.18
+        },
+        {
+          "word": "their",
+          "start": 237.58,
+          "end": 237.74
+        },
+        {
+          "word": "current",
+          "start": 237.74,
+          "end": 237.98
+        },
+        {
+          "word": "feelings,",
+          "start": 237.98,
+          "end": 238.42
+        },
+        {
+          "word": "their",
+          "start": 238.94,
+          "end": 239.04
+        },
+        {
+          "word": "current",
+          "start": 239.04,
+          "end": 239.3
+        },
+        {
+          "word": "hunger,",
+          "start": 239.3,
+          "end": 239.66
+        },
+        {
+          "word": "their",
+          "start": 240.08,
+          "end": 240.2
+        },
+        {
+          "word": "current",
+          "start": 240.2,
+          "end": 240.44
+        },
+        {
+          "word": "stress,",
+          "start": 240.44,
+          "end": 240.8
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 241.26,
+      "end": 245.5,
+      "text": "a specific region called the medial prefrontal cortex lit up like a Christmas tree.",
+      "words": [
+        {
+          "word": "a",
+          "start": 241.26,
+          "end": 241.42
+        },
+        {
+          "word": "specific",
+          "start": 241.42,
+          "end": 241.74
+        },
+        {
+          "word": "region",
+          "start": 241.74,
+          "end": 242.28
+        },
+        {
+          "word": "called",
+          "start": 242.28,
+          "end": 242.6
+        },
+        {
+          "word": "the",
+          "start": 242.6,
+          "end": 242.78
+        },
+        {
+          "word": "medial",
+          "start": 242.78,
+          "end": 243.06
+        },
+        {
+          "word": "prefrontal",
+          "start": 243.06,
+          "end": 243.42
+        },
+        {
+          "word": "cortex",
+          "start": 243.42,
+          "end": 244.08
+        },
+        {
+          "word": "lit",
+          "start": 244.08,
+          "end": 244.38
+        },
+        {
+          "word": "up",
+          "start": 244.38,
+          "end": 244.56
+        },
+        {
+          "word": "like",
+          "start": 244.56,
+          "end": 244.74
+        },
+        {
+          "word": "a",
+          "start": 244.74,
+          "end": 244.88
+        },
+        {
+          "word": "Christmas",
+          "start": 244.88,
+          "end": 245.12
+        },
+        {
+          "word": "tree.",
+          "start": 245.12,
+          "end": 245.5
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 246.66,
+      "end": 253.42,
+      "text": "Next, they ask participants to think about a total stranger, a random person waiting for a bus in another city.",
+      "words": [
+        {
+          "word": "Next,",
+          "start": 246.66,
+          "end": 247.3
+        },
+        {
+          "word": "they",
+          "start": 247.74,
+          "end": 247.86
+        },
+        {
+          "word": "ask",
+          "start": 247.86,
+          "end": 248.1
+        },
+        {
+          "word": "participants",
+          "start": 248.1,
+          "end": 248.48
+        },
+        {
+          "word": "to",
+          "start": 248.48,
+          "end": 249.0
+        },
+        {
+          "word": "think",
+          "start": 249.0,
+          "end": 249.16
+        },
+        {
+          "word": "about",
+          "start": 249.16,
+          "end": 249.44
+        },
+        {
+          "word": "a",
+          "start": 249.44,
+          "end": 249.56
+        },
+        {
+          "word": "total",
+          "start": 249.56,
+          "end": 249.78
+        },
+        {
+          "word": "stranger,",
+          "start": 249.78,
+          "end": 250.2
+        },
+        {
+          "word": "a",
+          "start": 250.74,
+          "end": 250.9
+        },
+        {
+          "word": "random",
+          "start": 250.9,
+          "end": 251.14
+        },
+        {
+          "word": "person",
+          "start": 251.14,
+          "end": 251.56
+        },
+        {
+          "word": "waiting",
+          "start": 251.56,
+          "end": 251.88
+        },
+        {
+          "word": "for",
+          "start": 251.88,
+          "end": 252.24
+        },
+        {
+          "word": "a",
+          "start": 252.24,
+          "end": 252.32
+        },
+        {
+          "word": "bus",
+          "start": 252.32,
+          "end": 252.52
+        },
+        {
+          "word": "in",
+          "start": 252.52,
+          "end": 252.78
+        },
+        {
+          "word": "another",
+          "start": 252.78,
+          "end": 252.96
+        },
+        {
+          "word": "city.",
+          "start": 252.96,
+          "end": 253.42
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 254.52,
+      "end": 258.46,
+      "text": "As expected, that self-processing neural circuit powered down completely.",
+      "words": [
+        {
+          "word": "As",
+          "start": 254.52,
+          "end": 254.62
+        },
+        {
+          "word": "expected,",
+          "start": 254.62,
+          "end": 255.04
+        },
+        {
+          "word": "that",
+          "start": 255.04,
+          "end": 255.68
+        },
+        {
+          "word": "self",
+          "start": 255.68,
+          "end": 255.9
+        },
+        {
+          "word": "-processing",
+          "start": 255.9,
+          "end": 256.44
+        },
+        {
+          "word": "neural",
+          "start": 256.44,
+          "end": 256.8
+        },
+        {
+          "word": "circuit",
+          "start": 256.8,
+          "end": 257.22
+        },
+        {
+          "word": "powered",
+          "start": 257.22,
+          "end": 257.66
+        },
+        {
+          "word": "down",
+          "start": 257.66,
+          "end": 257.98
+        },
+        {
+          "word": "completely.",
+          "start": 257.98,
+          "end": 258.46
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 260.38,
+      "end": 261.08,
+      "text": "Then came the breakthrough.",
+      "words": [
+        {
+          "word": "Then",
+          "start": 260.38,
+          "end": 260.38
+        },
+        {
+          "word": "came",
+          "start": 260.38,
+          "end": 260.6
+        },
+        {
+          "word": "the",
+          "start": 260.6,
+          "end": 260.84
+        },
+        {
+          "word": "breakthrough.",
+          "start": 260.84,
+          "end": 261.08
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 262.52,
+      "end": 270.82,
+      "text": "Hirschfield asked participants to think about their future self, the version of them that would exist in 10 years, next month, or even tomorrow morning.",
+      "words": [
+        {
+          "word": "Hirschfield",
+          "start": 262.52,
+          "end": 262.86
+        },
+        {
+          "word": "asked",
+          "start": 262.86,
+          "end": 263.12
+        },
+        {
+          "word": "participants",
+          "start": 263.12,
+          "end": 263.62
+        },
+        {
+          "word": "to",
+          "start": 263.62,
+          "end": 264.1
+        },
+        {
+          "word": "think",
+          "start": 264.1,
+          "end": 264.28
+        },
+        {
+          "word": "about",
+          "start": 264.28,
+          "end": 264.54
+        },
+        {
+          "word": "their",
+          "start": 264.54,
+          "end": 264.74
+        },
+        {
+          "word": "future",
+          "start": 264.74,
+          "end": 264.98
+        },
+        {
+          "word": "self,",
+          "start": 264.98,
+          "end": 265.42
+        },
+        {
+          "word": "the",
+          "start": 265.9,
+          "end": 266.1
+        },
+        {
+          "word": "version",
+          "start": 266.1,
+          "end": 266.32
+        },
+        {
+          "word": "of",
+          "start": 266.32,
+          "end": 266.62
+        },
+        {
+          "word": "them",
+          "start": 266.62,
+          "end": 266.78
+        },
+        {
+          "word": "that",
+          "start": 266.78,
+          "end": 266.96
+        },
+        {
+          "word": "would",
+          "start": 266.96,
+          "end": 267.12
+        },
+        {
+          "word": "exist",
+          "start": 267.12,
+          "end": 267.36
+        },
+        {
+          "word": "in",
+          "start": 267.36,
+          "end": 267.74
+        },
+        {
+          "word": "10",
+          "start": 267.74,
+          "end": 267.98
+        },
+        {
+          "word": "years,",
+          "start": 267.98,
+          "end": 268.32
+        },
+        {
+          "word": "next",
+          "start": 268.74,
+          "end": 268.98
+        },
+        {
+          "word": "month,",
+          "start": 268.98,
+          "end": 269.28
+        },
+        {
+          "word": "or",
+          "start": 269.6,
+          "end": 269.8
+        },
+        {
+          "word": "even",
+          "start": 269.8,
+          "end": 270.04
+        },
+        {
+          "word": "tomorrow",
+          "start": 270.04,
+          "end": 270.22
+        },
+        {
+          "word": "morning.",
+          "start": 270.22,
+          "end": 270.82
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 272.04,
+      "end": 274.5,
+      "text": "Neurologically, something jaw-dropping happened.",
+      "words": [
+        {
+          "word": "Neurologically,",
+          "start": 272.04,
+          "end": 272.68
+        },
+        {
+          "word": "something",
+          "start": 273.0,
+          "end": 273.42
+        },
+        {
+          "word": "jaw",
+          "start": 273.42,
+          "end": 273.66
+        },
+        {
+          "word": "-dropping",
+          "start": 273.66,
+          "end": 274.02
+        },
+        {
+          "word": "happened.",
+          "start": 274.02,
+          "end": 274.5
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 275.74,
+      "end": 280.96,
+      "text": "The brain processed the future self in the exact same pattern it used for a complete stranger.",
+      "words": [
+        {
+          "word": "The",
+          "start": 275.74,
+          "end": 276.3
+        },
+        {
+          "word": "brain",
+          "start": 276.3,
+          "end": 276.56
+        },
+        {
+          "word": "processed",
+          "start": 276.56,
+          "end": 276.98
+        },
+        {
+          "word": "the",
+          "start": 276.98,
+          "end": 277.34
+        },
+        {
+          "word": "future",
+          "start": 277.34,
+          "end": 277.56
+        },
+        {
+          "word": "self",
+          "start": 277.56,
+          "end": 277.98
+        },
+        {
+          "word": "in",
+          "start": 277.98,
+          "end": 278.2
+        },
+        {
+          "word": "the",
+          "start": 278.2,
+          "end": 278.3
+        },
+        {
+          "word": "exact",
+          "start": 278.3,
+          "end": 278.58
+        },
+        {
+          "word": "same",
+          "start": 278.58,
+          "end": 279.0
+        },
+        {
+          "word": "pattern",
+          "start": 279.0,
+          "end": 279.4
+        },
+        {
+          "word": "it",
+          "start": 279.4,
+          "end": 279.58
+        },
+        {
+          "word": "used",
+          "start": 279.58,
+          "end": 279.86
+        },
+        {
+          "word": "for",
+          "start": 279.86,
+          "end": 280.12
+        },
+        {
+          "word": "a",
+          "start": 280.12,
+          "end": 280.2
+        },
+        {
+          "word": "complete",
+          "start": 280.2,
+          "end": 280.5
+        },
+        {
+          "word": "stranger.",
+          "start": 280.5,
+          "end": 280.96
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 282.04,
+      "end": 285.12,
+      "text": "To your subconscious mind, tomorrow you is not you.",
+      "words": [
+        {
+          "word": "To",
+          "start": 282.04,
+          "end": 282.26
+        },
+        {
+          "word": "your",
+          "start": 282.26,
+          "end": 282.42
+        },
+        {
+          "word": "subconscious",
+          "start": 282.42,
+          "end": 282.82
+        },
+        {
+          "word": "mind,",
+          "start": 282.82,
+          "end": 283.42
+        },
+        {
+          "word": "tomorrow",
+          "start": 283.86,
+          "end": 284.06
+        },
+        {
+          "word": "you",
+          "start": 284.06,
+          "end": 284.44
+        },
+        {
+          "word": "is",
+          "start": 284.44,
+          "end": 284.68
+        },
+        {
+          "word": "not",
+          "start": 284.68,
+          "end": 284.88
+        },
+        {
+          "word": "you.",
+          "start": 284.88,
+          "end": 285.12
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 286.2,
+      "end": 293.1,
+      "text": "Tomorrow you is an unfamiliar person who can handle all the stress, exhaustion, and pain that you don't feel like dealing with tonight.",
+      "words": [
+        {
+          "word": "Tomorrow",
+          "start": 286.2,
+          "end": 286.44
+        },
+        {
+          "word": "you",
+          "start": 286.44,
+          "end": 286.84
+        },
+        {
+          "word": "is",
+          "start": 286.84,
+          "end": 287.06
+        },
+        {
+          "word": "an",
+          "start": 287.06,
+          "end": 287.16
+        },
+        {
+          "word": "unfamiliar",
+          "start": 287.16,
+          "end": 287.54
+        },
+        {
+          "word": "person",
+          "start": 287.54,
+          "end": 288.18
+        },
+        {
+          "word": "who",
+          "start": 288.18,
+          "end": 288.4
+        },
+        {
+          "word": "can",
+          "start": 288.4,
+          "end": 288.52
+        },
+        {
+          "word": "handle",
+          "start": 288.52,
+          "end": 288.86
+        },
+        {
+          "word": "all",
+          "start": 288.86,
+          "end": 289.1
+        },
+        {
+          "word": "the",
+          "start": 289.1,
+          "end": 289.26
+        },
+        {
+          "word": "stress,",
+          "start": 289.26,
+          "end": 289.54
+        },
+        {
+          "word": "exhaustion,",
+          "start": 289.98,
+          "end": 290.48
+        },
+        {
+          "word": "and",
+          "start": 290.94,
+          "end": 290.98
+        },
+        {
+          "word": "pain",
+          "start": 290.98,
+          "end": 291.2
+        },
+        {
+          "word": "that",
+          "start": 291.2,
+          "end": 291.46
+        },
+        {
+          "word": "you",
+          "start": 291.46,
+          "end": 291.58
+        },
+        {
+          "word": "don't",
+          "start": 291.58,
+          "end": 291.86
+        },
+        {
+          "word": "feel",
+          "start": 291.86,
+          "end": 292.02
+        },
+        {
+          "word": "like",
+          "start": 292.02,
+          "end": 292.24
+        },
+        {
+          "word": "dealing",
+          "start": 292.24,
+          "end": 292.48
+        },
+        {
+          "word": "with",
+          "start": 292.48,
+          "end": 292.8
+        },
+        {
+          "word": "tonight.",
+          "start": 292.8,
+          "end": 293.1
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 294.78,
+      "end": 297.5,
+      "text": "You tell yourself, tomorrow Sam will have superhuman discipline.",
+      "words": [
+        {
+          "word": "You",
+          "start": 294.78,
+          "end": 294.86
+        },
+        {
+          "word": "tell",
+          "start": 294.86,
+          "end": 295.06
+        },
+        {
+          "word": "yourself,",
+          "start": 295.06,
+          "end": 295.56
+        },
+        {
+          "word": "tomorrow",
+          "start": 295.96,
+          "end": 296.24
+        },
+        {
+          "word": "Sam",
+          "start": 296.24,
+          "end": 296.66
+        },
+        {
+          "word": "will",
+          "start": 296.66,
+          "end": 296.92
+        },
+        {
+          "word": "have",
+          "start": 296.92,
+          "end": 297.12
+        },
+        {
+          "word": "superhuman",
+          "start": 297.12,
+          "end": 297.48
+        },
+        {
+          "word": "discipline.",
+          "start": 297.48,
+          "end": 297.76
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 299.04,
+      "end": 304.82,
+      "text": "Tomorrow Sam will wake up at 6 a.m. full of energy and write that 10 page paper in two hours.",
+      "words": [
+        {
+          "word": "Tomorrow",
+          "start": 299.04,
+          "end": 299.56
+        },
+        {
+          "word": "Sam",
+          "start": 299.56,
+          "end": 300.08
+        },
+        {
+          "word": "will",
+          "start": 300.08,
+          "end": 300.32
+        },
+        {
+          "word": "wake",
+          "start": 300.32,
+          "end": 300.52
+        },
+        {
+          "word": "up",
+          "start": 300.52,
+          "end": 300.72
+        },
+        {
+          "word": "at",
+          "start": 300.72,
+          "end": 300.9
+        },
+        {
+          "word": "6",
+          "start": 300.9,
+          "end": 301.12
+        },
+        {
+          "word": "a",
+          "start": 301.12,
+          "end": 301.42
+        },
+        {
+          "word": ".m.",
+          "start": 301.42,
+          "end": 301.64
+        },
+        {
+          "word": "full",
+          "start": 301.88,
+          "end": 301.92
+        },
+        {
+          "word": "of",
+          "start": 301.92,
+          "end": 302.06
+        },
+        {
+          "word": "energy",
+          "start": 302.06,
+          "end": 302.36
+        },
+        {
+          "word": "and",
+          "start": 302.36,
+          "end": 302.72
+        },
+        {
+          "word": "write",
+          "start": 302.72,
+          "end": 302.96
+        },
+        {
+          "word": "that",
+          "start": 302.96,
+          "end": 303.18
+        },
+        {
+          "word": "10",
+          "start": 303.18,
+          "end": 303.42
+        },
+        {
+          "word": "page",
+          "start": 303.42,
+          "end": 303.68
+        },
+        {
+          "word": "paper",
+          "start": 303.68,
+          "end": 303.96
+        },
+        {
+          "word": "in",
+          "start": 303.96,
+          "end": 304.26
+        },
+        {
+          "word": "two",
+          "start": 304.26,
+          "end": 304.42
+        },
+        {
+          "word": "hours.",
+          "start": 304.42,
+          "end": 304.82
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 306.54,
+      "end": 307.82,
+      "text": "But tomorrow morning arrives.",
+      "words": [
+        {
+          "word": "But",
+          "start": 306.54,
+          "end": 306.62
+        },
+        {
+          "word": "tomorrow",
+          "start": 306.62,
+          "end": 306.88
+        },
+        {
+          "word": "morning",
+          "start": 306.88,
+          "end": 307.38
+        },
+        {
+          "word": "arrives.",
+          "start": 307.38,
+          "end": 307.82
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 309.04,
+      "end": 312.12,
+      "text": "And the cruel joke is revealed that stranger is you.",
+      "words": [
+        {
+          "word": "And",
+          "start": 309.04,
+          "end": 309.24
+        },
+        {
+          "word": "the",
+          "start": 309.24,
+          "end": 309.36
+        },
+        {
+          "word": "cruel",
+          "start": 309.36,
+          "end": 309.58
+        },
+        {
+          "word": "joke",
+          "start": 309.58,
+          "end": 309.9
+        },
+        {
+          "word": "is",
+          "start": 309.9,
+          "end": 310.24
+        },
+        {
+          "word": "revealed",
+          "start": 310.24,
+          "end": 310.54
+        },
+        {
+          "word": "that",
+          "start": 310.54,
+          "end": 311.16
+        },
+        {
+          "word": "stranger",
+          "start": 311.16,
+          "end": 311.44
+        },
+        {
+          "word": "is",
+          "start": 311.44,
+          "end": 311.92
+        },
+        {
+          "word": "you.",
+          "start": 311.92,
+          "end": 312.12
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 313.72,
+      "end": 318.98,
+      "text": "You inherited the debt, you inherited the exhaustion, and now you have less time than you started with.",
+      "words": [
+        {
+          "word": "You",
+          "start": 313.72,
+          "end": 313.88
+        },
+        {
+          "word": "inherited",
+          "start": 313.88,
+          "end": 314.28
+        },
+        {
+          "word": "the",
+          "start": 314.28,
+          "end": 314.58
+        },
+        {
+          "word": "debt,",
+          "start": 314.58,
+          "end": 314.8
+        },
+        {
+          "word": "you",
+          "start": 315.18,
+          "end": 315.28
+        },
+        {
+          "word": "inherited",
+          "start": 315.28,
+          "end": 315.68
+        },
+        {
+          "word": "the",
+          "start": 315.68,
+          "end": 315.94
+        },
+        {
+          "word": "exhaustion,",
+          "start": 315.94,
+          "end": 316.28
+        },
+        {
+          "word": "and",
+          "start": 316.86,
+          "end": 316.96
+        },
+        {
+          "word": "now",
+          "start": 316.96,
+          "end": 317.18
+        },
+        {
+          "word": "you",
+          "start": 317.18,
+          "end": 317.38
+        },
+        {
+          "word": "have",
+          "start": 317.38,
+          "end": 317.56
+        },
+        {
+          "word": "less",
+          "start": 317.56,
+          "end": 317.74
+        },
+        {
+          "word": "time",
+          "start": 317.74,
+          "end": 318.08
+        },
+        {
+          "word": "than",
+          "start": 318.08,
+          "end": 318.26
+        },
+        {
+          "word": "you",
+          "start": 318.26,
+          "end": 318.4
+        },
+        {
+          "word": "started",
+          "start": 318.4,
+          "end": 318.64
+        },
+        {
+          "word": "with.",
+          "start": 318.64,
+          "end": 318.98
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 319.74,
+      "end": 322.54,
+      "text": "So why does this loop feel impossible to escape?",
+      "words": [
+        {
+          "word": "So",
+          "start": 319.74,
+          "end": 320.26
+        },
+        {
+          "word": "why",
+          "start": 320.26,
+          "end": 320.52
+        },
+        {
+          "word": "does",
+          "start": 320.52,
+          "end": 320.68
+        },
+        {
+          "word": "this",
+          "start": 320.68,
+          "end": 320.86
+        },
+        {
+          "word": "loop",
+          "start": 320.86,
+          "end": 321.12
+        },
+        {
+          "word": "feel",
+          "start": 321.12,
+          "end": 321.4
+        },
+        {
+          "word": "impossible",
+          "start": 321.4,
+          "end": 321.82
+        },
+        {
+          "word": "to",
+          "start": 321.82,
+          "end": 322.24
+        },
+        {
+          "word": "escape?",
+          "start": 322.24,
+          "end": 322.54
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 322.54,
+      "end": 327.64,
+      "text": "I want to run a quick, real-time experiment with you right now.",
+      "words": [
+        {
+          "word": "I",
+          "start": 322.54,
+          "end": 323.52
+        },
+        {
+          "word": "want",
+          "start": 323.52,
+          "end": 324.66
+        },
+        {
+          "word": "to",
+          "start": 324.66,
+          "end": 324.82
+        },
+        {
+          "word": "run",
+          "start": 324.82,
+          "end": 324.96
+        },
+        {
+          "word": "a",
+          "start": 324.96,
+          "end": 325.06
+        },
+        {
+          "word": "quick,",
+          "start": 325.06,
+          "end": 325.28
+        },
+        {
+          "word": "real",
+          "start": 325.52,
+          "end": 325.8
+        },
+        {
+          "word": "-time",
+          "start": 325.8,
+          "end": 326.16
+        },
+        {
+          "word": "experiment",
+          "start": 326.16,
+          "end": 326.58
+        },
+        {
+          "word": "with",
+          "start": 326.58,
+          "end": 326.94
+        },
+        {
+          "word": "you",
+          "start": 326.94,
+          "end": 327.1
+        },
+        {
+          "word": "right",
+          "start": 327.1,
+          "end": 327.3
+        },
+        {
+          "word": "now.",
+          "start": 327.3,
+          "end": 327.64
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 328.66,
+      "end": 329.72,
+      "text": "Do not skip forward.",
+      "words": [
+        {
+          "word": "Do",
+          "start": 328.66,
+          "end": 328.74
+        },
+        {
+          "word": "not",
+          "start": 328.74,
+          "end": 328.96
+        },
+        {
+          "word": "skip",
+          "start": 328.96,
+          "end": 329.28
+        },
+        {
+          "word": "forward.",
+          "start": 329.28,
+          "end": 329.72
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 330.74,
+      "end": 332.38,
+      "text": "Do not look away from this screen.",
+      "words": [
+        {
+          "word": "Do",
+          "start": 330.74,
+          "end": 330.96
+        },
+        {
+          "word": "not",
+          "start": 330.96,
+          "end": 331.14
+        },
+        {
+          "word": "look",
+          "start": 331.14,
+          "end": 331.36
+        },
+        {
+          "word": "away",
+          "start": 331.36,
+          "end": 331.58
+        },
+        {
+          "word": "from",
+          "start": 331.58,
+          "end": 331.9
+        },
+        {
+          "word": "this",
+          "start": 331.9,
+          "end": 332.04
+        },
+        {
+          "word": "screen.",
+          "start": 332.04,
+          "end": 332.38
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 333.82,
+      "end": 341.06,
+      "text": "In the next five seconds, think about the one single project, phone call, or chore that you have been putting off for the past week.",
+      "words": [
+        {
+          "word": "In",
+          "start": 333.82,
+          "end": 334.12
+        },
+        {
+          "word": "the",
+          "start": 334.12,
+          "end": 334.22
+        },
+        {
+          "word": "next",
+          "start": 334.22,
+          "end": 334.42
+        },
+        {
+          "word": "five",
+          "start": 334.42,
+          "end": 334.8
+        },
+        {
+          "word": "seconds,",
+          "start": 334.8,
+          "end": 335.3
+        },
+        {
+          "word": "think",
+          "start": 335.66,
+          "end": 335.84
+        },
+        {
+          "word": "about",
+          "start": 335.84,
+          "end": 336.06
+        },
+        {
+          "word": "the",
+          "start": 336.06,
+          "end": 336.24
+        },
+        {
+          "word": "one",
+          "start": 336.24,
+          "end": 336.44
+        },
+        {
+          "word": "single",
+          "start": 336.44,
+          "end": 336.78
+        },
+        {
+          "word": "project,",
+          "start": 336.78,
+          "end": 337.32
+        },
+        {
+          "word": "phone",
+          "start": 337.72,
+          "end": 337.94
+        },
+        {
+          "word": "call,",
+          "start": 337.94,
+          "end": 338.2
+        },
+        {
+          "word": "or",
+          "start": 338.7,
+          "end": 338.82
+        },
+        {
+          "word": "chore",
+          "start": 338.82,
+          "end": 339.02
+        },
+        {
+          "word": "that",
+          "start": 339.02,
+          "end": 339.3
+        },
+        {
+          "word": "you",
+          "start": 339.3,
+          "end": 339.46
+        },
+        {
+          "word": "have",
+          "start": 339.46,
+          "end": 339.58
+        },
+        {
+          "word": "been",
+          "start": 339.58,
+          "end": 339.72
+        },
+        {
+          "word": "putting",
+          "start": 339.72,
+          "end": 339.92
+        },
+        {
+          "word": "off",
+          "start": 339.92,
+          "end": 340.24
+        },
+        {
+          "word": "for",
+          "start": 340.24,
+          "end": 340.44
+        },
+        {
+          "word": "the",
+          "start": 340.44,
+          "end": 340.52
+        },
+        {
+          "word": "past",
+          "start": 340.52,
+          "end": 340.74
+        },
+        {
+          "word": "week.",
+          "start": 340.74,
+          "end": 341.06
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 342.2,
+      "end": 343.78,
+      "text": "Bring it into your mind right now.",
+      "words": [
+        {
+          "word": "Bring",
+          "start": 342.2,
+          "end": 342.36
+        },
+        {
+          "word": "it",
+          "start": 342.36,
+          "end": 342.52
+        },
+        {
+          "word": "into",
+          "start": 342.52,
+          "end": 342.66
+        },
+        {
+          "word": "your",
+          "start": 342.66,
+          "end": 342.92
+        },
+        {
+          "word": "mind",
+          "start": 342.92,
+          "end": 343.16
+        },
+        {
+          "word": "right",
+          "start": 343.16,
+          "end": 343.46
+        },
+        {
+          "word": "now.",
+          "start": 343.46,
+          "end": 343.78
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 345.56,
+      "end": 346.08,
+      "text": "5.",
+      "words": [
+        {
+          "word": "5.",
+          "start": 345.56,
+          "end": 346.08
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 348.64,
+      "end": 349.16,
+      "text": "4.",
+      "words": [
+        {
+          "word": "4.",
+          "start": 348.64,
+          "end": 349.16
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 350.58,
+      "end": 351.18,
+      "text": "3.",
+      "words": [
+        {
+          "word": "3.",
+          "start": 350.58,
+          "end": 351.18
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 354.58,
+      "end": 355.18,
+      "text": "2.",
+      "words": [
+        {
+          "word": "2.",
+          "start": 354.58,
+          "end": 355.18
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 357.68,
+      "end": 358.28,
+      "text": "1.",
+      "words": [
+        {
+          "word": "1.",
+          "start": 357.68,
+          "end": 358.28
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 360.68,
+      "end": 364.56,
+      "text": "Notice what happened in your body the moment that task flashed in your mind.",
+      "words": [
+        {
+          "word": "Notice",
+          "start": 360.68,
+          "end": 361.28
+        },
+        {
+          "word": "what",
+          "start": 361.28,
+          "end": 361.56
+        },
+        {
+          "word": "happened",
+          "start": 361.56,
+          "end": 361.86
+        },
+        {
+          "word": "in",
+          "start": 361.86,
+          "end": 362.04
+        },
+        {
+          "word": "your",
+          "start": 362.04,
+          "end": 362.16
+        },
+        {
+          "word": "body",
+          "start": 362.16,
+          "end": 362.36
+        },
+        {
+          "word": "the",
+          "start": 362.36,
+          "end": 362.62
+        },
+        {
+          "word": "moment",
+          "start": 362.62,
+          "end": 362.92
+        },
+        {
+          "word": "that",
+          "start": 362.92,
+          "end": 363.14
+        },
+        {
+          "word": "task",
+          "start": 363.14,
+          "end": 363.42
+        },
+        {
+          "word": "flashed",
+          "start": 363.42,
+          "end": 363.76
+        },
+        {
+          "word": "in",
+          "start": 363.76,
+          "end": 364.16
+        },
+        {
+          "word": "your",
+          "start": 364.16,
+          "end": 364.26
+        },
+        {
+          "word": "mind.",
+          "start": 364.26,
+          "end": 364.56
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 365.76,
+      "end": 367.1,
+      "text": "Did your breathing shallow out?",
+      "words": [
+        {
+          "word": "Did",
+          "start": 365.76,
+          "end": 365.8
+        },
+        {
+          "word": "your",
+          "start": 365.8,
+          "end": 365.92
+        },
+        {
+          "word": "breathing",
+          "start": 365.92,
+          "end": 366.28
+        },
+        {
+          "word": "shallow",
+          "start": 366.28,
+          "end": 366.64
+        },
+        {
+          "word": "out?",
+          "start": 366.64,
+          "end": 367.1
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 367.82,
+      "end": 370.44,
+      "text": "Did you feel a tiny knot in your solar plexus?",
+      "words": [
+        {
+          "word": "Did",
+          "start": 367.82,
+          "end": 368.24
+        },
+        {
+          "word": "you",
+          "start": 368.24,
+          "end": 368.4
+        },
+        {
+          "word": "feel",
+          "start": 368.4,
+          "end": 368.62
+        },
+        {
+          "word": "a",
+          "start": 368.62,
+          "end": 368.76
+        },
+        {
+          "word": "tiny",
+          "start": 368.76,
+          "end": 369.0
+        },
+        {
+          "word": "knot",
+          "start": 369.0,
+          "end": 369.32
+        },
+        {
+          "word": "in",
+          "start": 369.32,
+          "end": 369.46
+        },
+        {
+          "word": "your",
+          "start": 369.46,
+          "end": 369.6
+        },
+        {
+          "word": "solar",
+          "start": 369.6,
+          "end": 369.86
+        },
+        {
+          "word": "plexus?",
+          "start": 369.86,
+          "end": 370.44
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 371.3,
+      "end": 374.4,
+      "text": "Did an internal voice whisper, I'll do that later tonight?",
+      "words": [
+        {
+          "word": "Did",
+          "start": 371.3,
+          "end": 371.72
+        },
+        {
+          "word": "an",
+          "start": 371.72,
+          "end": 371.84
+        },
+        {
+          "word": "internal",
+          "start": 371.84,
+          "end": 372.14
+        },
+        {
+          "word": "voice",
+          "start": 372.14,
+          "end": 372.48
+        },
+        {
+          "word": "whisper,",
+          "start": 372.48,
+          "end": 372.94
+        },
+        {
+          "word": "I'll",
+          "start": 373.3,
+          "end": 373.52
+        },
+        {
+          "word": "do",
+          "start": 373.52,
+          "end": 373.64
+        },
+        {
+          "word": "that",
+          "start": 373.64,
+          "end": 373.82
+        },
+        {
+          "word": "later",
+          "start": 373.82,
+          "end": 374.06
+        },
+        {
+          "word": "tonight?",
+          "start": 374.06,
+          "end": 374.4
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 375.8,
+      "end": 380.5,
+      "text": "That microflinch is the exact friction that keeps millions of people trapped for years.",
+      "words": [
+        {
+          "word": "That",
+          "start": 375.8,
+          "end": 376.44
+        },
+        {
+          "word": "microflinch",
+          "start": 376.44,
+          "end": 377.08
+        },
+        {
+          "word": "is",
+          "start": 377.08,
+          "end": 377.22
+        },
+        {
+          "word": "the",
+          "start": 377.22,
+          "end": 377.36
+        },
+        {
+          "word": "exact",
+          "start": 377.36,
+          "end": 377.66
+        },
+        {
+          "word": "friction",
+          "start": 377.66,
+          "end": 378.06
+        },
+        {
+          "word": "that",
+          "start": 378.06,
+          "end": 378.46
+        },
+        {
+          "word": "keeps",
+          "start": 378.46,
+          "end": 378.68
+        },
+        {
+          "word": "millions",
+          "start": 378.68,
+          "end": 379.06
+        },
+        {
+          "word": "of",
+          "start": 379.06,
+          "end": 379.36
+        },
+        {
+          "word": "people",
+          "start": 379.36,
+          "end": 379.54
+        },
+        {
+          "word": "trapped",
+          "start": 379.54,
+          "end": 379.9
+        },
+        {
+          "word": "for",
+          "start": 379.9,
+          "end": 380.22
+        },
+        {
+          "word": "years.",
+          "start": 380.22,
+          "end": 380.5
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 381.64,
+      "end": 388.58,
+      "text": "In chemistry, there is a fundamental law known as activation energy, the minimum amount of energy required to start a reaction.",
+      "words": [
+        {
+          "word": "In",
+          "start": 381.64,
+          "end": 381.9
+        },
+        {
+          "word": "chemistry,",
+          "start": 381.9,
+          "end": 382.2
+        },
+        {
+          "word": "there",
+          "start": 382.74,
+          "end": 382.9
+        },
+        {
+          "word": "is",
+          "start": 382.9,
+          "end": 383.0
+        },
+        {
+          "word": "a",
+          "start": 383.0,
+          "end": 383.1
+        },
+        {
+          "word": "fundamental",
+          "start": 383.1,
+          "end": 383.42
+        },
+        {
+          "word": "law",
+          "start": 383.42,
+          "end": 383.92
+        },
+        {
+          "word": "known",
+          "start": 383.92,
+          "end": 384.12
+        },
+        {
+          "word": "as",
+          "start": 384.12,
+          "end": 384.42
+        },
+        {
+          "word": "activation",
+          "start": 384.42,
+          "end": 384.76
+        },
+        {
+          "word": "energy,",
+          "start": 384.76,
+          "end": 385.44
+        },
+        {
+          "word": "the",
+          "start": 385.9,
+          "end": 386.06
+        },
+        {
+          "word": "minimum",
+          "start": 386.06,
+          "end": 386.26
+        },
+        {
+          "word": "amount",
+          "start": 386.26,
+          "end": 386.68
+        },
+        {
+          "word": "of",
+          "start": 386.68,
+          "end": 386.86
+        },
+        {
+          "word": "energy",
+          "start": 386.86,
+          "end": 387.18
+        },
+        {
+          "word": "required",
+          "start": 387.18,
+          "end": 387.52
+        },
+        {
+          "word": "to",
+          "start": 387.52,
+          "end": 387.86
+        },
+        {
+          "word": "start",
+          "start": 387.86,
+          "end": 388.1
+        },
+        {
+          "word": "a",
+          "start": 388.1,
+          "end": 388.22
+        },
+        {
+          "word": "reaction.",
+          "start": 388.22,
+          "end": 388.58
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 389.98,
+      "end": 397.44,
+      "text": "When you define your task as write my master's thesis or clean the entire house, the activation energy is colossal.",
+      "words": [
+        {
+          "word": "When",
+          "start": 389.98,
+          "end": 390.44
+        },
+        {
+          "word": "you",
+          "start": 390.44,
+          "end": 390.56
+        },
+        {
+          "word": "define",
+          "start": 390.56,
+          "end": 390.82
+        },
+        {
+          "word": "your",
+          "start": 390.82,
+          "end": 391.14
+        },
+        {
+          "word": "task",
+          "start": 391.14,
+          "end": 391.5
+        },
+        {
+          "word": "as",
+          "start": 391.5,
+          "end": 391.8
+        },
+        {
+          "word": "write",
+          "start": 391.8,
+          "end": 392.22
+        },
+        {
+          "word": "my",
+          "start": 392.22,
+          "end": 392.46
+        },
+        {
+          "word": "master's",
+          "start": 392.46,
+          "end": 393.04
+        },
+        {
+          "word": "thesis",
+          "start": 393.04,
+          "end": 393.26
+        },
+        {
+          "word": "or",
+          "start": 393.26,
+          "end": 393.86
+        },
+        {
+          "word": "clean",
+          "start": 393.86,
+          "end": 394.3
+        },
+        {
+          "word": "the",
+          "start": 394.3,
+          "end": 394.56
+        },
+        {
+          "word": "entire",
+          "start": 394.56,
+          "end": 394.78
+        },
+        {
+          "word": "house,",
+          "start": 394.78,
+          "end": 395.38
+        },
+        {
+          "word": "the",
+          "start": 395.8,
+          "end": 395.9
+        },
+        {
+          "word": "activation",
+          "start": 395.9,
+          "end": 396.22
+        },
+        {
+          "word": "energy",
+          "start": 396.22,
+          "end": 396.8
+        },
+        {
+          "word": "is",
+          "start": 396.8,
+          "end": 397.2
+        },
+        {
+          "word": "colossal.",
+          "start": 397.2,
+          "end": 397.44
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 398.24,
+      "end": 404.98,
+      "text": "Your amygdala looks at that gigantic boulder, sounds the emergency sirens, and locks your muscles in place.",
+      "words": [
+        {
+          "word": "Your",
+          "start": 398.24,
+          "end": 398.96
+        },
+        {
+          "word": "amygdala",
+          "start": 398.96,
+          "end": 399.38
+        },
+        {
+          "word": "looks",
+          "start": 399.38,
+          "end": 399.82
+        },
+        {
+          "word": "at",
+          "start": 399.82,
+          "end": 400.0
+        },
+        {
+          "word": "that",
+          "start": 400.0,
+          "end": 400.12
+        },
+        {
+          "word": "gigantic",
+          "start": 400.12,
+          "end": 400.52
+        },
+        {
+          "word": "boulder,",
+          "start": 400.52,
+          "end": 400.98
+        },
+        {
+          "word": "sounds",
+          "start": 401.52,
+          "end": 401.8
+        },
+        {
+          "word": "the",
+          "start": 401.8,
+          "end": 402.0
+        },
+        {
+          "word": "emergency",
+          "start": 402.0,
+          "end": 402.36
+        },
+        {
+          "word": "sirens,",
+          "start": 402.36,
+          "end": 402.96
+        },
+        {
+          "word": "and",
+          "start": 403.48,
+          "end": 403.66
+        },
+        {
+          "word": "locks",
+          "start": 403.66,
+          "end": 403.88
+        },
+        {
+          "word": "your",
+          "start": 403.88,
+          "end": 404.14
+        },
+        {
+          "word": "muscles",
+          "start": 404.14,
+          "end": 404.42
+        },
+        {
+          "word": "in",
+          "start": 404.42,
+          "end": 404.72
+        },
+        {
+          "word": "place.",
+          "start": 404.72,
+          "end": 404.98
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 406.54,
+      "end": 410.46,
+      "text": "But once a chemical reaction begins, it releases its own energy.",
+      "words": [
+        {
+          "word": "But",
+          "start": 406.54,
+          "end": 406.82
+        },
+        {
+          "word": "once",
+          "start": 406.82,
+          "end": 407.02
+        },
+        {
+          "word": "a",
+          "start": 407.02,
+          "end": 407.24
+        },
+        {
+          "word": "chemical",
+          "start": 407.24,
+          "end": 407.48
+        },
+        {
+          "word": "reaction",
+          "start": 407.48,
+          "end": 407.88
+        },
+        {
+          "word": "begins,",
+          "start": 407.88,
+          "end": 408.48
+        },
+        {
+          "word": "it",
+          "start": 409.1,
+          "end": 409.24
+        },
+        {
+          "word": "releases",
+          "start": 409.24,
+          "end": 409.48
+        },
+        {
+          "word": "its",
+          "start": 409.48,
+          "end": 409.9
+        },
+        {
+          "word": "own",
+          "start": 409.9,
+          "end": 410.1
+        },
+        {
+          "word": "energy.",
+          "start": 410.1,
+          "end": 410.46
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 411.54,
+      "end": 416.3,
+      "text": "The entire secret to defeating chronic procrastination is not building superhuman willpower.",
+      "words": [
+        {
+          "word": "The",
+          "start": 411.54,
+          "end": 411.78
+        },
+        {
+          "word": "entire",
+          "start": 411.78,
+          "end": 412.06
+        },
+        {
+          "word": "secret",
+          "start": 412.06,
+          "end": 412.56
+        },
+        {
+          "word": "to",
+          "start": 412.56,
+          "end": 412.84
+        },
+        {
+          "word": "defeating",
+          "start": 412.84,
+          "end": 413.16
+        },
+        {
+          "word": "chronic",
+          "start": 413.16,
+          "end": 413.54
+        },
+        {
+          "word": "procrastination",
+          "start": 413.54,
+          "end": 414.32
+        },
+        {
+          "word": "is",
+          "start": 414.32,
+          "end": 414.78
+        },
+        {
+          "word": "not",
+          "start": 414.78,
+          "end": 414.96
+        },
+        {
+          "word": "building",
+          "start": 414.96,
+          "end": 415.34
+        },
+        {
+          "word": "superhuman",
+          "start": 415.34,
+          "end": 415.86
+        },
+        {
+          "word": "willpower.",
+          "start": 415.86,
+          "end": 416.3
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 417.62,
+      "end": 421.96,
+      "text": "It is reducing the activation energy until your amygdala can't even see the task.",
+      "words": [
+        {
+          "word": "It",
+          "start": 417.62,
+          "end": 417.82
+        },
+        {
+          "word": "is",
+          "start": 417.82,
+          "end": 417.94
+        },
+        {
+          "word": "reducing",
+          "start": 417.94,
+          "end": 418.2
+        },
+        {
+          "word": "the",
+          "start": 418.2,
+          "end": 418.58
+        },
+        {
+          "word": "activation",
+          "start": 418.58,
+          "end": 418.94
+        },
+        {
+          "word": "energy",
+          "start": 418.94,
+          "end": 419.54
+        },
+        {
+          "word": "until",
+          "start": 419.54,
+          "end": 419.94
+        },
+        {
+          "word": "your",
+          "start": 419.94,
+          "end": 420.18
+        },
+        {
+          "word": "amygdala",
+          "start": 420.18,
+          "end": 420.64
+        },
+        {
+          "word": "can't",
+          "start": 420.64,
+          "end": 421.1
+        },
+        {
+          "word": "even",
+          "start": 421.1,
+          "end": 421.24
+        },
+        {
+          "word": "see",
+          "start": 421.24,
+          "end": 421.5
+        },
+        {
+          "word": "the",
+          "start": 421.5,
+          "end": 421.68
+        },
+        {
+          "word": "task.",
+          "start": 421.68,
+          "end": 421.96
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "start": 423.2,
+      "end": 427.44,
+      "text": "So how do we outsmart hundreds of thousands of years of evolutionary wiring?",
+      "words": [
+        {
+          "word": "So",
+          "start": 423.2,
+          "end": 423.78
+        },
+        {
+          "word": "how",
+          "start": 423.78,
+          "end": 424.06
+        },
+        {
+          "word": "do",
+          "start": 424.06,
+          "end": 424.2
+        },
+        {
+          "word": "we",
+          "start": 424.2,
+          "end": 424.3
+        },
+        {
+          "word": "outsmart",
+          "start": 424.3,
+          "end": 424.72
+        },
+        {
+          "word": "hundreds",
+          "start": 424.72,
+          "end": 425.16
+        },
+        {
+          "word": "of",
+          "start": 425.16,
+          "end": 425.38
+        },
+        {
+          "word": "thousands",
+          "start": 425.38,
+          "end": 425.66
+        },
+        {
+          "word": "of",
+          "start": 425.66,
+          "end": 426.02
+        },
+        {
+          "word": "years",
+          "start": 426.02,
+          "end": 426.2
+        },
+        {
+          "word": "of",
+          "start": 426.2,
+          "end": 426.42
+        },
+        {
+          "word": "evolutionary",
+          "start": 426.42,
+          "end": 426.8
+        },
+        {
+          "word": "wiring?",
+          "start": 426.8,
+          "end": 427.44
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "start": 428.64,
+      "end": 432.94,
+      "text": "We use two precise, scientifically verified microhabit protocols.",
+      "words": [
+        {
+          "word": "We",
+          "start": 428.64,
+          "end": 428.78
+        },
+        {
+          "word": "use",
+          "start": 428.78,
+          "end": 429.02
+        },
+        {
+          "word": "two",
+          "start": 429.02,
+          "end": 429.3
+        },
+        {
+          "word": "precise,",
+          "start": 429.3,
+          "end": 429.68
+        },
+        {
+          "word": "scientifically",
+          "start": 430.36,
+          "end": 430.76
+        },
+        {
+          "word": "verified",
+          "start": 430.76,
+          "end": 431.26
+        },
+        {
+          "word": "microhabit",
+          "start": 431.26,
+          "end": 432.36
+        },
+        {
+          "word": "protocols.",
+          "start": 432.36,
+          "end": 432.94
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "start": 434.44,
+      "end": 441.32,
+      "text": "Protocol 1 is the two-minute gateway, popularized by behavioral scientist BJ Fogg and author James Clear.",
+      "words": [
+        {
+          "word": "Protocol",
+          "start": 434.44,
+          "end": 435.02
+        },
+        {
+          "word": "1",
+          "start": 435.02,
+          "end": 435.58
+        },
+        {
+          "word": "is",
+          "start": 435.58,
+          "end": 435.76
+        },
+        {
+          "word": "the",
+          "start": 435.76,
+          "end": 435.9
+        },
+        {
+          "word": "two",
+          "start": 435.9,
+          "end": 436.08
+        },
+        {
+          "word": "-minute",
+          "start": 436.08,
+          "end": 436.28
+        },
+        {
+          "word": "gateway,",
+          "start": 436.28,
+          "end": 436.56
+        },
+        {
+          "word": "popularized",
+          "start": 437.1,
+          "end": 437.88
+        },
+        {
+          "word": "by",
+          "start": 437.88,
+          "end": 438.08
+        },
+        {
+          "word": "behavioral",
+          "start": 438.08,
+          "end": 438.46
+        },
+        {
+          "word": "scientist",
+          "start": 438.46,
+          "end": 439.14
+        },
+        {
+          "word": "BJ",
+          "start": 439.14,
+          "end": 439.48
+        },
+        {
+          "word": "Fogg",
+          "start": 439.48,
+          "end": 440.1
+        },
+        {
+          "word": "and",
+          "start": 440.1,
+          "end": 440.32
+        },
+        {
+          "word": "author",
+          "start": 440.32,
+          "end": 440.54
+        },
+        {
+          "word": "James",
+          "start": 440.54,
+          "end": 441.0
+        },
+        {
+          "word": "Clear.",
+          "start": 441.0,
+          "end": 441.32
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "start": 442.18,
+      "end": 446.36,
+      "text": "The rule is deceptively simple, you are not allowed to do the full task.",
+      "words": [
+        {
+          "word": "The",
+          "start": 442.18,
+          "end": 442.66
+        },
+        {
+          "word": "rule",
+          "start": 442.66,
+          "end": 442.86
+        },
+        {
+          "word": "is",
+          "start": 442.86,
+          "end": 443.12
+        },
+        {
+          "word": "deceptively",
+          "start": 443.12,
+          "end": 443.68
+        },
+        {
+          "word": "simple,",
+          "start": 443.68,
+          "end": 444.02
+        },
+        {
+          "word": "you",
+          "start": 444.54,
+          "end": 444.68
+        },
+        {
+          "word": "are",
+          "start": 444.68,
+          "end": 444.8
+        },
+        {
+          "word": "not",
+          "start": 444.8,
+          "end": 445.0
+        },
+        {
+          "word": "allowed",
+          "start": 445.0,
+          "end": 445.26
+        },
+        {
+          "word": "to",
+          "start": 445.26,
+          "end": 445.54
+        },
+        {
+          "word": "do",
+          "start": 445.54,
+          "end": 445.66
+        },
+        {
+          "word": "the",
+          "start": 445.66,
+          "end": 445.8
+        },
+        {
+          "word": "full",
+          "start": 445.8,
+          "end": 445.98
+        },
+        {
+          "word": "task.",
+          "start": 445.98,
+          "end": 446.36
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "start": 447.4,
+      "end": 450.12,
+      "text": "You are only allowed to perform the first two minutes.",
+      "words": [
+        {
+          "word": "You",
+          "start": 447.4,
+          "end": 447.74
+        },
+        {
+          "word": "are",
+          "start": 447.74,
+          "end": 447.88
+        },
+        {
+          "word": "only",
+          "start": 447.88,
+          "end": 448.16
+        },
+        {
+          "word": "allowed",
+          "start": 448.16,
+          "end": 448.5
+        },
+        {
+          "word": "to",
+          "start": 448.5,
+          "end": 448.76
+        },
+        {
+          "word": "perform",
+          "start": 448.76,
+          "end": 449.02
+        },
+        {
+          "word": "the",
+          "start": 449.02,
+          "end": 449.32
+        },
+        {
+          "word": "first",
+          "start": 449.32,
+          "end": 449.56
+        },
+        {
+          "word": "two",
+          "start": 449.56,
+          "end": 449.84
+        },
+        {
+          "word": "minutes.",
+          "start": 449.84,
+          "end": 450.12
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "start": 451.36,
+      "end": 453.82,
+      "text": "You aren't writing a 2000 word essay.",
+      "words": [
+        {
+          "word": "You",
+          "start": 451.36,
+          "end": 451.94
+        },
+        {
+          "word": "aren't",
+          "start": 451.94,
+          "end": 452.26
+        },
+        {
+          "word": "writing",
+          "start": 452.26,
+          "end": 452.54
+        },
+        {
+          "word": "a",
+          "start": 452.54,
+          "end": 452.68
+        },
+        {
+          "word": "2000",
+          "start": 452.68,
+          "end": 452.9
+        },
+        {
+          "word": "word",
+          "start": 452.9,
+          "end": 453.54
+        },
+        {
+          "word": "essay.",
+          "start": 453.54,
+          "end": 453.82
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "start": 455.02,
+      "end": 457.02,
+      "text": "Your only goal is to write one sentence.",
+      "words": [
+        {
+          "word": "Your",
+          "start": 455.02,
+          "end": 455.18
+        },
+        {
+          "word": "only",
+          "start": 455.18,
+          "end": 455.48
+        },
+        {
+          "word": "goal",
+          "start": 455.48,
+          "end": 455.76
+        },
+        {
+          "word": "is",
+          "start": 455.76,
+          "end": 456.04
+        },
+        {
+          "word": "to",
+          "start": 456.04,
+          "end": 456.18
+        },
+        {
+          "word": "write",
+          "start": 456.18,
+          "end": 456.38
+        },
+        {
+          "word": "one",
+          "start": 456.38,
+          "end": 456.62
+        },
+        {
+          "word": "sentence.",
+          "start": 456.62,
+          "end": 457.02
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "start": 458.32,
+      "end": 460.28,
+      "text": "You aren't doing a 45-minute workout.",
+      "words": [
+        {
+          "word": "You",
+          "start": 458.32,
+          "end": 458.48
+        },
+        {
+          "word": "aren't",
+          "start": 458.48,
+          "end": 458.8
+        },
+        {
+          "word": "doing",
+          "start": 458.8,
+          "end": 458.96
+        },
+        {
+          "word": "a",
+          "start": 458.96,
+          "end": 459.14
+        },
+        {
+          "word": "45",
+          "start": 459.14,
+          "end": 459.4
+        },
+        {
+          "word": "-minute",
+          "start": 459.4,
+          "end": 459.98
+        },
+        {
+          "word": "workout.",
+          "start": 459.98,
+          "end": 460.28
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "start": 461.3,
+      "end": 464.86,
+      "text": "Your only goal is to put on your running shoes and tie the laces.",
+      "words": [
+        {
+          "word": "Your",
+          "start": 461.3,
+          "end": 461.72
+        },
+        {
+          "word": "only",
+          "start": 461.72,
+          "end": 462.0
+        },
+        {
+          "word": "goal",
+          "start": 462.0,
+          "end": 462.28
+        },
+        {
+          "word": "is",
+          "start": 462.28,
+          "end": 462.58
+        },
+        {
+          "word": "to",
+          "start": 462.58,
+          "end": 462.7
+        },
+        {
+          "word": "put",
+          "start": 462.7,
+          "end": 462.9
+        },
+        {
+          "word": "on",
+          "start": 462.9,
+          "end": 463.06
+        },
+        {
+          "word": "your",
+          "start": 463.06,
+          "end": 463.18
+        },
+        {
+          "word": "running",
+          "start": 463.18,
+          "end": 463.42
+        },
+        {
+          "word": "shoes",
+          "start": 463.42,
+          "end": 463.8
+        },
+        {
+          "word": "and",
+          "start": 463.8,
+          "end": 464.1
+        },
+        {
+          "word": "tie",
+          "start": 464.1,
+          "end": 464.32
+        },
+        {
+          "word": "the",
+          "start": 464.32,
+          "end": 464.48
+        },
+        {
+          "word": "laces.",
+          "start": 464.48,
+          "end": 464.86
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "start": 465.84,
+      "end": 467.94,
+      "text": "You aren't reading an entire textbook.",
+      "words": [
+        {
+          "word": "You",
+          "start": 465.84,
+          "end": 466.2
+        },
+        {
+          "word": "aren't",
+          "start": 466.2,
+          "end": 466.56
+        },
+        {
+          "word": "reading",
+          "start": 466.56,
+          "end": 466.82
+        },
+        {
+          "word": "an",
+          "start": 466.82,
+          "end": 466.98
+        },
+        {
+          "word": "entire",
+          "start": 466.98,
+          "end": 467.26
+        },
+        {
+          "word": "textbook.",
+          "start": 467.26,
+          "end": 467.94
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "start": 468.96,
+      "end": 470.64,
+      "text": "You're reading three bullet points.",
+      "words": [
+        {
+          "word": "You're",
+          "start": 468.96,
+          "end": 469.36
+        },
+        {
+          "word": "reading",
+          "start": 469.36,
+          "end": 469.62
+        },
+        {
+          "word": "three",
+          "start": 469.62,
+          "end": 469.96
+        },
+        {
+          "word": "bullet",
+          "start": 469.96,
+          "end": 470.3
+        },
+        {
+          "word": "points.",
+          "start": 470.3,
+          "end": 470.64
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "start": 472.08,
+      "end": 473.24,
+      "text": "Why does this work?",
+      "words": [
+        {
+          "word": "Why",
+          "start": 472.08,
+          "end": 472.6
+        },
+        {
+          "word": "does",
+          "start": 472.6,
+          "end": 472.76
+        },
+        {
+          "word": "this",
+          "start": 472.76,
+          "end": 472.92
+        },
+        {
+          "word": "work?",
+          "start": 472.92,
+          "end": 473.24
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "start": 474.04,
+      "end": 479.74,
+      "text": "Because one sentence is so laughably small that your amygdala does not register it as an emotional threat.",
+      "words": [
+        {
+          "word": "Because",
+          "start": 474.04,
+          "end": 474.66
+        },
+        {
+          "word": "one",
+          "start": 474.66,
+          "end": 474.92
+        },
+        {
+          "word": "sentence",
+          "start": 474.92,
+          "end": 475.34
+        },
+        {
+          "word": "is",
+          "start": 475.34,
+          "end": 475.62
+        },
+        {
+          "word": "so",
+          "start": 475.62,
+          "end": 475.86
+        },
+        {
+          "word": "laughably",
+          "start": 475.86,
+          "end": 476.34
+        },
+        {
+          "word": "small",
+          "start": 476.34,
+          "end": 476.7
+        },
+        {
+          "word": "that",
+          "start": 476.7,
+          "end": 476.96
+        },
+        {
+          "word": "your",
+          "start": 476.96,
+          "end": 477.1
+        },
+        {
+          "word": "amygdala",
+          "start": 477.1,
+          "end": 477.52
+        },
+        {
+          "word": "does",
+          "start": 477.52,
+          "end": 477.82
+        },
+        {
+          "word": "not",
+          "start": 477.82,
+          "end": 478.0
+        },
+        {
+          "word": "register",
+          "start": 478.0,
+          "end": 478.38
+        },
+        {
+          "word": "it",
+          "start": 478.38,
+          "end": 478.7
+        },
+        {
+          "word": "as",
+          "start": 478.7,
+          "end": 478.86
+        },
+        {
+          "word": "an",
+          "start": 478.86,
+          "end": 478.96
+        },
+        {
+          "word": "emotional",
+          "start": 478.96,
+          "end": 479.18
+        },
+        {
+          "word": "threat.",
+          "start": 479.18,
+          "end": 479.74
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "start": 480.88,
+      "end": 482.22,
+      "text": "The alarm stays silent.",
+      "words": [
+        {
+          "word": "The",
+          "start": 480.88,
+          "end": 480.96
+        },
+        {
+          "word": "alarm",
+          "start": 480.96,
+          "end": 481.18
+        },
+        {
+          "word": "stays",
+          "start": 481.18,
+          "end": 481.58
+        },
+        {
+          "word": "silent.",
+          "start": 481.58,
+          "end": 482.22
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "start": 483.32,
+      "end": 487.08,
+      "text": "You bypass the security guard without triggering a fight or flight response.",
+      "words": [
+        {
+          "word": "You",
+          "start": 483.32,
+          "end": 483.48
+        },
+        {
+          "word": "bypass",
+          "start": 483.48,
+          "end": 483.7
+        },
+        {
+          "word": "the",
+          "start": 483.7,
+          "end": 484.16
+        },
+        {
+          "word": "security",
+          "start": 484.16,
+          "end": 484.46
+        },
+        {
+          "word": "guard",
+          "start": 484.46,
+          "end": 484.92
+        },
+        {
+          "word": "without",
+          "start": 484.92,
+          "end": 485.18
+        },
+        {
+          "word": "triggering",
+          "start": 485.18,
+          "end": 485.7
+        },
+        {
+          "word": "a",
+          "start": 485.7,
+          "end": 485.94
+        },
+        {
+          "word": "fight",
+          "start": 485.94,
+          "end": 486.16
+        },
+        {
+          "word": "or",
+          "start": 486.16,
+          "end": 486.32
+        },
+        {
+          "word": "flight",
+          "start": 486.32,
+          "end": 486.6
+        },
+        {
+          "word": "response.",
+          "start": 486.6,
+          "end": 487.08
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "start": 488.82,
+      "end": 493.44,
+      "text": "And once you cross that microscopic threshold of initiation, physics takes over.",
+      "words": [
+        {
+          "word": "And",
+          "start": 488.82,
+          "end": 488.96
+        },
+        {
+          "word": "once",
+          "start": 488.96,
+          "end": 489.16
+        },
+        {
+          "word": "you",
+          "start": 489.16,
+          "end": 489.36
+        },
+        {
+          "word": "cross",
+          "start": 489.36,
+          "end": 489.6
+        },
+        {
+          "word": "that",
+          "start": 489.6,
+          "end": 489.92
+        },
+        {
+          "word": "microscopic",
+          "start": 489.92,
+          "end": 490.28
+        },
+        {
+          "word": "threshold",
+          "start": 490.28,
+          "end": 491.14
+        },
+        {
+          "word": "of",
+          "start": 491.14,
+          "end": 491.38
+        },
+        {
+          "word": "initiation,",
+          "start": 491.38,
+          "end": 491.72
+        },
+        {
+          "word": "physics",
+          "start": 492.52,
+          "end": 492.7
+        },
+        {
+          "word": "takes",
+          "start": 492.7,
+          "end": 493.08
+        },
+        {
+          "word": "over.",
+          "start": 493.08,
+          "end": 493.44
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "start": 494.38,
+      "end": 501.82,
+      "text": "Sir Isaac Newton wasn't just describing apples, he was describing psychology, an object in motion tends to stay in motion.",
+      "words": [
+        {
+          "word": "Sir",
+          "start": 494.38,
+          "end": 494.82
+        },
+        {
+          "word": "Isaac",
+          "start": 494.82,
+          "end": 495.24
+        },
+        {
+          "word": "Newton",
+          "start": 495.24,
+          "end": 495.5
+        },
+        {
+          "word": "wasn't",
+          "start": 495.5,
+          "end": 496.0
+        },
+        {
+          "word": "just",
+          "start": 496.0,
+          "end": 496.22
+        },
+        {
+          "word": "describing",
+          "start": 496.22,
+          "end": 496.66
+        },
+        {
+          "word": "apples,",
+          "start": 496.66,
+          "end": 497.02
+        },
+        {
+          "word": "he",
+          "start": 497.7,
+          "end": 497.78
+        },
+        {
+          "word": "was",
+          "start": 497.78,
+          "end": 497.92
+        },
+        {
+          "word": "describing",
+          "start": 497.92,
+          "end": 498.34
+        },
+        {
+          "word": "psychology,",
+          "start": 498.34,
+          "end": 498.88
+        },
+        {
+          "word": "an",
+          "start": 499.52,
+          "end": 499.68
+        },
+        {
+          "word": "object",
+          "start": 499.68,
+          "end": 500.08
+        },
+        {
+          "word": "in",
+          "start": 500.08,
+          "end": 500.32
+        },
+        {
+          "word": "motion",
+          "start": 500.32,
+          "end": 500.48
+        },
+        {
+          "word": "tends",
+          "start": 500.48,
+          "end": 500.9
+        },
+        {
+          "word": "to",
+          "start": 500.9,
+          "end": 501.16
+        },
+        {
+          "word": "stay",
+          "start": 501.16,
+          "end": 501.4
+        },
+        {
+          "word": "in",
+          "start": 501.4,
+          "end": 501.58
+        },
+        {
+          "word": "motion.",
+          "start": 501.58,
+          "end": 501.82
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "start": 502.86,
+      "end": 505.06,
+      "text": "Starting was the only monster in the room.",
+      "words": [
+        {
+          "word": "Starting",
+          "start": 502.86,
+          "end": 503.38
+        },
+        {
+          "word": "was",
+          "start": 503.38,
+          "end": 503.66
+        },
+        {
+          "word": "the",
+          "start": 503.66,
+          "end": 503.82
+        },
+        {
+          "word": "only",
+          "start": 503.82,
+          "end": 504.02
+        },
+        {
+          "word": "monster",
+          "start": 504.02,
+          "end": 504.42
+        },
+        {
+          "word": "in",
+          "start": 504.42,
+          "end": 504.76
+        },
+        {
+          "word": "the",
+          "start": 504.76,
+          "end": 504.86
+        },
+        {
+          "word": "room.",
+          "start": 504.86,
+          "end": 505.06
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "start": 506.5,
+      "end": 509.16,
+      "text": "But there is a second, even more important protocol.",
+      "words": [
+        {
+          "word": "But",
+          "start": 506.5,
+          "end": 506.76
+        },
+        {
+          "word": "there",
+          "start": 506.76,
+          "end": 506.92
+        },
+        {
+          "word": "is",
+          "start": 506.92,
+          "end": 507.12
+        },
+        {
+          "word": "a",
+          "start": 507.12,
+          "end": 507.24
+        },
+        {
+          "word": "second,",
+          "start": 507.24,
+          "end": 507.58
+        },
+        {
+          "word": "even",
+          "start": 507.96,
+          "end": 508.14
+        },
+        {
+          "word": "more",
+          "start": 508.14,
+          "end": 508.36
+        },
+        {
+          "word": "important",
+          "start": 508.36,
+          "end": 508.58
+        },
+        {
+          "word": "protocol.",
+          "start": 508.58,
+          "end": 509.16
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "start": 510.54,
+      "end": 514.8,
+      "text": "And it comes from Dr. Fusius Siroys' landmark research on self-compassion.",
+      "words": [
+        {
+          "word": "And",
+          "start": 510.54,
+          "end": 510.68
+        },
+        {
+          "word": "it",
+          "start": 510.68,
+          "end": 510.78
+        },
+        {
+          "word": "comes",
+          "start": 510.78,
+          "end": 511.0
+        },
+        {
+          "word": "from",
+          "start": 511.0,
+          "end": 511.22
+        },
+        {
+          "word": "Dr.",
+          "start": 511.22,
+          "end": 511.52
+        },
+        {
+          "word": "Fusius",
+          "start": 511.82,
+          "end": 512.06
+        },
+        {
+          "word": "Siroys'",
+          "start": 512.06,
+          "end": 512.48
+        },
+        {
+          "word": "landmark",
+          "start": 512.7,
+          "end": 512.96
+        },
+        {
+          "word": "research",
+          "start": 512.96,
+          "end": 513.64
+        },
+        {
+          "word": "on",
+          "start": 513.64,
+          "end": 513.98
+        },
+        {
+          "word": "self",
+          "start": 513.98,
+          "end": 514.2
+        },
+        {
+          "word": "-compassion.",
+          "start": 514.2,
+          "end": 514.8
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "start": 515.92,
+      "end": 520.24,
+      "text": "Most people believe that punishing themselves with guilt will force them to work harder tomorrow.",
+      "words": [
+        {
+          "word": "Most",
+          "start": 515.92,
+          "end": 516.2
+        },
+        {
+          "word": "people",
+          "start": 516.2,
+          "end": 516.46
+        },
+        {
+          "word": "believe",
+          "start": 516.46,
+          "end": 516.84
+        },
+        {
+          "word": "that",
+          "start": 516.84,
+          "end": 517.06
+        },
+        {
+          "word": "punishing",
+          "start": 517.06,
+          "end": 517.36
+        },
+        {
+          "word": "themselves",
+          "start": 517.36,
+          "end": 517.86
+        },
+        {
+          "word": "with",
+          "start": 517.86,
+          "end": 518.28
+        },
+        {
+          "word": "guilt",
+          "start": 518.28,
+          "end": 518.48
+        },
+        {
+          "word": "will",
+          "start": 518.48,
+          "end": 518.76
+        },
+        {
+          "word": "force",
+          "start": 518.76,
+          "end": 518.98
+        },
+        {
+          "word": "them",
+          "start": 518.98,
+          "end": 519.28
+        },
+        {
+          "word": "to",
+          "start": 519.28,
+          "end": 519.42
+        },
+        {
+          "word": "work",
+          "start": 519.42,
+          "end": 519.62
+        },
+        {
+          "word": "harder",
+          "start": 519.62,
+          "end": 519.92
+        },
+        {
+          "word": "tomorrow.",
+          "start": 519.92,
+          "end": 520.24
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "start": 521.9,
+      "end": 528.82,
+      "text": "Science proves the exact opposite, self-blame triggers the very negative emotions that drive you right back into the arms of procrastination.",
+      "words": [
+        {
+          "word": "Science",
+          "start": 521.9,
+          "end": 522.38
+        },
+        {
+          "word": "proves",
+          "start": 522.38,
+          "end": 522.7
+        },
+        {
+          "word": "the",
+          "start": 522.7,
+          "end": 522.96
+        },
+        {
+          "word": "exact",
+          "start": 522.96,
+          "end": 523.2
+        },
+        {
+          "word": "opposite,",
+          "start": 523.2,
+          "end": 523.76
+        },
+        {
+          "word": "self",
+          "start": 524.32,
+          "end": 524.52
+        },
+        {
+          "word": "-blame",
+          "start": 524.52,
+          "end": 524.88
+        },
+        {
+          "word": "triggers",
+          "start": 524.88,
+          "end": 525.22
+        },
+        {
+          "word": "the",
+          "start": 525.22,
+          "end": 525.46
+        },
+        {
+          "word": "very",
+          "start": 525.46,
+          "end": 525.66
+        },
+        {
+          "word": "negative",
+          "start": 525.66,
+          "end": 526.08
+        },
+        {
+          "word": "emotions",
+          "start": 526.08,
+          "end": 526.42
+        },
+        {
+          "word": "that",
+          "start": 526.42,
+          "end": 526.9
+        },
+        {
+          "word": "drive",
+          "start": 526.9,
+          "end": 527.12
+        },
+        {
+          "word": "you",
+          "start": 527.12,
+          "end": 527.32
+        },
+        {
+          "word": "right",
+          "start": 527.32,
+          "end": 527.54
+        },
+        {
+          "word": "back",
+          "start": 527.54,
+          "end": 527.8
+        },
+        {
+          "word": "into",
+          "start": 527.8,
+          "end": 528.0
+        },
+        {
+          "word": "the",
+          "start": 528.0,
+          "end": 528.2
+        },
+        {
+          "word": "arms",
+          "start": 528.2,
+          "end": 528.42
+        },
+        {
+          "word": "of",
+          "start": 528.42,
+          "end": 528.68
+        },
+        {
+          "word": "procrastination.",
+          "start": 528.68,
+          "end": 528.94
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "start": 530.36,
+      "end": 536.24,
+      "text": "Forgiving yourself for the hours you wasted yesterday actually decreases your likelihood of procrastinating today.",
+      "words": [
+        {
+          "word": "Forgiving",
+          "start": 530.36,
+          "end": 530.96
+        },
+        {
+          "word": "yourself",
+          "start": 530.96,
+          "end": 531.28
+        },
+        {
+          "word": "for",
+          "start": 531.28,
+          "end": 531.68
+        },
+        {
+          "word": "the",
+          "start": 531.68,
+          "end": 531.78
+        },
+        {
+          "word": "hours",
+          "start": 531.78,
+          "end": 532.06
+        },
+        {
+          "word": "you",
+          "start": 532.06,
+          "end": 532.32
+        },
+        {
+          "word": "wasted",
+          "start": 532.32,
+          "end": 532.64
+        },
+        {
+          "word": "yesterday",
+          "start": 532.64,
+          "end": 533.26
+        },
+        {
+          "word": "actually",
+          "start": 533.26,
+          "end": 533.58
+        },
+        {
+          "word": "decreases",
+          "start": 533.58,
+          "end": 534.06
+        },
+        {
+          "word": "your",
+          "start": 534.06,
+          "end": 534.46
+        },
+        {
+          "word": "likelihood",
+          "start": 534.46,
+          "end": 534.8
+        },
+        {
+          "word": "of",
+          "start": 534.8,
+          "end": 535.12
+        },
+        {
+          "word": "procrastinating",
+          "start": 535.12,
+          "end": 535.8
+        },
+        {
+          "word": "today.",
+          "start": 535.8,
+          "end": 536.24
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "start": 537.24,
+      "end": 541.74,
+      "text": "You don't cure resistance with cruelty, you cure it by taking the shame out of starting.",
+      "words": [
+        {
+          "word": "You",
+          "start": 537.24,
+          "end": 537.48
+        },
+        {
+          "word": "don't",
+          "start": 537.48,
+          "end": 537.72
+        },
+        {
+          "word": "cure",
+          "start": 537.72,
+          "end": 537.88
+        },
+        {
+          "word": "resistance",
+          "start": 537.88,
+          "end": 538.32
+        },
+        {
+          "word": "with",
+          "start": 538.32,
+          "end": 538.72
+        },
+        {
+          "word": "cruelty,",
+          "start": 538.72,
+          "end": 538.98
+        },
+        {
+          "word": "you",
+          "start": 539.6,
+          "end": 539.72
+        },
+        {
+          "word": "cure",
+          "start": 539.72,
+          "end": 539.96
+        },
+        {
+          "word": "it",
+          "start": 539.96,
+          "end": 540.18
+        },
+        {
+          "word": "by",
+          "start": 540.18,
+          "end": 540.32
+        },
+        {
+          "word": "taking",
+          "start": 540.32,
+          "end": 540.68
+        },
+        {
+          "word": "the",
+          "start": 540.68,
+          "end": 540.84
+        },
+        {
+          "word": "shame",
+          "start": 540.84,
+          "end": 541.08
+        },
+        {
+          "word": "out",
+          "start": 541.08,
+          "end": 541.32
+        },
+        {
+          "word": "of",
+          "start": 541.32,
+          "end": 541.44
+        },
+        {
+          "word": "starting.",
+          "start": 541.44,
+          "end": 541.74
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "start": 543.06,
+      "end": 547.32,
+      "text": "Tonight, when that cursor blinks in the dark, don't wage war on yourself.",
+      "words": [
+        {
+          "word": "Tonight,",
+          "start": 543.06,
+          "end": 543.66
+        },
+        {
+          "word": "when",
+          "start": 544.0,
+          "end": 544.18
+        },
+        {
+          "word": "that",
+          "start": 544.18,
+          "end": 544.32
+        },
+        {
+          "word": "cursor",
+          "start": 544.32,
+          "end": 544.6
+        },
+        {
+          "word": "blinks",
+          "start": 544.6,
+          "end": 545.1
+        },
+        {
+          "word": "in",
+          "start": 545.1,
+          "end": 545.26
+        },
+        {
+          "word": "the",
+          "start": 545.26,
+          "end": 545.36
+        },
+        {
+          "word": "dark,",
+          "start": 545.36,
+          "end": 545.6
+        },
+        {
+          "word": "don't",
+          "start": 546.04,
+          "end": 546.24
+        },
+        {
+          "word": "wage",
+          "start": 546.24,
+          "end": 546.4
+        },
+        {
+          "word": "war",
+          "start": 546.4,
+          "end": 546.72
+        },
+        {
+          "word": "on",
+          "start": 546.72,
+          "end": 547.02
+        },
+        {
+          "word": "yourself.",
+          "start": 547.02,
+          "end": 547.32
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "start": 548.44,
+      "end": 549.32,
+      "text": "Lower the bar.",
+      "words": [
+        {
+          "word": "Lower",
+          "start": 548.44,
+          "end": 548.82
+        },
+        {
+          "word": "the",
+          "start": 548.82,
+          "end": 549.1
+        },
+        {
+          "word": "bar.",
+          "start": 549.1,
+          "end": 549.32
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "start": 550.48,
+      "end": 551.56,
+      "text": "Make the task tiny.",
+      "words": [
+        {
+          "word": "Make",
+          "start": 550.48,
+          "end": 550.66
+        },
+        {
+          "word": "the",
+          "start": 550.66,
+          "end": 550.86
+        },
+        {
+          "word": "task",
+          "start": 550.86,
+          "end": 551.06
+        },
+        {
+          "word": "tiny.",
+          "start": 551.06,
+          "end": 551.56
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "start": 552.7,
+      "end": 554.4,
+      "text": "And remember, you aren't lazy.",
+      "words": [
+        {
+          "word": "And",
+          "start": 552.7,
+          "end": 552.82
+        },
+        {
+          "word": "remember,",
+          "start": 552.82,
+          "end": 553.06
+        },
+        {
+          "word": "you",
+          "start": 553.62,
+          "end": 553.78
+        },
+        {
+          "word": "aren't",
+          "start": 553.78,
+          "end": 554.12
+        },
+        {
+          "word": "lazy.",
+          "start": 554.12,
+          "end": 554.4
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "start": 555.24,
+      "end": 558.3,
+      "text": "You're just human learning to speak the language of your own biology.",
+      "words": [
+        {
+          "word": "You're",
+          "start": 555.24,
+          "end": 555.74
+        },
+        {
+          "word": "just",
+          "start": 555.74,
+          "end": 555.9
+        },
+        {
+          "word": "human",
+          "start": 555.9,
+          "end": 556.18
+        },
+        {
+          "word": "learning",
+          "start": 556.18,
+          "end": 556.46
+        },
+        {
+          "word": "to",
+          "start": 556.46,
+          "end": 556.74
+        },
+        {
+          "word": "speak",
+          "start": 556.74,
+          "end": 556.98
+        },
+        {
+          "word": "the",
+          "start": 556.98,
+          "end": 557.2
+        },
+        {
+          "word": "language",
+          "start": 557.2,
+          "end": 557.48
+        },
+        {
+          "word": "of",
+          "start": 557.48,
+          "end": 557.72
+        },
+        {
+          "word": "your",
+          "start": 557.72,
+          "end": 557.88
+        },
+        {
+          "word": "own",
+          "start": 557.88,
+          "end": 558.1
+        },
+        {
+          "word": "biology.",
+          "start": 558.1,
+          "end": 558.3
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "start": 560.26,
+      "end": 561.3,
+      "text": "I'll see you on Friday.",
+      "words": [
+        {
+          "word": "I'll",
+          "start": 560.26,
+          "end": 560.5
+        },
+        {
+          "word": "see",
+          "start": 560.5,
+          "end": 560.68
+        },
+        {
+          "word": "you",
+          "start": 560.68,
+          "end": 560.84
+        },
+        {
+          "word": "on",
+          "start": 560.84,
+          "end": 560.98
+        },
+        {
+          "word": "Friday.",
+          "start": 560.98,
+          "end": 561.3
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "start": 562.54,
+      "end": 563.24,
+      "text": "Stay curious.",
+      "words": [
+        {
+          "word": "Stay",
+          "start": 562.54,
+          "end": 562.8
+        },
+        {
+          "word": "curious.",
+          "start": 562.8,
+          "end": 563.24
+        }
+      ]
+    }
+  ]
+}

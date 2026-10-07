@@ -52,6 +52,12 @@ assets/images/raw/
 assets/images/cleaned/
 assets/images/raw_upscaled/
 assets/cutouts/
+production/**/images/
+production/**/cutouts/
+production/**/renders/
+production/**/audio/chunks/
+production/**/audio/temp/
+
 
 # Binary Models, DLLs, Archives & Executables
 *.bin
@@ -77,7 +83,19 @@ node_modules/
 !assets/sampled_frame_*.jpg
 !assets/act1_verify_*.jpg
 
+# Scratch & Test Cache
+scratch/
+.pytest_cache/
+.agents/
+
+# Sensitive Credentials
+*client_secret*.json
+*token*.json
+tools/channel_rebrand/client_secret.json
+tools/channel_rebrand/rebrand_config.json
+
 # OS & Logs
 .DS_Store
 Thumbs.db
 *.log
+

@@ -1,0 +1,143 @@
+[Script Info]
+Title: Short 2: The Stranger in Your Head (fMRI Neuroscience Discovery)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+; ShortsDefault: Warm butter cream text (#FFF2A8), bold Playfair Display, thick obsidian stroke (#08090C), deep shadow
+Style: ShortsDefault,Playfair Display,74,&H00A8F2FF,&H0066D1FF,&H000C0908,&H90000000,-1,0,0,0,100,100,0,0,1,6,4,2,570,570,570,1
+; ShortsKaraoke: Active sunglow gold (#FFD166) highlight, italic, glowing gold pop
+Style: ShortsKaraoke,Playfair Display,76,&H0066D1FF,&H00A8F2FF,&H000C0908,&HA0000000,-1,1,0,0,105,105,0,0,1,7,5,2,570,570,570,1
+; ShortsPop: Used for single-word explosive emphasis (e.g. countdown or pivotal reveals)
+Style: ShortsPop,Playfair Display,92,&H0000EBFF,&H00FFFFFF,&H00000000,&HB0000000,-1,1,0,0,110,110,0,0,1,8,6,2,570,570,570,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.68,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}At{\r} {\c&H00A8F2FF&}UCLA, {\c&H00A8F2FF&}social
+Dialogue: 0,0:00:00.68,0:00:01.80,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}At {\c&H0066D1FF&\fscx108\fscy108}UCLA,{\r} {\c&H00A8F2FF&}social
+Dialogue: 0,0:00:01.80,0:00:02.17,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}At {\c&H00A8F2FF&}UCLA, {\c&H0066D1FF&\fscx108\fscy108}social{\r}
+Dialogue: 0,0:00:02.12,0:00:02.90,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}psychologist{\r} {\c&H00A8F2FF&}Dr. {\c&H00A8F2FF&}Hal
+Dialogue: 0,0:00:02.90,0:00:03.60,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}psychologist {\c&H0066D1FF&\fscx108\fscy108}Dr.{\r} {\c&H00A8F2FF&}Hal
+Dialogue: 0,0:00:03.60,0:00:03.67,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}psychologist {\c&H00A8F2FF&}Dr. {\c&H0066D1FF&\fscx108\fscy108}Hal{\r}
+Dialogue: 0,0:00:03.62,0:00:04.18,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}Hirschfield{\r} {\c&H00A8F2FF&}put {\c&H00A8F2FF&}human
+Dialogue: 0,0:00:04.18,0:00:04.44,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Hirschfield {\c&H0066D1FF&\fscx108\fscy108}put{\r} {\c&H00A8F2FF&}human
+Dialogue: 0,0:00:04.44,0:00:04.79,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Hirschfield {\c&H00A8F2FF&}put {\c&H0066D1FF&\fscx108\fscy108}human{\r}
+Dialogue: 0,0:00:04.74,0:00:05.16,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}participants{\r} {\c&H00A8F2FF&}into {\c&H00A8F2FF&}fMRI
+Dialogue: 0,0:00:05.16,0:00:05.74,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}participants {\c&H0066D1FF&\fscx108\fscy108}into{\r} {\c&H00A8F2FF&}fMRI
+Dialogue: 0,0:00:05.74,0:00:06.33,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}participants {\c&H00A8F2FF&}into {\c&H0066D1FF&\fscx108\fscy108}fMRI{\r}
+Dialogue: 0,0:00:06.28,0:00:06.72,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}brain{\r} {\c&H00A8F2FF&}scanners {\c&H00A8F2FF&}to
+Dialogue: 0,0:00:06.72,0:00:07.08,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}brain {\c&H0066D1FF&\fscx108\fscy108}scanners{\r} {\c&H00A8F2FF&}to
+Dialogue: 0,0:00:07.08,0:00:07.57,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}brain {\c&H00A8F2FF&}scanners {\c&H0066D1FF&\fscx108\fscy108}to{\r}
+Dialogue: 0,0:00:07.52,0:00:07.86,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}investigate{\r} {\c&H00A8F2FF&}how {\c&H00A8F2FF&}the
+Dialogue: 0,0:00:07.86,0:00:08.40,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}investigate {\c&H0066D1FF&\fscx108\fscy108}how{\r} {\c&H00A8F2FF&}the
+Dialogue: 0,0:00:08.40,0:00:08.57,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}investigate {\c&H00A8F2FF&}how {\c&H0066D1FF&\fscx108\fscy108}the{\r}
+Dialogue: 0,0:00:08.52,0:00:08.78,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}brain{\r} {\c&H00A8F2FF&}visualizes {\c&H00A8F2FF&}time.
+Dialogue: 0,0:00:08.78,0:00:09.48,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}brain {\c&H0066D1FF&\fscx108\fscy108}visualizes{\r} {\c&H00A8F2FF&}time.
+Dialogue: 0,0:00:09.48,0:00:10.06,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}brain {\c&H00A8F2FF&}visualizes {\c&H0066D1FF&\fscx108\fscy108}time.{\r}
+Dialogue: 0,0:00:11.30,0:00:11.60,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}When{\r} {\c&H00A8F2FF&}researchers {\c&H00A8F2FF&}ask
+Dialogue: 0,0:00:11.60,0:00:12.02,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}When {\c&H0066D1FF&\fscx108\fscy108}researchers{\r} {\c&H00A8F2FF&}ask
+Dialogue: 0,0:00:12.02,0:00:12.55,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}When {\c&H00A8F2FF&}researchers {\c&H0066D1FF&\fscx108\fscy108}ask{\r}
+Dialogue: 0,0:00:12.50,0:00:12.92,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}people{\r} {\c&H00A8F2FF&}to {\c&H00A8F2FF&}think
+Dialogue: 0,0:00:12.92,0:00:13.10,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}people {\c&H0066D1FF&\fscx108\fscy108}to{\r} {\c&H00A8F2FF&}think
+Dialogue: 0,0:00:13.10,0:00:13.37,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}people {\c&H00A8F2FF&}to {\c&H0066D1FF&\fscx108\fscy108}think{\r}
+Dialogue: 0,0:00:13.32,0:00:13.54,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}about{\r} {\c&H00A8F2FF&}who {\c&H00A8F2FF&}they
+Dialogue: 0,0:00:13.54,0:00:13.78,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}about {\c&H0066D1FF&\fscx108\fscy108}who{\r} {\c&H00A8F2FF&}they
+Dialogue: 0,0:00:13.78,0:00:13.99,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}about {\c&H00A8F2FF&}who {\c&H0066D1FF&\fscx108\fscy108}they{\r}
+Dialogue: 0,0:00:13.94,0:00:14.08,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}are{\r} {\c&H00A8F2FF&}right {\c&H00A8F2FF&}now,
+Dialogue: 0,0:00:14.08,0:00:14.30,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}are {\c&H0066D1FF&\fscx108\fscy108}right{\r} {\c&H00A8F2FF&}now,
+Dialogue: 0,0:00:14.30,0:00:14.63,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}are {\c&H00A8F2FF&}right {\c&H0066D1FF&\fscx108\fscy108}now,{\r}
+Dialogue: 0,0:00:14.98,0:00:15.14,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}their{\r} {\c&H00A8F2FF&}current {\c&H00A8F2FF&}feelings,
+Dialogue: 0,0:00:15.14,0:00:15.38,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}their {\c&H0066D1FF&\fscx108\fscy108}current{\r} {\c&H00A8F2FF&}feelings,
+Dialogue: 0,0:00:15.38,0:00:15.87,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}their {\c&H00A8F2FF&}current {\c&H0066D1FF&\fscx108\fscy108}feelings,{\r}
+Dialogue: 0,0:00:16.34,0:00:16.44,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}their{\r} {\c&H00A8F2FF&}current {\c&H00A8F2FF&}hunger,
+Dialogue: 0,0:00:16.44,0:00:16.70,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}their {\c&H0066D1FF&\fscx108\fscy108}current{\r} {\c&H00A8F2FF&}hunger,
+Dialogue: 0,0:00:16.70,0:00:17.11,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}their {\c&H00A8F2FF&}current {\c&H0066D1FF&\fscx108\fscy108}hunger,{\r}
+Dialogue: 0,0:00:17.82,0:00:17.97,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}their{\r} {\c&H00A8F2FF&}current {\c&H00A8F2FF&}stress,
+Dialogue: 0,0:00:17.82,0:00:17.84,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}their {\c&H0066D1FF&\fscx108\fscy108}current{\r} {\c&H00A8F2FF&}stress,
+Dialogue: 0,0:00:17.84,0:00:18.42,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}their {\c&H00A8F2FF&}current {\c&H0066D1FF&\fscx108\fscy108}stress,{\r}
+Dialogue: 0,0:00:18.66,0:00:18.82,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}a{\r} {\c&H00A8F2FF&}specific {\c&H00A8F2FF&}region
+Dialogue: 0,0:00:18.82,0:00:19.14,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}a {\c&H0066D1FF&\fscx108\fscy108}specific{\r} {\c&H00A8F2FF&}region
+Dialogue: 0,0:00:19.14,0:00:19.73,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}a {\c&H00A8F2FF&}specific {\c&H0066D1FF&\fscx108\fscy108}region{\r}
+Dialogue: 0,0:00:19.68,0:00:20.00,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}called{\r} {\c&H00A8F2FF&}the {\c&H00A8F2FF&}medial
+Dialogue: 0,0:00:20.00,0:00:20.18,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}called {\c&H0066D1FF&\fscx108\fscy108}the{\r} {\c&H00A8F2FF&}medial
+Dialogue: 0,0:00:20.18,0:00:20.51,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}called {\c&H00A8F2FF&}the {\c&H0066D1FF&\fscx108\fscy108}medial{\r}
+Dialogue: 0,0:00:20.46,0:00:20.82,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}prefrontal{\r} {\c&H00A8F2FF&}cortex {\c&H00A8F2FF&}lit
+Dialogue: 0,0:00:20.82,0:00:21.48,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}prefrontal {\c&H0066D1FF&\fscx108\fscy108}cortex{\r} {\c&H00A8F2FF&}lit
+Dialogue: 0,0:00:21.48,0:00:21.83,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}prefrontal {\c&H00A8F2FF&}cortex {\c&H0066D1FF&\fscx108\fscy108}lit{\r}
+Dialogue: 0,0:00:21.78,0:00:21.96,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}up{\r} {\c&H00A8F2FF&}like {\c&H00A8F2FF&}a
+Dialogue: 0,0:00:21.96,0:00:22.14,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}up {\c&H0066D1FF&\fscx108\fscy108}like{\r} {\c&H00A8F2FF&}a
+Dialogue: 0,0:00:22.14,0:00:22.33,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}up {\c&H00A8F2FF&}like {\c&H0066D1FF&\fscx108\fscy108}a{\r}
+Dialogue: 0,0:00:22.28,0:00:22.52,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}Christmas{\r} {\c&H00A8F2FF&}tree.
+Dialogue: 0,0:00:22.52,0:00:23.12,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Christmas {\c&H0066D1FF&\fscx108\fscy108}tree.{\r}
+Dialogue: 0,0:00:24.33,0:00:25.14,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}Next,{\r} {\c&H00A8F2FF&}they {\c&H00A8F2FF&}ask
+Dialogue: 0,0:00:25.14,0:00:25.26,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Next, {\c&H0066D1FF&\fscx108\fscy108}they{\r} {\c&H00A8F2FF&}ask
+Dialogue: 0,0:00:25.26,0:00:25.55,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Next, {\c&H00A8F2FF&}they {\c&H0066D1FF&\fscx108\fscy108}ask{\r}
+Dialogue: 0,0:00:25.50,0:00:25.88,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}participants{\r} {\c&H00A8F2FF&}to {\c&H00A8F2FF&}think
+Dialogue: 0,0:00:25.88,0:00:26.40,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}participants {\c&H0066D1FF&\fscx108\fscy108}to{\r} {\c&H00A8F2FF&}think
+Dialogue: 0,0:00:26.40,0:00:26.61,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}participants {\c&H00A8F2FF&}to {\c&H0066D1FF&\fscx108\fscy108}think{\r}
+Dialogue: 0,0:00:26.56,0:00:26.84,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}about{\r} {\c&H00A8F2FF&}a {\c&H00A8F2FF&}total
+Dialogue: 0,0:00:26.84,0:00:26.96,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}about {\c&H0066D1FF&\fscx108\fscy108}a{\r} {\c&H00A8F2FF&}total
+Dialogue: 0,0:00:26.96,0:00:27.23,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}about {\c&H00A8F2FF&}a {\c&H0066D1FF&\fscx108\fscy108}total{\r}
+Dialogue: 0,0:00:27.18,0:00:28.14,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}stranger,{\r} {\c&H00A8F2FF&}a {\c&H00A8F2FF&}random
+Dialogue: 0,0:00:28.14,0:00:28.30,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}stranger, {\c&H0066D1FF&\fscx108\fscy108}a{\r} {\c&H00A8F2FF&}random
+Dialogue: 0,0:00:28.30,0:00:28.59,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}stranger, {\c&H00A8F2FF&}a {\c&H0066D1FF&\fscx108\fscy108}random{\r}
+Dialogue: 0,0:00:28.69,0:00:28.96,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}person{\r} {\c&H00A8F2FF&}waiting {\c&H00A8F2FF&}for
+Dialogue: 0,0:00:28.96,0:00:29.28,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}person {\c&H0066D1FF&\fscx108\fscy108}waiting{\r} {\c&H00A8F2FF&}for
+Dialogue: 0,0:00:29.28,0:00:29.69,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}person {\c&H00A8F2FF&}waiting {\c&H0066D1FF&\fscx108\fscy108}for{\r}
+Dialogue: 0,0:00:29.64,0:00:29.72,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}a{\r} {\c&H00A8F2FF&}bus {\c&H00A8F2FF&}in
+Dialogue: 0,0:00:29.72,0:00:29.92,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}a {\c&H0066D1FF&\fscx108\fscy108}bus{\r} {\c&H00A8F2FF&}in
+Dialogue: 0,0:00:29.92,0:00:30.23,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}a {\c&H00A8F2FF&}bus {\c&H0066D1FF&\fscx108\fscy108}in{\r}
+Dialogue: 0,0:00:30.18,0:00:30.36,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}another{\r} {\c&H00A8F2FF&}city.
+Dialogue: 0,0:00:30.36,0:00:31.04,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}another {\c&H0066D1FF&\fscx108\fscy108}city.{\r}
+Dialogue: 0,0:00:31.92,0:00:32.02,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}As{\r} {\c&H00A8F2FF&}expected, {\c&H00A8F2FF&}that
+Dialogue: 0,0:00:32.02,0:00:32.44,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}As {\c&H0066D1FF&\fscx108\fscy108}expected,{\r} {\c&H00A8F2FF&}that
+Dialogue: 0,0:00:32.44,0:00:33.06,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}As {\c&H00A8F2FF&}expected, {\c&H0066D1FF&\fscx108\fscy108}that{\r}
+Dialogue: 0,0:00:33.08,0:00:33.30,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}self{\r} {\c&H00A8F2FF&}-processing {\c&H00A8F2FF&}neural
+Dialogue: 0,0:00:33.30,0:00:33.84,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}self {\c&H0066D1FF&\fscx108\fscy108}-processing{\r} {\c&H00A8F2FF&}neural
+Dialogue: 0,0:00:33.84,0:00:34.25,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}self {\c&H00A8F2FF&}-processing {\c&H0066D1FF&\fscx108\fscy108}neural{\r}
+Dialogue: 0,0:00:34.20,0:00:34.62,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}circuit{\r} {\c&H00A8F2FF&}powered
+Dialogue: 0,0:00:34.62,0:00:35.11,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}circuit {\c&H0066D1FF&\fscx108\fscy108}powered{\r}
+Dialogue: 0,0:00:35.06,0:00:35.38,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}down{\r} {\c&H00A8F2FF&}completely.
+Dialogue: 0,0:00:35.38,0:00:36.08,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}down {\c&H0066D1FF&\fscx108\fscy108}completely.{\r}
+Dialogue: 0,0:00:37.78,0:00:37.93,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}Then{\r} {\c&H00A8F2FF&}came
+Dialogue: 0,0:00:37.78,0:00:38.05,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Then {\c&H0066D1FF&\fscx108\fscy108}came{\r}
+Dialogue: 0,0:00:38.00,0:00:38.24,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}the{\r} {\c&H00A8F2FF&}breakthrough.
+Dialogue: 0,0:00:38.24,0:00:38.70,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}the {\c&H0066D1FF&\fscx108\fscy108}breakthrough.{\r}
+Dialogue: 0,0:00:39.92,0:00:40.26,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}Hirschfield{\r} {\c&H00A8F2FF&}asked
+Dialogue: 0,0:00:40.26,0:00:40.57,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Hirschfield {\c&H0066D1FF&\fscx108\fscy108}asked{\r}
+Dialogue: 0,0:00:40.52,0:00:41.02,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}participants{\r} {\c&H00A8F2FF&}to {\c&H00A8F2FF&}think
+Dialogue: 0,0:00:41.02,0:00:41.50,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}participants {\c&H0066D1FF&\fscx108\fscy108}to{\r} {\c&H00A8F2FF&}think
+Dialogue: 0,0:00:41.50,0:00:41.73,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}participants {\c&H00A8F2FF&}to {\c&H0066D1FF&\fscx108\fscy108}think{\r}
+Dialogue: 0,0:00:41.68,0:00:41.94,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}about{\r} {\c&H00A8F2FF&}their {\c&H00A8F2FF&}future
+Dialogue: 0,0:00:41.94,0:00:42.14,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}about {\c&H0066D1FF&\fscx108\fscy108}their{\r} {\c&H00A8F2FF&}future
+Dialogue: 0,0:00:42.14,0:00:42.43,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}about {\c&H00A8F2FF&}their {\c&H0066D1FF&\fscx108\fscy108}future{\r}
+Dialogue: 0,0:00:42.38,0:00:43.30,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}self,{\r} {\c&H00A8F2FF&}the {\c&H00A8F2FF&}version
+Dialogue: 0,0:00:43.30,0:00:43.50,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}self, {\c&H0066D1FF&\fscx108\fscy108}the{\r} {\c&H00A8F2FF&}version
+Dialogue: 0,0:00:43.50,0:00:43.77,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}self, {\c&H00A8F2FF&}the {\c&H0066D1FF&\fscx108\fscy108}version{\r}
+Dialogue: 0,0:00:43.72,0:00:44.02,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}of{\r} {\c&H00A8F2FF&}them {\c&H00A8F2FF&}that
+Dialogue: 0,0:00:44.02,0:00:44.18,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}of {\c&H0066D1FF&\fscx108\fscy108}them{\r} {\c&H00A8F2FF&}that
+Dialogue: 0,0:00:44.18,0:00:44.41,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}of {\c&H00A8F2FF&}them {\c&H0066D1FF&\fscx108\fscy108}that{\r}
+Dialogue: 0,0:00:44.36,0:00:44.52,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}would{\r} {\c&H00A8F2FF&}exist {\c&H00A8F2FF&}in
+Dialogue: 0,0:00:44.52,0:00:44.76,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}would {\c&H0066D1FF&\fscx108\fscy108}exist{\r} {\c&H00A8F2FF&}in
+Dialogue: 0,0:00:44.76,0:00:45.19,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}would {\c&H00A8F2FF&}exist {\c&H0066D1FF&\fscx108\fscy108}in{\r}
+Dialogue: 0,0:00:45.14,0:00:45.38,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}10{\r} {\c&H00A8F2FF&}years, {\c&H00A8F2FF&}next
+Dialogue: 0,0:00:45.38,0:00:46.14,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}10 {\c&H0066D1FF&\fscx108\fscy108}years,{\r} {\c&H00A8F2FF&}next
+Dialogue: 0,0:00:46.14,0:00:46.43,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}10 {\c&H00A8F2FF&}years, {\c&H0066D1FF&\fscx108\fscy108}next{\r}
+Dialogue: 0,0:00:46.38,0:00:47.00,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}month,{\r} {\c&H00A8F2FF&}or {\c&H00A8F2FF&}even
+Dialogue: 0,0:00:47.00,0:00:47.20,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}month, {\c&H0066D1FF&\fscx108\fscy108}or{\r} {\c&H00A8F2FF&}even
+Dialogue: 0,0:00:47.20,0:00:47.49,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}month, {\c&H00A8F2FF&}or {\c&H0066D1FF&\fscx108\fscy108}even{\r}
+Dialogue: 0,0:00:47.44,0:00:47.62,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}tomorrow{\r} {\c&H00A8F2FF&}morning.
+Dialogue: 0,0:00:47.62,0:00:48.44,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}tomorrow {\c&H0066D1FF&\fscx108\fscy108}morning.{\r}
+Dialogue: 0,0:00:49.44,0:00:50.40,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}Neurologically,{\r} {\c&H00A8F2FF&}something
+Dialogue: 0,0:00:50.40,0:00:50.87,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Neurologically, {\c&H0066D1FF&\fscx108\fscy108}something{\r}
+Dialogue: 0,0:00:50.82,0:00:51.06,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}jaw{\r} {\c&H00A8F2FF&}-dropping {\c&H00A8F2FF&}happened.
+Dialogue: 0,0:00:51.06,0:00:51.42,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}jaw {\c&H0066D1FF&\fscx108\fscy108}-dropping{\r} {\c&H00A8F2FF&}happened.
+Dialogue: 0,0:00:51.42,0:00:52.12,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}jaw {\c&H00A8F2FF&}-dropping {\c&H0066D1FF&\fscx108\fscy108}happened.{\r}
+Dialogue: 0,0:00:53.42,0:00:53.70,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}The{\r} {\c&H00A8F2FF&}brain {\c&H00A8F2FF&}processed
+Dialogue: 0,0:00:53.70,0:00:53.96,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}The {\c&H0066D1FF&\fscx108\fscy108}brain{\r} {\c&H00A8F2FF&}processed
+Dialogue: 0,0:00:53.96,0:00:54.40,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}The {\c&H00A8F2FF&}brain {\c&H0066D1FF&\fscx108\fscy108}processed{\r}

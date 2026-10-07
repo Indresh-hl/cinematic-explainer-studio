@@ -1,0 +1,320 @@
+{
+  "timestamp_utc": "2026-09-30T13:28:37.781716+00:00",
+  "summary": {
+    "deliverables_evaluated": 2,
+    "deliverables_passed": 1,
+    "deliverables_failed": 1,
+    "all_passed": false
+  },
+  "deliverables": {
+    "short_1": {
+      "id": "short_1",
+      "title": "The 5-Second Test (Interactive Pattern Interrupt)",
+      "file_path": "C:\\Users\\Indresh HL\\Downloads\\TOPIC_03_VIRAL_SHORT_1_THE_5_SECOND_TEST.mp4",
+      "overall_passed": false,
+      "tiers": {
+        "tier_1": {
+          "tier": 1,
+          "name": "Tier 1: Existence & Physical Delivery",
+          "passed": true,
+          "status": "PASS",
+          "message": "Deliverable present: 37.18 MB (> 25.0 MB threshold satisfied)",
+          "details": {
+            "file_path": "C:\\Users\\Indresh HL\\Downloads\\TOPIC_03_VIRAL_SHORT_1_THE_5_SECOND_TEST.mp4",
+            "expected_min_bytes": 26214400,
+            "actual_bytes": 38988555,
+            "actual_mb": 37.18
+          }
+        },
+        "tier_2": {
+          "tier": 2,
+          "name": "Tier 2: Stream & Codec Compliance",
+          "passed": true,
+          "status": "PASS",
+          "message": "All codec, stream, and container requirements verified",
+          "failures": [],
+          "details": {
+            "video": {
+              "codec": "h264",
+              "profile": "High",
+              "width": 1080,
+              "height": 1920,
+              "pix_fmt": "yuv420p",
+              "fps": 30.0,
+              "fps_raw": "30/1"
+            },
+            "audio": {
+              "codec": "aac",
+              "channels": 2,
+              "sample_rate": 48000,
+              "bitrate": 178702
+            },
+            "container": {
+              "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+            },
+            "faststart": {
+              "enabled": true,
+              "diagnostic": "Faststart confirmed: 'moov' (offset 32) precedes 'mdat' (offset 58445)"
+            }
+          }
+        },
+        "tier_3": {
+          "tier": 3,
+          "name": "Tier 3: Narrative & Duration Boundaries",
+          "passed": true,
+          "status": "PASS",
+          "message": "Duration 51.77s satisfies retention bounds [48.0s - 55.0s]",
+          "details": {
+            "actual_duration_seconds": 51.766,
+            "allowed_min_seconds": 48.0,
+            "allowed_max_seconds": 55.0
+          }
+        },
+        "tier_4": {
+          "tier": 4,
+          "name": "Tier 4: Subtitle Mobile-Safe Zone & Reframing",
+          "passed": false,
+          "status": "FAIL",
+          "message": "ASS subtitle baseline y=1860 violates safe zone [400, 1500]; Letterbox violation: detected 3 sampled frames with solid unblurred black bars",
+          "failures": [
+            "ASS subtitle baseline y=1860 violates safe zone [400, 1500]",
+            "Letterbox violation: detected 3 sampled frames with solid unblurred black bars"
+          ],
+          "details": {
+            "sampled_frames": [
+              {
+                "frame_index": 155,
+                "timestamp_sec": 5.17,
+                "top_mean": 24.96,
+                "bot_mean": 7.85,
+                "has_letterbox_bars": false
+              },
+              {
+                "frame_index": 310,
+                "timestamp_sec": 10.33,
+                "top_mean": 4.09,
+                "bot_mean": 0.0,
+                "has_letterbox_bars": true
+              },
+              {
+                "frame_index": 543,
+                "timestamp_sec": 18.1,
+                "top_mean": 0.56,
+                "bot_mean": 0.0,
+                "has_letterbox_bars": true
+              },
+              {
+                "frame_index": 776,
+                "timestamp_sec": 25.87,
+                "top_mean": 0.88,
+                "bot_mean": 0.83,
+                "has_letterbox_bars": false
+              },
+              {
+                "frame_index": 1008,
+                "timestamp_sec": 33.6,
+                "top_mean": 4.92,
+                "bot_mean": 0.11,
+                "has_letterbox_bars": false
+              },
+              {
+                "frame_index": 1164,
+                "timestamp_sec": 38.8,
+                "top_mean": 32.89,
+                "bot_mean": 2.88,
+                "has_letterbox_bars": false
+              },
+              {
+                "frame_index": 1319,
+                "timestamp_sec": 43.97,
+                "top_mean": 59.72,
+                "bot_mean": 21.92,
+                "has_letterbox_bars": false
+              },
+              {
+                "frame_index": 1474,
+                "timestamp_sec": 49.13,
+                "top_mean": 0.0,
+                "bot_mean": 0.0,
+                "has_letterbox_bars": true
+              }
+            ],
+            "ass_script_inspection": {
+              "file": "production\\topic_03\\shorts\\short_1_subtitles.ass",
+              "PlayResY": 1920,
+              "MarginV": 60,
+              "calculated_baseline_y": 1860,
+              "in_safe_zone": false
+            },
+            "detected_subtitle_frames": 7
+          }
+        },
+        "tier_5": {
+          "tier": 5,
+          "name": "Tier 5: Decoding & Playback Integrity",
+          "passed": true,
+          "status": "PASS",
+          "message": "Full stream decode completed with 0 errors across all video and audio frames",
+          "details": {
+            "returncode": 0,
+            "stderr_raw": "",
+            "error_lines": []
+          }
+        }
+      }
+    },
+    "short_2": {
+      "id": "short_2",
+      "title": "The Stranger in Your Head (fMRI Neuroscience Discovery)",
+      "file_path": "C:\\Users\\Indresh HL\\Downloads\\TOPIC_03_VIRAL_SHORT_2_THE_STRANGER_IN_YOUR_HEAD.mp4",
+      "overall_passed": true,
+      "tiers": {
+        "tier_1": {
+          "tier": 1,
+          "name": "Tier 1: Existence & Physical Delivery",
+          "passed": true,
+          "status": "PASS",
+          "message": "Deliverable present: 39.41 MB (> 25.0 MB threshold satisfied)",
+          "details": {
+            "file_path": "C:\\Users\\Indresh HL\\Downloads\\TOPIC_03_VIRAL_SHORT_2_THE_STRANGER_IN_YOUR_HEAD.mp4",
+            "expected_min_bytes": 26214400,
+            "actual_bytes": 41328780,
+            "actual_mb": 39.41
+          }
+        },
+        "tier_2": {
+          "tier": 2,
+          "name": "Tier 2: Stream & Codec Compliance",
+          "passed": true,
+          "status": "PASS",
+          "message": "All codec, stream, and container requirements verified",
+          "failures": [],
+          "details": {
+            "video": {
+              "codec": "h264",
+              "profile": "High",
+              "width": 1080,
+              "height": 1920,
+              "pix_fmt": "yuv420p",
+              "fps": 30.0,
+              "fps_raw": "30/1"
+            },
+            "audio": {
+              "codec": "aac",
+              "channels": 2,
+              "sample_rate": 48000,
+              "bitrate": 209805
+            },
+            "container": {
+              "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+            },
+            "faststart": {
+              "enabled": true,
+              "diagnostic": "Faststart confirmed: 'moov' (offset 32) precedes 'mdat' (offset 61349)"
+            }
+          }
+        },
+        "tier_3": {
+          "tier": 3,
+          "name": "Tier 3: Narrative & Duration Boundaries",
+          "passed": true,
+          "status": "PASS",
+          "message": "Duration 54.40s satisfies retention bounds [50.0s - 58.0s]",
+          "details": {
+            "actual_duration_seconds": 54.4,
+            "allowed_min_seconds": 50.0,
+            "allowed_max_seconds": 58.0
+          }
+        },
+        "tier_4": {
+          "tier": 4,
+          "name": "Tier 4: Subtitle Mobile-Safe Zone & Reframing",
+          "passed": true,
+          "status": "PASS",
+          "message": "Reframing active with zero black letterbox bars; captions bounded within mobile safe zone",
+          "failures": [],
+          "details": {
+            "sampled_frames": [
+              {
+                "frame_index": 163,
+                "timestamp_sec": 5.43,
+                "top_mean": 18.43,
+                "bot_mean": 29.16,
+                "has_letterbox_bars": false
+              },
+              {
+                "frame_index": 326,
+                "timestamp_sec": 10.87,
+                "top_mean": 125.73,
+                "bot_mean": 45.9,
+                "has_letterbox_bars": false
+              },
+              {
+                "frame_index": 571,
+                "timestamp_sec": 19.03,
+                "top_mean": 25.71,
+                "bot_mean": 15.73,
+                "has_letterbox_bars": false
+              },
+              {
+                "frame_index": 816,
+                "timestamp_sec": 27.2,
+                "top_mean": 94.9,
+                "bot_mean": 128.57,
+                "has_letterbox_bars": false
+              },
+              {
+                "frame_index": 1060,
+                "timestamp_sec": 35.33,
+                "top_mean": 27.46,
+                "bot_mean": 3.55,
+                "has_letterbox_bars": false
+              },
+              {
+                "frame_index": 1224,
+                "timestamp_sec": 40.8,
+                "top_mean": 20.2,
+                "bot_mean": 37.91,
+                "has_letterbox_bars": false
+              },
+              {
+                "frame_index": 1387,
+                "timestamp_sec": 46.23,
+                "top_mean": 33.91,
+                "bot_mean": 2.91,
+                "has_letterbox_bars": false
+              },
+              {
+                "frame_index": 1550,
+                "timestamp_sec": 51.67,
+                "top_mean": 12.74,
+                "bot_mean": 12.56,
+                "has_letterbox_bars": false
+              }
+            ],
+            "ass_script_inspection": {
+              "file": "production\\topic_03\\shorts\\short_2_subtitles.ass",
+              "PlayResY": 1920,
+              "MarginV": 570,
+              "calculated_baseline_y": 1350,
+              "in_safe_zone": true
+            },
+            "detected_subtitle_frames": 8
+          }
+        },
+        "tier_5": {
+          "tier": 5,
+          "name": "Tier 5: Decoding & Playback Integrity",
+          "passed": true,
+          "status": "PASS",
+          "message": "Full stream decode completed with 0 errors across all video and audio frames",
+          "details": {
+            "returncode": 0,
+            "stderr_raw": "",
+            "error_lines": []
+          }
+        }
+      }
+    }
+  }
+}

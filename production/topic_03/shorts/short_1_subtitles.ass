@@ -1,0 +1,117 @@
+[Script Info]
+Title: Short 1: The 5-Second Test (Interactive Pattern Interrupt)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+; ShortsDefault: Warm butter cream text (#FFF2A8), bold Playfair Display, thick obsidian stroke, deep shadow
+Style: ShortsDefault,Playfair Display,74,&H00A8F2FF,&H0066D1FF,&H000C0908,&H90000000,-1,0,0,0,100,100,0,0,1,6,4,2,60,60,570,1
+; ShortsKaraoke: Active sunglow gold (#FFD166) highlight, italic, glowing gold pop
+Style: ShortsKaraoke,Playfair Display,76,&H0066D1FF,&H00A8F2FF,&H000C0908,&HA0000000,-1,1,0,0,105,105,0,0,1,7,5,2,60,60,570,1
+; ShortsPop: Used for single-word explosive emphasis (e.g. countdown or pivotal reveals)
+Style: ShortsPop,Playfair Display,96,&H0066D1FF,&H00A8F2FF,&H000C0908,&HA0000000,-1,1,0,0,115,115,0,0,1,8,6,2,60,60,570,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.62,0:00:00.76,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}run{\r} {\c&H00A8F2FF&}a {\c&H00A8F2FF&}quick,
+Dialogue: 0,0:00:00.76,0:00:00.86,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}run {\c&H0066D1FF&\fscx108\fscy108}a{\r} {\c&H00A8F2FF&}quick,
+Dialogue: 0,0:00:00.86,0:00:01.13,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}run {\c&H00A8F2FF&}a {\c&H0066D1FF&\fscx108\fscy108}quick,{\r}
+Dialogue: 0,0:00:01.32,0:00:01.60,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}real{\r} {\c&H00A8F2FF&}-time {\c&H00A8F2FF&}experiment
+Dialogue: 0,0:00:01.60,0:00:01.96,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}real {\c&H0066D1FF&\fscx108\fscy108}-time{\r} {\c&H00A8F2FF&}experiment
+Dialogue: 0,0:00:01.96,0:00:02.43,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}real {\c&H00A8F2FF&}-time {\c&H0066D1FF&\fscx108\fscy108}experiment{\r}
+Dialogue: 0,0:00:02.38,0:00:02.74,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}with{\r} {\c&H00A8F2FF&}you
+Dialogue: 0,0:00:02.74,0:00:02.95,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}with {\c&H0066D1FF&\fscx108\fscy108}you{\r}
+Dialogue: 0,0:00:02.90,0:00:03.10,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}right{\r} {\c&H00A8F2FF&}now.
+Dialogue: 0,0:00:03.10,0:00:03.66,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}right {\c&H0066D1FF&\fscx108\fscy108}now.{\r}
+Dialogue: 0,0:00:04.46,0:00:04.54,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}Do{\r} {\c&H00A8F2FF&}not
+Dialogue: 0,0:00:04.54,0:00:04.81,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Do {\c&H0066D1FF&\fscx108\fscy108}not{\r}
+Dialogue: 0,0:00:04.76,0:00:05.08,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}skip{\r} {\c&H00A8F2FF&}forward.
+Dialogue: 0,0:00:05.08,0:00:05.74,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}skip {\c&H0066D1FF&\fscx108\fscy108}forward.{\r}
+Dialogue: 0,0:00:06.54,0:00:06.76,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}Do{\r} {\c&H00A8F2FF&}not {\c&H00A8F2FF&}look
+Dialogue: 0,0:00:06.76,0:00:06.94,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Do {\c&H0066D1FF&\fscx108\fscy108}not{\r} {\c&H00A8F2FF&}look
+Dialogue: 0,0:00:06.94,0:00:07.21,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Do {\c&H00A8F2FF&}not {\c&H0066D1FF&\fscx108\fscy108}look{\r}
+Dialogue: 0,0:00:07.16,0:00:07.38,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}away{\r} {\c&H00A8F2FF&}from
+Dialogue: 0,0:00:07.38,0:00:07.75,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}away {\c&H0066D1FF&\fscx108\fscy108}from{\r}
+Dialogue: 0,0:00:07.70,0:00:07.84,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}this{\r} {\c&H00A8F2FF&}screen.
+Dialogue: 0,0:00:07.84,0:00:08.40,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}this {\c&H0066D1FF&\fscx108\fscy108}screen.{\r}
+Dialogue: 0,0:00:09.64,0:00:09.92,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}In{\r} {\c&H00A8F2FF&}the {\c&H00A8F2FF&}next
+Dialogue: 0,0:00:09.92,0:00:10.02,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}In {\c&H0066D1FF&\fscx108\fscy108}the{\r} {\c&H00A8F2FF&}next
+Dialogue: 0,0:00:10.02,0:00:10.27,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}In {\c&H00A8F2FF&}the {\c&H0066D1FF&\fscx108\fscy108}next{\r}
+Dialogue: 0,0:00:10.22,0:00:10.60,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}five{\r} {\c&H00A8F2FF&}seconds, {\c&H00A8F2FF&}think
+Dialogue: 0,0:00:10.60,0:00:11.46,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}five {\c&H0066D1FF&\fscx108\fscy108}seconds,{\r} {\c&H00A8F2FF&}think
+Dialogue: 0,0:00:11.46,0:00:11.69,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}five {\c&H00A8F2FF&}seconds, {\c&H0066D1FF&\fscx108\fscy108}think{\r}
+Dialogue: 0,0:00:11.64,0:00:11.86,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}about{\r} {\c&H00A8F2FF&}the {\c&H00A8F2FF&}one
+Dialogue: 0,0:00:11.86,0:00:12.04,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}about {\c&H0066D1FF&\fscx108\fscy108}the{\r} {\c&H00A8F2FF&}one
+Dialogue: 0,0:00:12.04,0:00:12.29,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}about {\c&H00A8F2FF&}the {\c&H0066D1FF&\fscx108\fscy108}one{\r}
+Dialogue: 0,0:00:12.24,0:00:12.58,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}single{\r} {\c&H00A8F2FF&}project, {\c&H00A8F2FF&}phone
+Dialogue: 0,0:00:12.58,0:00:13.52,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}single {\c&H0066D1FF&\fscx108\fscy108}project,{\r} {\c&H00A8F2FF&}phone
+Dialogue: 0,0:00:13.52,0:00:13.79,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}single {\c&H00A8F2FF&}project, {\c&H0066D1FF&\fscx108\fscy108}phone{\r}
+Dialogue: 0,0:00:13.74,0:00:14.50,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}call,{\r} {\c&H00A8F2FF&}or {\c&H00A8F2FF&}chore
+Dialogue: 0,0:00:14.50,0:00:14.62,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}call, {\c&H0066D1FF&\fscx108\fscy108}or{\r} {\c&H00A8F2FF&}chore
+Dialogue: 0,0:00:14.62,0:00:14.87,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}call, {\c&H00A8F2FF&}or {\c&H0066D1FF&\fscx108\fscy108}chore{\r}
+Dialogue: 0,0:00:14.82,0:00:15.10,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}that{\r} {\c&H00A8F2FF&}you {\c&H00A8F2FF&}have
+Dialogue: 0,0:00:15.10,0:00:15.26,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}that {\c&H0066D1FF&\fscx108\fscy108}you{\r} {\c&H00A8F2FF&}have
+Dialogue: 0,0:00:15.26,0:00:15.43,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}that {\c&H00A8F2FF&}you {\c&H0066D1FF&\fscx108\fscy108}have{\r}
+Dialogue: 0,0:00:15.38,0:00:15.52,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}been{\r} {\c&H00A8F2FF&}putting {\c&H00A8F2FF&}off
+Dialogue: 0,0:00:15.52,0:00:15.72,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}been {\c&H0066D1FF&\fscx108\fscy108}putting{\r} {\c&H00A8F2FF&}off
+Dialogue: 0,0:00:15.72,0:00:16.09,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}been {\c&H00A8F2FF&}putting {\c&H0066D1FF&\fscx108\fscy108}off{\r}
+Dialogue: 0,0:00:16.04,0:00:16.24,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}for{\r} {\c&H00A8F2FF&}the
+Dialogue: 0,0:00:16.24,0:00:16.37,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}for {\c&H0066D1FF&\fscx108\fscy108}the{\r}
+Dialogue: 0,0:00:16.32,0:00:16.54,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}past{\r} {\c&H00A8F2FF&}week.
+Dialogue: 0,0:00:16.54,0:00:17.08,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}past {\c&H0066D1FF&\fscx108\fscy108}week.{\r}
+Dialogue: 0,0:00:18.00,0:00:18.16,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}Bring{\r} {\c&H00A8F2FF&}it {\c&H00A8F2FF&}into
+Dialogue: 0,0:00:18.16,0:00:18.32,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Bring {\c&H0066D1FF&\fscx108\fscy108}it{\r} {\c&H00A8F2FF&}into
+Dialogue: 0,0:00:18.32,0:00:18.51,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Bring {\c&H00A8F2FF&}it {\c&H0066D1FF&\fscx108\fscy108}into{\r}
+Dialogue: 0,0:00:18.46,0:00:18.72,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}your{\r} {\c&H00A8F2FF&}mind
+Dialogue: 0,0:00:18.72,0:00:19.01,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}your {\c&H0066D1FF&\fscx108\fscy108}mind{\r}
+Dialogue: 0,0:00:18.96,0:00:19.26,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}right{\r} {\c&H00A8F2FF&}now.
+Dialogue: 0,0:00:19.26,0:00:19.80,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}right {\c&H0066D1FF&\fscx108\fscy108}now.{\r}
+Dialogue: 0,0:00:21.38,0:00:22.10,ShortsPop,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx115\fscy115}5.{\r}
+Dialogue: 0,0:00:24.47,0:00:25.18,ShortsPop,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx115\fscy115}4.{\r}
+Dialogue: 0,0:00:26.38,0:00:27.20,ShortsPop,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx115\fscy115}3.{\r}
+Dialogue: 0,0:00:30.65,0:00:31.20,ShortsPop,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx115\fscy115}2.{\r}
+Dialogue: 0,0:00:33.73,0:00:34.30,ShortsPop,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx115\fscy115}1.{\r}
+Dialogue: 0,0:00:36.62,0:00:37.08,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}Notice{\r} {\c&H00A8F2FF&}what {\c&H00A8F2FF&}happened
+Dialogue: 0,0:00:37.08,0:00:37.36,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Notice {\c&H0066D1FF&\fscx108\fscy108}what{\r} {\c&H00A8F2FF&}happened
+Dialogue: 0,0:00:37.36,0:00:37.71,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Notice {\c&H00A8F2FF&}what {\c&H0066D1FF&\fscx108\fscy108}happened{\r}
+Dialogue: 0,0:00:37.66,0:00:37.84,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}in{\r} {\c&H00A8F2FF&}your {\c&H00A8F2FF&}body
+Dialogue: 0,0:00:37.84,0:00:37.96,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}in {\c&H0066D1FF&\fscx108\fscy108}your{\r} {\c&H00A8F2FF&}body
+Dialogue: 0,0:00:37.96,0:00:38.21,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}in {\c&H00A8F2FF&}your {\c&H0066D1FF&\fscx108\fscy108}body{\r}
+Dialogue: 0,0:00:38.16,0:00:38.42,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}the{\r} {\c&H00A8F2FF&}moment {\c&H00A8F2FF&}that
+Dialogue: 0,0:00:38.42,0:00:38.72,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}the {\c&H0066D1FF&\fscx108\fscy108}moment{\r} {\c&H00A8F2FF&}that
+Dialogue: 0,0:00:38.72,0:00:38.99,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}the {\c&H00A8F2FF&}moment {\c&H0066D1FF&\fscx108\fscy108}that{\r}
+Dialogue: 0,0:00:38.94,0:00:39.22,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}task{\r} {\c&H00A8F2FF&}flashed {\c&H00A8F2FF&}in
+Dialogue: 0,0:00:39.22,0:00:39.56,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}task {\c&H0066D1FF&\fscx108\fscy108}flashed{\r} {\c&H00A8F2FF&}in
+Dialogue: 0,0:00:39.56,0:00:40.01,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}task {\c&H00A8F2FF&}flashed {\c&H0066D1FF&\fscx108\fscy108}in{\r}
+Dialogue: 0,0:00:39.96,0:00:40.06,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}your{\r} {\c&H00A8F2FF&}mind.
+Dialogue: 0,0:00:40.06,0:00:40.58,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}your {\c&H0066D1FF&\fscx108\fscy108}mind.{\r}
+Dialogue: 0,0:00:41.65,0:00:41.80,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}Did{\r} {\c&H00A8F2FF&}your {\c&H00A8F2FF&}breathing
+Dialogue: 0,0:00:41.65,0:00:41.72,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Did {\c&H0066D1FF&\fscx108\fscy108}your{\r} {\c&H00A8F2FF&}breathing
+Dialogue: 0,0:00:41.72,0:00:42.13,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Did {\c&H00A8F2FF&}your {\c&H0066D1FF&\fscx108\fscy108}breathing{\r}
+Dialogue: 0,0:00:42.08,0:00:42.44,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}shallow{\r} {\c&H00A8F2FF&}out?
+Dialogue: 0,0:00:42.44,0:00:43.12,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}shallow {\c&H0066D1FF&\fscx108\fscy108}out?{\r}
+Dialogue: 0,0:00:43.62,0:00:44.04,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}Did{\r} {\c&H00A8F2FF&}you {\c&H00A8F2FF&}feel
+Dialogue: 0,0:00:44.04,0:00:44.20,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Did {\c&H0066D1FF&\fscx108\fscy108}you{\r} {\c&H00A8F2FF&}feel
+Dialogue: 0,0:00:44.20,0:00:44.47,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Did {\c&H00A8F2FF&}you {\c&H0066D1FF&\fscx108\fscy108}feel{\r}
+Dialogue: 0,0:00:44.42,0:00:44.56,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}a{\r} {\c&H00A8F2FF&}tiny {\c&H00A8F2FF&}knot
+Dialogue: 0,0:00:44.56,0:00:44.80,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}a {\c&H0066D1FF&\fscx108\fscy108}tiny{\r} {\c&H00A8F2FF&}knot
+Dialogue: 0,0:00:44.80,0:00:45.17,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}a {\c&H00A8F2FF&}tiny {\c&H0066D1FF&\fscx108\fscy108}knot{\r}
+Dialogue: 0,0:00:45.12,0:00:45.26,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}in{\r} {\c&H00A8F2FF&}your
+Dialogue: 0,0:00:45.26,0:00:45.45,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}in {\c&H0066D1FF&\fscx108\fscy108}your{\r}
+Dialogue: 0,0:00:45.40,0:00:45.66,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}solar{\r} {\c&H00A8F2FF&}plexus?
+Dialogue: 0,0:00:45.66,0:00:46.46,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}solar {\c&H0066D1FF&\fscx108\fscy108}plexus?{\r}
+Dialogue: 0,0:00:47.10,0:00:47.52,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}Did{\r} {\c&H00A8F2FF&}an {\c&H00A8F2FF&}internal
+Dialogue: 0,0:00:47.52,0:00:47.64,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Did {\c&H0066D1FF&\fscx108\fscy108}an{\r} {\c&H00A8F2FF&}internal
+Dialogue: 0,0:00:47.64,0:00:47.99,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}Did {\c&H00A8F2FF&}an {\c&H0066D1FF&\fscx108\fscy108}internal{\r}
+Dialogue: 0,0:00:47.94,0:00:48.28,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}voice{\r} {\c&H00A8F2FF&}whisper, {\c&H00A8F2FF&}I'll
+Dialogue: 0,0:00:48.28,0:00:49.10,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}voice {\c&H0066D1FF&\fscx108\fscy108}whisper,{\r} {\c&H00A8F2FF&}I'll
+Dialogue: 0,0:00:49.10,0:00:49.37,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}voice {\c&H00A8F2FF&}whisper, {\c&H0066D1FF&\fscx108\fscy108}I'll{\r}
+Dialogue: 0,0:00:49.32,0:00:49.44,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}do{\r} {\c&H00A8F2FF&}that
+Dialogue: 0,0:00:49.44,0:00:49.67,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}do {\c&H0066D1FF&\fscx108\fscy108}that{\r}
+Dialogue: 0,0:00:49.62,0:00:49.86,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H0066D1FF&\fscx108\fscy108}later{\r} {\c&H00A8F2FF&}tonight?
+Dialogue: 0,0:00:49.86,0:00:50.42,ShortsDefault,,0,0,0,,{\pos(540,1330)}{\c&H00A8F2FF&}later {\c&H0066D1FF&\fscx108\fscy108}tonight?{\r}

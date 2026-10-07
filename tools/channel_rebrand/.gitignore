@@ -1,0 +1,4 @@
+# OAuth secrets and private channel data - never commit
+client_secret.json
+token.json
+rebrand_output/

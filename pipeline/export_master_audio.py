@@ -4,9 +4,9 @@ import re
 import subprocess
 import edge_tts
 
-VOICE = "en-US-ChristopherNeural"
-RATE = "-3%"
-PITCH = "-2Hz"
+VOICE = "en-US-AndrewMultilingualNeural"
+RATE = "-4%"
+PITCH = "-1Hz"
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 AUDIO_DIR = os.path.join(BASE_DIR, "audio")
@@ -16,6 +16,33 @@ TELEPROMPTER_FILE = os.path.join(BASE_DIR, "teleprompter_clean.txt")
 os.makedirs(AUDIO_DIR, exist_ok=True)
 os.makedirs(TEMP_DIR, exist_ok=True)
 
+def apply_broadcast_mastering(raw_input_path, mastered_output_path):
+    """
+    Applies a 5-stage broadcast audio mastering chain:
+    1. 75Hz Highpass (kills synthetic sub-rumble)
+    2. 120Hz Warmth Boost (adds radio broadcaster chest resonance)
+    3. 3400Hz Presence Boost (crisp consonants)
+    4. 7200Hz De-Esser (tames harsh sibilance)
+    5. Dynamic Compression + EBU R128 Loudness Normalization (-14 LUFS)
+    """
+    filtergraph = (
+        "highpass=f=75,"
+        "equalizer=f=120:t=q:w=1.2:g=3.2,"
+        "equalizer=f=3400:t=q:w=1.0:g=2.5,"
+        "equalizer=f=7200:t=q:w=2.0:g=-2.5,"
+        "compand=attacks=0.02:decays=0.15:points=-60/-60|-24/-18|-12/-8|0/-3:gain=2,"
+        "loudnorm=I=-14:LRA=7:TP=-1.5"
+    )
+    cmd = [
+        "ffmpeg", "-y",
+        "-i", raw_input_path,
+        "-af", filtergraph,
+        "-c:a", "libmp3lame",
+        "-b:a", "192k",
+        mastered_output_path
+    ]
+    subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
+
 def parse_pause_duration(pause_text):
     # e.g., [PAUSE 1.5s] or [PAUSE 5.0s COUNTDOWN]
     match = re.search(r'([\d\.]+)s', pause_text)
@@ -24,16 +51,18 @@ def parse_pause_duration(pause_text):
     return 1.5
 
 def create_silence(duration_sec, output_path):
+    # Generates soft room-tone ambience instead of harsh zero digital vacuum
     cmd = [
         "ffmpeg", "-y",
         "-f", "lavfi",
-        "-i", f"anullsrc=r=24000:cl=mono",
+        "-i", f"anoisesrc=d={duration_sec}:c=pink:r=24000:a=0.0001",
         "-t", str(duration_sec),
         "-acodec", "libmp3lame",
         "-b:a", "48k",
         output_path
     ]
     subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
+
 
 def get_audio_duration(file_path):
     cmd = [
@@ -148,8 +177,17 @@ async def main():
     ]
     subprocess.run(concat_cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
 
+    # Apply 5-Stage Broadcast Mastering Chain
+    raw_unmastered_path = os.path.join(AUDIO_DIR, "full_voiceover_raw_unmastered.mp3")
+    if os.path.exists(raw_unmastered_path):
+        os.remove(raw_unmastered_path)
+    os.rename(master_audio_path, raw_unmastered_path)
+    print(f"Applying 5-Stage Broadcast Mastering Chain (-14 LUFS, Broadcast EQ)...")
+    apply_broadcast_mastering(raw_unmastered_path, master_audio_path)
+
     master_duration = get_audio_duration(master_audio_path)
-    print(f"Master voiceover created successfully! Final duration: {master_duration:.2f}s ({int(master_duration//60)}m {int(master_duration%60)}s)")
+    print(f"Master voiceover broadcast-mastered! Final duration: {master_duration:.2f}s ({int(master_duration//60)}m {int(master_duration%60)}s)")
+
 
     # Generate Act-specific voiceover files
     # Act 1: chunks up to "It's running an ancient, life-or-death survival simulation."
